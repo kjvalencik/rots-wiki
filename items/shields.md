@@ -8,14 +8,12 @@
 
 ### a shield with the crest of Lake-town
 
-#### Description
-
 > Emblazoned with the crest of Lake-town, this shield has been finely made.
 > It is made of a light, yet strong metal, and should provide good protection.
 
 #### Specifications
 
-> This shield can be taken and used in the off hand.
+* This shield can be taken and used in the off hand.
 
 | Specification | Value   |
 |---------------|---------|
