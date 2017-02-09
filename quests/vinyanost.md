@@ -10,7 +10,7 @@ center around mobiles found in Vinyanost.
 * [The Foul Couple](#the-foul-couple)
 * [Zark Valemspur](#zark-valemspur)
 
-## Lieutenant of the Guard
+## A Lieutenant of the Guard
 
 Information about several quests can be discovered from lieutenant of the
 guard with `say yes`. He can be found one room north of the Central Square of
