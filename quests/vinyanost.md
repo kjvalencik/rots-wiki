@@ -6,8 +6,10 @@ center around mobiles found in Vinyanost.
 ## Table of Contents
 
 * [Buris the Drunk](#buris-the-drunk)
+* [Heros](#heros)
 * [Lindia of Vinyanost](#lindia-of-vinyanost)
 * [The Foul Couple](#the-foul-couple)
+* [Weaponsmith's Apprentice](#weaponsmiths-apprentice)
 * [Zark Valemspur](#zark-valemspur)
 
 ## A Lieutenant of the Guard
@@ -32,7 +34,7 @@ Vinyanost. You need to bring proof of his death to
 
 Recommended Level: `4`
 
-#### Tips
+#### Hints
 
 Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 `say buris` to get information on this quest.
@@ -68,6 +70,46 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 * [a leather helmet](/items/armour.md#a-leather-helmet)
 * [a bastard sword](/items/weapons.md#a-bastard-sword)
 
+### Heros
+
+Heros the shadow king can be found where the logger's pathway becomes eerie
+west of the Northern Road shortly north of Vinyanost.
+
+Recommended Level: `6`
+
+#### Hints
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `say open`
+1. `n`
+1. `n;n;n;n;n;w;w;w;w;n;n;n;w;w;w;n;w;w;w;w;n;n;w`
+1. `The Lair of the Beast    Exits are: E`
+1. `kill beast`
+1. `s;s;s;e;e;e;e;s;e`
+1. `On a Throne of Glory    Exits are: W`
+1. `kill heros` if he did not already attack
+1. `get hilt corp`
+1. `w;n;w;w;w;w;n;n`
+1. `open rockdoor`
+1. `e;s;s;e;e;e;e;s;e;e;e;s;s;s;e;e;e;e;s;s;s;s;s`
+1. `say open`
+1. `s`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+
+</details>
+
+#### Reward
+
+a sword hilt
+
+> This sword hilt seems to be in good condition, albeit lacking an attached
+> blade. The handle is wrapped in leather, and the hilt itself is made from
+> wood, smoothed and polished.
+
+Required by the weaponsmith's apprentice quest.
+
 ### Lindia of Vinyanost
 
 Lindia is a mother who lives off the Eastern Road a very short journey west of
@@ -75,7 +117,7 @@ the town of Vinyanost with her young son. Her son is need of a new blanket.
 
 Recommended Level: `1`
 
-#### Tips
+#### Hints
 
 Head west from the center of Vinyanost and look for a house just north of the
 road. You will need to make a couple of trips between Lindia and the old tailor
@@ -114,7 +156,7 @@ Vinyanost. You need to bring the man's severed hand to
 
 Recommended Level: `3`
 
-#### Tips
+#### Hints
 
 Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 `say foul` to get information on this quest.
@@ -151,13 +193,134 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 
 * [a soldier's ration](#/items/food.md#a-soldiers-ration) (2x)
 
+### Weaponsmith's Apprentice
+
+The weaponsmith's apprentice has worked hard for many years and his eager to
+prove his worth. If you bring him the pieces of a broken weapon, he may be able
+to repair it.
+
+#### Hints
+
+Find the weaponsmith's apprentice in Vinyanost and `say quest`.
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `e;e;n;n;n;n;n;e`
+1. `Northern Forge    Exits are: S W`
+1. `say quest`
+1. `give hilt apprentice`
+1. `give shard apprentice`
+
+</details>
+
+#### Rewards
+
+##### [a fine dagger](/items/weapons.md#a-fine-dagger)
+
+Requires a dagger hilt and a shard of metal. The hilt can be found in a crate
+guarded by a veteran bandit of [Zark Valemspur](#zark-valemspur).
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `knock heavygate`
+1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
+1. `n;n;n;n;n;n;n;e;n;e;e`
+1. `Thinning Forest    Exits are: (N) S W`
+1. `open dirtygate`
+1. `n;n;n;w;n;n`
+1. `open hutdoor w`
+1. `w`
+1. `A Crudely Fashioned Hut    Exits are: E (S)`
+1. `get hilt crate`
+1. `e;s;s;e;s;s;s;w;w;s;w;s;s;s;s;s;s;s`
+1. `say open`
+1. `s`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+
+</details>
+
+The shard of metal can be found in the corpse of a victim of a warg plaguing
+the [Logger's Foreman](#loggers-foreman).
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `w;w;w;w;n;n;n`
+1. `Path before a Small Fort    Exits are: N E S (W)`
+1. `knock gates`
+1. `w;n;w;w`
+1. `Between Two Walls, Inside the Gate    Exits are: E (W)`
+1. `open woodengate`
+1. `Barren Wood    Exits are: N E W`
+1. `get shard corp`
+1. `e;n;n;e;e;e;e;s`
+1. `say open`
+1. `s;s;s;e;e;e;e`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+
+</details>
+
+##### [a fine longsword](/items/weapons.md#a-fine-longsword)
+
+Requires [a sword hilt](#heros) and the shards of a long blade. The shards can
+be found in crate guarded by [Buris the Drunk](#buris-the-drunk).
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `w;w;w;w;w;w;w`
+1. `open door`
+1. `n`
+1. `open wall`
+1. `w`
+1. `A Thief's Hideout    Exits are: E`
+1. `get shards crate`
+1. `e;s;e;e;e;e;e;e;e`
+
+</details>
+
+##### [a fine shortsword](/items/weapons.md#a-fine-shortsword)
+
+Requires [a sword hilt](#heros) and the shards of a short blade. The shards can
+be found on a corpse a shallow depression off of the Northern Road. The
+depression can be found near the abandoned cotton shop.
+
+Recommended Level: `6-10`
+
+The exit to the room is guarded by several roots. It is possible to slip past,
+but if you need to kill them it will require a character on the higher end
+of the range.
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `knock heavygate`
+1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
+1. `n;n;n;n;n;n;n;n;n;w;n;n;n;n;n;d`
+1. `Northern Road underhill    Exits are: N E W U`
+1. `n;n;e;n;n;n;w;n;n;n;n;e;n;n;n;w;n;n;n;w;n;n;e;n;e;e;s`
+1. `Shallow Depression    Exits are: N E S D`
+1. `d`
+1. `Within a Shallow Hole    Exits are: U`
+1. `get shard corp`
+1. `u`
+1. `n;w;w;s;w;s;s;e;s;s;s;e;s;s;s;w;s;s;s;s;e;s;s;s;w;s;s`
+1. `Northern Road underhill    Exits are: N E W U`
+1. `u;s;s;s;s;s;e;s;s;s;s;s;s;s;s;s`
+
+</details>
+
 ### Zark Valemspur
 
 Zark Valemspur is a bandit who lives in a small fort off of the Northern Road
 just north of Vinyanost. You need to bring proof of his death to
 [a lieutenant of the guard](#a-lieutenant-of-the-guard).
 
-#### Tips
+#### Hints
 
 Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 `say zark` to get information on this quest.
@@ -169,6 +332,7 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 1. `n`
 1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
 1. `n;n;n;n;n;n;n;e;n;e;e`
+1. `Thinning Forest    Exits are: (N) S W`
 1. `open dirtygate`
 1. `n;n;n;w;n;n`
 1. `open hutdoor w`
