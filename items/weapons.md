@@ -2,9 +2,41 @@
 
 ## Table of Contents
 
+* [Cleaving](#cleaving)
 * [Piercing](#piercing)
 * [Slashing](#slashing)
 * [Stabbing](#Stabbing)
+
+## Cleaving
+
+* [a forester's axe](#a-foresters-axe)
+
+### a forester's axe
+
+> The long shaft of ironwood runs smoothly up into the massive head of this
+> axe. The head is large and shiny, shaped into a half moon of wickedly sharp
+> metal. Bits of wood and sap cling to he blade, attesting to the fact that this
+> axe has been used recently.
+
+Damage Rating      57/10.
+Offensive Bonus   4.
+Parry Bonus      -5.
+Bulk              3.
+
+#### Specifications
+
+* This weapon is made of metal
+* This weapon can be taken and wielded
+* The weapon you hold is a cleaving weapon
+
+| Specification   | Value                          |
+|-----------------|--------------------------------|
+| Weight          | 6.4 lbs                        |
+| Damage Rating   | 57/10                          |
+| Offensive Bonus | 4                              |
+| Parry Bonus     | -5                             |
+| Bulk            | 3                              |
+| Value           | 1 gold, 6 silver and 87 copper |
 
 ## Piercing
 

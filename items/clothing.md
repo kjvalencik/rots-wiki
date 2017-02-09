@@ -5,6 +5,7 @@
 * [Body](#body)
 * [Head](#head)
 * [Finger](#finger)
+* [Feet](#feet)
 * [Legs](#legs)
 * [Waist](#waist)
 
@@ -79,6 +80,34 @@
 #### Affections
 
 * +1 to OB
+
+## Feet
+
+* [a pair of soft leather boots](#a-pair-of-soft-leather-boots)
+
+### a pair of soft leather boots
+
+> Soft, thin, and comfortable, these boots offer from slight protection from
+> the elements, and are great for walking in.
+
+#### Specifications
+
+* This piece of armour is made of leather
+* This piece of armour can be taken and worn on the feet.
+
+| Specification  | Value     |
+|----------------|-----------|
+| Weight         | 0.9 lbs   |
+| Absorbtion     | 8         |
+| Absorbtion     | 0         |
+| Min Absorbtion | 0         |
+| Encumberance   | 0         |
+| Dodge          | 0         |
+| Value          | 15 copper |
+
+#### Affections
+
+* +10 to MOVE
 
 ## Legs
 

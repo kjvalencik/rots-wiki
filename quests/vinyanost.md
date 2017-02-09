@@ -6,9 +6,10 @@ center around mobiles found in Vinyanost.
 ## Table of Contents
 
 * [Buris the Drunk](#buris-the-drunk)
+* [The Foul Couple](#the-foul-couple)
 * [Heros](#heros)
 * [Lindia of Vinyanost](#lindia-of-vinyanost)
-* [The Foul Couple](#the-foul-couple)
+* [The Logger's Foreman](#the-loggers-foreman)
 * [Weaponsmith's Apprentice](#weaponsmiths-apprentice)
 * [Zark Valemspur](#zark-valemspur)
 
@@ -70,6 +71,51 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 * [a leather helmet](/items/armour.md#a-leather-helmet)
 * [a bastard sword](/items/weapons.md#a-bastard-sword)
 
+### The Foul Couple
+
+The Foul Couple are a pungent who live off of the Northern Road just north of
+Vinyanost. You need to bring the man's severed hand to
+[a lieutenant of the guard](#a-lieutenant-of-the-guard).
+
+Recommended Level: `3`
+
+#### Hints
+
+Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
+`say foul` to get information on this quest.
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `knock heavygate`
+1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
+1. `n;n;n;n;n;w;w;w;w;n;n;n;w;w;w;n;w;w;n;e;n`
+1. `A Seedy Campsite    Exits are: S`
+1. `kill man`
+1. `get hand corpse`
+1. `s;w;s;e;e;s;e;e;e;s;s;s;e;e;e;e;s;s;s;s;s`
+1. `give hand lieutenant`
+
+</details>
+
+#### Rewards
+
+##### On man's corpse
+
+* [a long black knife](/items/weapons.md#a-long-black-knife)
+* [a black pair of cotton pants](/items/clothing.md#a-black-pair-of-cotton-pants)
+
+##### On woman's corpse
+
+* [a dagger](/items/weapons.md#a-dagger)
+* [a black pair of cotton pants](/items/clothing.md#a-black-pair-of-cotton-pants)
+* [a black cotton blouse](/items/clothing.md#a-black-cotton-blouse)
+
+##### From lieutenant
+
+* [a soldier's ration](#/items/food.md#a-soldiers-ration) (2x)
+
 ### Heros
 
 Heros the shadow king can be found where the logger's pathway becomes eerie
@@ -90,7 +136,7 @@ Recommended Level: `6`
 1. `s;s;s;e;e;e;e;s;e`
 1. `On a Throne of Glory    Exits are: W`
 1. `kill heros` if he did not already attack
-1. `get hilt corp`
+1. `get hilt corpse`
 1. `w;n;w;w;w;w;n;n`
 1. `open rockdoor`
 1. `e;s;s;e;e;e;e;s;e;e;e;s;s;s;e;e;e;e;s;s;s;s;s`
@@ -148,50 +194,50 @@ in Vinyansot.
 
 [a shield with the crest of Lake-town](/items/shields.md#a-shield-with-the-crest-of-lake-town)
 
-### The Foul Couple
+### The Logger's Foreman
 
-The Foul Couple are a pungent who live off of the Northern Road just north of
-Vinyanost. You need to bring the man's severed hand to
-[a lieutenant of the guard](#a-lieutenant-of-the-guard).
+The Logger's Foreman resides in a fort immediately northwest of Vinyanost. He
+has been plagued by a baneful warg and will reward any adventurer who comes to
+his aid.
 
-Recommended Level: `3`
+Recommended Level: `4`
 
 #### Hints
 
-Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
-`say foul` to get information on this quest.
+Leave Vinyanost to the west and immediately start traveling north.
 
 <details><summary>**Show Details**</summary>
 
 1. `Central Square of Vinyanost    Exits are: (N) E S W`
-1. `knock heavygate`
-1. `n`
-1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
-1. `n;n;n;n;n;w;w;w;w;n;n;n;w;w;w;n;w;w;n;e;n`
-1. `A Seedy Campsite    Exits are: S`
-1. `kill man`
-1. `get hand corp`
-1. `s;w;s;e;e;s;e;e;e;s;s;s;e;e;e;e;s;s;s;s;s`
-1. `give hand lieutenant`
+1. `w;w;w;w;n;n;n`
+1. `Path before a Small Fort    Exits are: N E S (W)`
+1. `knock gates`
+1. `w;n;w;w`
+1. `Between Two Walls, Inside the Gate    Exits are: E (W)`
+1. `open woodengate`
+1. `w;w;s;s;w;w;w;w`
+1. `Dull Trees    Exits are: N E`
+1. `kill warg`
+1. `get coat corpse`
+1. `e;e;e;e;n;n;e;e;e;s`
+1. `Inside the Walls, Before a Low Building    Exits are: N E (W)`
+1. `open barracksdoor`
+1. `w`
+1. `open door`
+1. `w`
+1. `Small Room at the Back of the Fort    Exits are: E`
+1. `give coat foreman`
+1. `e;e;e`
+1. `say open`
+1. `e;s;s;s;e;e;e;e`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
 
 </details>
 
 #### Rewards
 
-##### On man's corpse
-
-* [a long black knife](/items/weapons.md#a-long-black-knife)
-* [a black pair of cotton pants](/items/clothing.md#a-black-pair-of-cotton-pants)
-
-##### On woman's corpse
-
-* [a dagger](/items/weapons.md#a-dagger)
-* [a black pair of cotton pants](/items/clothing.md#a-black-pair-of-cotton-pants)
-* [a black cotton blouse](/items/clothing.md#a-black-cotton-blouse)
-
-##### From lieutenant
-
-* [a soldier's ration](#/items/food.md#a-soldiers-ration) (2x)
+* [a pair of soft leather boots](/items/weapons.md#a-pair-of-soft-leather-boots)
+* [a forester's axe](/items/weapons.md#a-foresters-axe)
 
 ### Weaponsmith's Apprentice
 
@@ -254,8 +300,9 @@ the [Logger's Foreman](#loggers-foreman).
 1. `w;n;w;w`
 1. `Between Two Walls, Inside the Gate    Exits are: E (W)`
 1. `open woodengate`
+1. `w;w;s;s;w`
 1. `Barren Wood    Exits are: N E W`
-1. `get shard corp`
+1. `get shard corpse`
 1. `e;n;n;e;e;e;e;s`
 1. `say open`
 1. `s;s;s;e;e;e;e`
@@ -306,7 +353,7 @@ of the range.
 1. `Shallow Depression    Exits are: N E S D`
 1. `d`
 1. `Within a Shallow Hole    Exits are: U`
-1. `get shard corp`
+1. `get shard corpse`
 1. `u`
 1. `n;w;w;s;w;s;s;e;s;s;s;e;s;s;s;w;s;s;s;s;e;s;s;s;w;s;s`
 1. `Northern Road underhill    Exits are: N E W U`
@@ -340,8 +387,8 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 1. `open piledwood`
 1. `An Extravagant Hidden Alcove in the Hut    Exits are: N`
 1. `kill zark`
-1. `get locket corp`
-1. `get head corp`
+1. `get locket corpse`
+1. `get head corpse`
 1. `open secretdoor`
 1. `n;e;s;s;e;s;s;s;w;w;s;w;s;s;s;s;s;s;s`
 1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
