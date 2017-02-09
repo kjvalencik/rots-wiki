@@ -111,6 +111,8 @@ The Foul Couple are a pungent who live off of the Northern Road just north of
 Vinyanost. You need to bring the man's severed hand to
 [a lieutenant of the guard](#a-lieutenant-of-the-guard).
 
+Recommended Level: `3`
+
 #### Tips
 
 Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
