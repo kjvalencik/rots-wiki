@@ -16,7 +16,7 @@ Information about several quests can be discovered from lieutenant of the
 guard with `say yes`. He can be found one room north of the Central Square of
 Vinyanost.
 
-`An Open Courtyard Inside the Gates of the Fortress    Exits are: N S`
+`An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
 
 * [`say buris`](#buris-the-drunk)
 * [`say foul`](#the-foul-couple)
@@ -39,7 +39,7 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 
 <details><summary>**Show Details**</summary>
 
-1. Start at `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
 1. `w;w;w;w;w;w;w`
 1. `open door`
 1. `n`
@@ -50,6 +50,7 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 1. `e;s;e;e;e;e;e;e;e`
 1. `knock heavygate`
 1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
 1. `give foot lieutenant`
 
 </details>
@@ -64,7 +65,7 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 
 ##### From lieutenant
 
-* [a leather helmet](/items/armor.md#a-leather-helmet)
+* [a leather helmet](/items/armour.md#a-leather-helmet)
 * [a bastard sword](/items/weapons.md#a-bastard-sword)
 
 ### Lindia of Vinyanost
@@ -82,7 +83,7 @@ in Vinyansot.
 
 <details><summary>**Show Details**</summary>
 
-1. Start at `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
 1. `w;w;w;w;w;w;w;w;w;w;w;w;w`
 1. `open woodendoor`
 1. `n;e`
@@ -120,8 +121,10 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 
 <details><summary>**Show Details**</summary>
 
-1. Start at `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
 1. `knock heavygate`
+1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
 1. `n;n;n;n;n;w;w;w;w;n;n;n;w;w;w;n;w;w;n;e;n`
 1. `A Seedy Campsite    Exits are: S`
 1. `kill man`
@@ -159,11 +162,64 @@ just north of Vinyanost. You need to bring proof of his death to
 Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 `say zark` to get information on this quest.
 
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `knock heavygate`
+1. `n`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
+1. `n;n;n;n;n;n;n;e;n;e;e`
+1. `open dirtygate`
+1. `n;n;n;w;n;n`
+1. `open hutdoor w`
+1. `w`
+1. `open piledwood`
+1. `An Extravagant Hidden Alcove in the Hut    Exits are: N`
+1. `kill zark`
+1. `get locket corp`
+1. `get head corp`
+1. `open secretdoor`
+1. `n;e;s;s;e;s;s;s;w;w;s;w;s;s;s;s;s;s;s`
+1. `An Open Courtyard Inside the Gates of the Fortress    Exits are: N (S)`
+1. `give head lieutenant`
+
+</details>
+
 Zark has a small chance of loading a silver locket. If he does, take this locket
 to Kara north of Mathelberg.
 
 <details><summary>**Show Details**</summary>
 
-*TODO*
+1. `A Small Plaza    Exits are: N E S W`
+1. `n`
+1. `open woodengate`
+1. `n;n;n`
+1. `open woodengate`
+1. `n;n;w;w;n`
+1. `open northgate`
+1. `n;n;n`
+1. `open door`
+1. `n`
+1. `A Bleak Hut    Exits are: (S)`
+1. `give locket kara`
 
 </details>
+
+#### Rewards
+
+##### On Zark's corpse
+
+* [a long, wooden spear](/items/weapons.md#a-long-wooden-spear)
+* [a studded leather belt](/items/clothing.md#a-studded-leather-belt)
+* [a thick pair of leather sleeves](/items/armour.md#a-thick-pair-of-leather-sleeves)
+* [a pair of thin metal boots](/items/armour.md#a-pair-of-thin-metal-boots)
+* [a pair of thin chain mail leggings](/items/armour.md#a-pair-of-thin-chain-mail-leggings)
+* [a heavy leather jerkin](/items/armour.md#a-heavy-leather-jerkin)
+
+##### From lieutenant
+
+* [an encrusted ring](/items/clothing.md#an-encrusted-ring)
+
+##### From Kara
+
+* [a blue candle](/items/light.md#a-blue-candle)

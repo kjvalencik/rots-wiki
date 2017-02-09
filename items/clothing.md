@@ -4,7 +4,9 @@
 
 * [Body](#body)
 * [Head](#head)
+* [Finger](#finger)
 * [Legs](#legs)
+* [Waist](#waist)
 
 ## Body
 
@@ -27,10 +29,6 @@
 | Encumberance   | 0        |
 | Dodge          | 1        |
 | Value          | 2 copper |
-
-#### Attributes
-
-*None*
 
 ## Head
 
@@ -58,9 +56,29 @@
 | Dodge          | 2         |
 | Value          | 12 copper |
 
-#### Attributes
+## Finger
 
-*None*
+* [an encrusted ring](#an-encrusted-ring)
+
+### an encrusted ring
+
+> Many encrusted jewels surround the exterior of this golden ring. All
+> different colors are being reflected, bringing luster and light to areas that
+> seemingly had none. The ring causes many a pause effect from passersby. A
+> kingly piece, it would make a fine addition to any jewelry collection.
+
+#### Specifications
+
+* This piece of treasure is made of the usual stuff
+* This piece of treasure can be taken and worn on your finger
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 0.1 lbs |
+
+#### Affections
+
+* +1 to OB
 
 ## Legs
 
@@ -84,6 +102,24 @@
 | Dodge          | 1        |
 | Value          | 1 copper |
 
-#### Attributes
+## Waist
 
-*None*
+* [a studded leather belt](#a-studded-leather-belt)
+
+### a studded leather belt
+
+> This belt has been decorated with several metallic studs.
+
+#### Specifications
+
+* This piece of armour is made of leather
+* This piece of armour can be taken and worn about the waist
+
+| Specification  | Value     |
+|----------------|-----------|
+| Weight         | 1.5 lbs   |
+| Absorbtion     | 0         |
+| Min Absorbtion | 0         |
+| Encumberance   | 0         |
+| Dodge          | 1         |
+| Value          | 15 copper |

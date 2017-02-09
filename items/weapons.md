@@ -4,6 +4,7 @@
 
 * [Piercing](#piercing)
 * [Slashing](#slashing)
+* [Stabbing](#Stabbing)
 
 ## Piercing
 
@@ -32,10 +33,6 @@
 | Bulk            | 1         |
 | Value           | 30 copper |
 
-#### Attributes
-
-*None*
-
 ### a long black knife
 
 > This black hilted knife is quite light and sharp, with a thin foot long
@@ -57,10 +54,6 @@
 | Parry Bonus     | 2                      |
 | Bulk            | 1                      |
 | Value           | 1 silver and 87 copper |
-
-#### Attributes
-
-*None*
 
 ## Slashing
 
@@ -92,10 +85,6 @@
 | Bulk            | 5                              |
 | Value           | 1 gold, 6 silver and 87 copper |
 
-#### Attributes
-
-*None*
-
 ### a steel scimitar
 
 > This heavy, single-edged curved bladed sword is a fierce weapon in the
@@ -120,6 +109,28 @@
 | Bulk            | 4                              |
 | Value           | 1 gold, 6 silver and 87 copper |
 
-#### Attributes
+## Stabbing
 
-*None*
+* [a long, wooden spear](#a-long-wooden-spear)
+
+### a long, wooden spear
+
+> Comprised entirely from wood, this spear is about six foot in length,
+> including the shaft and tip. Primitive in its appearence, this spear however
+> could do substantial damage to an opponent, in the hands of even a semi
+> skilled user.
+
+#### Specifications
+
+* This weapon is made of wood
+* This weapon can be taken and wielded
+* The weapon you hold is a stabbing weapon
+
+| Specification   | Value    |
+|-----------------|----------|
+| Weight          | 12.0 lbs |
+| Damage Rating   | 60/10    |
+| Offensive Bonus | 5        |
+| Parry Bonus     | 5        |
+| Bulk            | 6        |
+| Value           | 7 copper |

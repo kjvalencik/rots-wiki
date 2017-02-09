@@ -21,7 +21,3 @@
 |---------------|---------|
 | Weight        | 1.0 lbs |
 | Capacity      | 32      |
-
-#### Attributes
-
-*None*

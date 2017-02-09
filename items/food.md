@@ -23,7 +23,3 @@
 | Specification | Value   |
 |---------------|---------|
 | Weight        | 0.3 lbs |
-
-#### Attributes
-
-*None*

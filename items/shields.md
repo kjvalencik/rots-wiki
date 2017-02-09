@@ -21,7 +21,3 @@
 | Dodge Bonus   | 14      |
 | Parry Bonus   | 13      |
 | Encumberance  | 4       |
-
-#### Attributes
-
-*None*
