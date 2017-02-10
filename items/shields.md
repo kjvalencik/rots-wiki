@@ -2,18 +2,28 @@
 
 ## Table of Contents
 
+* [a dragon shield](#a-dragon-shield)
 * [a fine, silver shield](#a-fine-silver-shield)
+* [a golden shield](#a-golden-shield)
 * [a sapphirine kite shield](#a-sapphire-kite-shield)
 * [a shield with the crest of Lake-town](#a-shield-with-the-crest-of-lake-town)
 * [a tower shield](#a-tower-shield)
 
 ## Items
 
-### a sapphirine kite shield
+### a dragon shield
 
 *TODO*
 
 ### a fine, silver shield
+
+*TODO*
+
+### a golden shield
+
+*TODO*
+
+### a sapphirine kite shield
 
 *TODO*
 

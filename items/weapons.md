@@ -81,7 +81,12 @@ Bulk              3.
 
 ## Flailing
 
+* [a dragon-toothed whip](#a-dragon-toothed-whip)
 * [an iridescent flail](#an-iridescent-flail)
+
+### a dragon-toothed whip
+
+*TODO*
 
 ### an iridescent flail
 
@@ -91,7 +96,11 @@ Bulk              3.
 
 * [a dagger](#a-dagger)
 * [a fine dagger](#a-fine-dagger)
+* [a light marble dagger](#a-light-marble-dagger)
 * [a long black knife](#a-long-black-knife)
+* [a pale-green spider's fang](#a-pale-green-spiders-fang)
+* [a quicksilver rapier](#a-quicksilver-rapier)
+* [a wicked black knife](#a-wicked-black-knife)
 
 ### a dagger
 
@@ -138,6 +147,10 @@ Bulk              3.
 | Bulk            | 1                              |
 | Value           | 2 gold, 4 silver and 30 copper |
 
+### a light marble dagger
+
+*TODO*
+
 ### a long black knife
 
 > This black hilted knife is quite light and sharp, with a thin foot long
@@ -159,6 +172,18 @@ Bulk              3.
 | Parry Bonus     | 2                      |
 | Bulk            | 1                      |
 | Value           | 1 silver and 87 copper |
+
+### a pale-green spider's fang
+
+*TODO*
+
+### a quicksilver rapier
+
+*TODO*
+
+### a wicked black knife
+
+*TODO*
 
 ## Slashing
 

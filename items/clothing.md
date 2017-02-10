@@ -22,8 +22,11 @@
 ## Body
 
 * [a black cotton blouse](#a-black-cotton-blouse)
+* [a dirty, frayed cloak](/items/clothing.md#a-dirty-frayed-cloak)
+* [an emerald encrusted robe](#an-emerald-encrusted-robe)
 * [a fine blue robe](#a-fine-blue-robe)
 * [an old green cloak](#an-old-green-cloak)
+* [a silvery-white robe](#a-silvery-white-robe)
 
 ### a black cotton blouse
 
@@ -43,11 +46,23 @@
 | Dodge          | 1        |
 | Value          | 2 copper |
 
+### a dirty, frayed cloak
+
+*TODO*
+
+### an emerald encrusted robe
+
+*TODO*
+
 ### a fine blue robe
 
 *TODO*
 
 ### an old green cloak
+
+*TODO*
+
+### a silvery-white robe
 
 *TODO*
 
@@ -86,8 +101,10 @@
 
 * [a bronze ring](#a-bronze-ring)
 * [an encrusted ring](#an-encrusted-ring)
-* [an ivory ring](#an-ivory-ring)
 * [an iron ring](#an-iron-ring)
+* [an ivory ring](#an-ivory-ring)
+* [a plain golden ring](#a-plain-golden-ring)
+* [a stone ring](#a-stone-ring)
 
 ### a bronze ring
 
@@ -118,6 +135,14 @@
 *TODO*
 
 ### an ivory ring
+
+*TODO*
+
+### a plain golden ring
+
+*TODO*
+
+### a stone ring
 
 *TODO*
 
