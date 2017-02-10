@@ -97,7 +97,27 @@
 
 ### a fine blue robe
 
-*TODO*
+> As smooth as silk and with a fine, almost invisible pattern along the seam,
+> this robe must have been made for someone of importance.  There is some other
+> quality about it too though, almost... magical.
+
+#### Specifications
+
+* This piece of armour is made of cloth
+* This piece of armour can be taken and worn about the body
+
+| Specification  | Value                  |
+|----------------|------------------------|
+| Weight         | 2.0 lbs                |
+| Absorbtion     | 0                      |
+| Min Absorbtion | 0                      |
+| Encumberance   | 0                      |
+| Dodge          | 2                      |
+| Value          | 3 silver and 37 copper |
+
+#### Affections
+
+* +3 to MANA_REGEN
 
 ### an old green cloak
 
@@ -177,7 +197,26 @@
 
 ### an ivory ring
 
-*TODO*
+> This ring is made of ivory, possibly from the tust of one of the fabled
+> oliphants from the east.  Strange runes have been carved around the band.
+
+
+#### Specifications
+
+* This piece of treasure is made of the usual stuff
+* This piece of treasure can be taken and worn on your finger
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 0.1 lbs |
+
+#### Attributes
+
+* It is magical in nature
+
+#### Affections
+
+* +2 to OB
 
 ### a plain golden ring
 
