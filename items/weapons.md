@@ -103,7 +103,34 @@ Bulk              3.
 
 ### a runed warhammer
 
-*TODO*
+> This warhammer is quite large, and is ornamented with strange ancient
+> runes. Obviously of dwarfish make, this hammer seems to have been constructed
+> many an age ago. The long spike protruding from the back of the hammer is
+> almost as deadly as the massive flat head upon its front.
+
+#### Specifications
+
+* This weapon is made of metal
+* This weapon can be taken and wielded
+* The weapon you hold is a smiting weapon
+
+| Specification   | Value                          |
+|-----------------|--------------------------------|
+| Weight          | 14.5 lbs                       |
+| Damage Rating   | 102/10                         |
+| Offensive Bonus | 0                              |
+| Parry Bonus     | 6                              |
+| Bulk            | 7                              |
+| Value           | 6 gold, 2 silver and 50 copper |
+
+#### Attributes
+
+* It is magical in nature
+
+#### Affections
+
+* +8 to OB
+* +2 to SAVING_SPELL
 
 ### a spiked ivory club
 
