@@ -34,6 +34,7 @@
 ## Body
 
 * [a heavy leather jerkin](#a-heavy-leather-jerkin)
+* [light mithril mail shirt](#light-mithril-mail-shirt)
 
 ### a heavy leather jerkin
 
@@ -54,9 +55,14 @@
 | Dodge          | 0        |
 | Value          | 5 silver |
 
+### light mithril mail shirt
+
+*TODO*
+
 ## Head
 
 * [a leather helmet](#a-leather-helmet)
+* [a mithril mask](#a-mithril-mask)
 
 ### a leather helmet
 
@@ -79,6 +85,10 @@
 | Encumberance   | 1                      |
 | Dodge          | 0                      |
 | Value          | 2 silver and 50 copper |
+
+### a mithril mask
+
+*TODO*
 
 ## Legs
 
@@ -105,7 +115,12 @@
 
 ## Feet
 
+* [light mithril mail boots](#light-mithril-mail-boots)
 * [a pair of thin metal boots](#a-pair-of-thin-metal-boots)
+
+### light mithril mail boots
+
+*TODO*
 
 ### a pair of thin metal boots
 

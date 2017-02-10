@@ -7,5 +7,6 @@
 * [Containers](/items/containers.md)
 * [Food](/items/food.md)
 * [Light](/items/light.md)
+* [Magic](/items/magic.md)
 * [Shields](/items/shields.md)
 * [Weapons](/items/weapons.md)

@@ -2,9 +2,20 @@
 
 ## Table of Contents
 
+* [a fine, silver shield](#a-fine-silver-shield)
+* [a sapphirine kite shield](#a-sapphire-kite-shield)
 * [a shield with the crest of Lake-town](#a-shield-with-the-crest-of-lake-town)
+* [a tower shield](#a-tower-shield)
 
 ## Items
+
+### a sapphirine kite shield
+
+*TODO*
+
+### a fine, silver shield
+
+*TODO*
 
 ### a shield with the crest of Lake-town
 
@@ -21,3 +32,7 @@
 | Dodge Bonus   | 14      |
 | Parry Bonus   | 13      |
 | Encumberance  | 4       |
+
+### a tower shield
+
+*TODO*

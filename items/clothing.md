@@ -2,16 +2,28 @@
 
 ## Table of Contents
 
+* [Arms](#arms)
 * [Body](#body)
 * [Head](#head)
 * [Finger](#finger)
 * [Feet](#feet)
 * [Legs](#legs)
+* [Neck](#neck)
 * [Waist](#waist)
+
+## Arms
+
+* [a pair of shiny black sleeves](#a-pair-of-shiny-black-sleeves)
+
+### a pair of shiny black sleeves
+
+*TODO*
 
 ## Body
 
 * [a black cotton blouse](#a-black-cotton-blouse)
+* [a fine blue robe](#a-fine-blue-robe)
+* [an old green cloak](#an-old-green-cloak)
 
 ### a black cotton blouse
 
@@ -31,9 +43,18 @@
 | Dodge          | 1        |
 | Value          | 2 copper |
 
+### a fine blue robe
+
+*TODO*
+
+### an old green cloak
+
+*TODO*
+
 ## Head
 
 * [a blue bandana](#a-blue-bandana)
+* [a glittering crown](#a-glittering-crown)
 
 ### a blue bandana
 
@@ -57,9 +78,20 @@
 | Dodge          | 2         |
 | Value          | 12 copper |
 
+### a glittering crown
+
+*TODO*
+
 ## Finger
 
+* [a bronze ring](#a-bronze-ring)
 * [an encrusted ring](#an-encrusted-ring)
+* [an ivory ring](#an-ivory-ring)
+* [an iron ring](#an-iron-ring)
+
+### a bronze ring
+
+*TODO*
 
 ### an encrusted ring
 
@@ -81,9 +113,18 @@
 
 * +1 to OB
 
+### an iron ring
+
+*TODO*
+
+### an ivory ring
+
+*TODO*
+
 ## Feet
 
 * [a pair of soft leather boots](#a-pair-of-soft-leather-boots)
+* [a pair of supple leather boots](#a-pair-of-supple-leather-boots)
 
 ### a pair of soft leather boots
 
@@ -108,6 +149,18 @@
 #### Affections
 
 * +10 to MOVE
+
+### a pair of supple leather boots
+
+*TODO*
+
+## Neck
+
+* [an inscribed silver coin](#an-inscribed-silver-coin)
+
+### an inscribed silver coin
+
+*TODO*
 
 ## Legs
 

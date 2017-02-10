@@ -3,6 +3,8 @@
 ## Table of Contents
 
 * [Cleaving](#cleaving)
+* [Concussion](#concussion)
+* [Flailing](#flailing)
 * [Piercing](#piercing)
 * [Slashing](#slashing)
 * [Stabbing](#Stabbing)
@@ -37,6 +39,53 @@ Bulk              3.
 | Parry Bonus     | -5                             |
 | Bulk            | 3                              |
 | Value           | 1 gold, 6 silver and 87 copper |
+
+## Concussion
+
+* [an engraved staff](#an-engraved-staff)
+* [an ivory mallet](#an-ivory-mallet)
+* [a runed warhammer](#a-runed-warhammer)
+* [a spiked ivory club](#a-spiked-ivory-club)
+* [a strange, black limb](#a-strange-black-limb)
+* [a triple-headed morningstar](#a-triple-headed-morningstar)
+* [a twisted, black stick](#a-twisted-black-stick)
+
+
+### an engraved staff
+
+*TODO*
+
+### an ivory mallet
+
+*TODO*
+
+### a runed warhammer
+
+*TODO*
+
+### a spiked ivory club
+
+*TODO*
+
+### a strange, black limb
+
+*TODO*
+
+### a triple-headed morningstar
+
+*TODO*
+
+### a twisted, black stick
+
+*TODO*
+
+## Flailing
+
+* [an iridescent flail](#an-iridescent-flail)
+
+### an iridescent flail
+
+*TODO*
 
 ## Piercing
 
@@ -116,6 +165,8 @@ Bulk              3.
 * [a bastard sword](#a-bastard-sword)
 * [a fine longsword](#a-fine-longsword)
 * [a fine shortsword](#a-fine-shortsword)
+* [an ornate mithril sword](#an-ornate-mithril-sword)
+* [a shadowy blade](#a-shadowy-blade)
 * [a steel scimitar](#a-steel-scimitar)
 
 ### a bastard sword
@@ -194,6 +245,14 @@ Bulk              3.
 | Parry Bonus     | 5                              |
 | Bulk            | 2                              |
 | Value           | 1 gold, 6 silver and 87 copper |
+
+### an ornate mithril sword
+
+*TODO*
+
+### a shadowy blade
+
+*TODO*
 
 ### a steel scimitar
 
