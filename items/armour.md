@@ -33,8 +33,13 @@
 
 ## Body
 
+* [an ancient mithril breastplate](#an-ancient-mithril-breastplate)
 * [a heavy leather jerkin](#a-heavy-leather-jerkin)
 * [light mithril mail shirt](#light-mithril-mail-shirt)
+
+### an ancient mithril breastplate
+
+*TODO*
 
 ### a heavy leather jerkin
 

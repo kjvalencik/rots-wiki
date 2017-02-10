@@ -50,6 +50,7 @@ Bulk              3.
 * [a dark runed mace](#a-dark-runed-mace)
 * [an engraved staff](#an-engraved-staff)
 * [an ivory mallet](#an-ivory-mallet)
+* [a long bone sceptre](#a-long-bone-sceptre)
 * [a runed warhammer](#a-runed-warhammer)
 * [a spiked ivory club](#a-spiked-ivory-club)
 * [a steel-shafted maul](#a-steel-shafted-maul)
@@ -67,6 +68,10 @@ Bulk              3.
 *TODO*
 
 ### an ivory mallet
+
+*TODO*
+
+### a long bone sceptre
 
 *TODO*
 
@@ -100,8 +105,13 @@ Bulk              3.
 
 ## Flailing
 
+* [a bullwhip](#a-bullwhip)
 * [a dragon-toothed whip](#a-dragon-toothed-whip)
 * [an iridescent flail](#an-iridescent-flail)
+
+### a bullwhip
+
+*TODO*
 
 ### a dragon-toothed whip
 
@@ -113,6 +123,7 @@ Bulk              3.
 
 ## Piercing
 
+* [a black two-handed rapier](#a-black-two-handed-rapier)
 * [a dagger](#a-dagger)
 * [a fine dagger](#a-fine-dagger)
 * [a light marble dagger](#a-light-marble-dagger)
@@ -120,6 +131,10 @@ Bulk              3.
 * [a pale-green spider's fang](#a-pale-green-spiders-fang)
 * [a quicksilver rapier](#a-quicksilver-rapier)
 * [a wicked black knife](#a-wicked-black-knife)
+
+### a black two-handed rapier
+
+*TODO*
 
 ### a dagger
 
@@ -336,6 +351,7 @@ Bulk              3.
 
 * [an enruned mithril spear](#an-enruned mithril-spear)
 * [a long, wooden spear](#a-long-wooden-spear)
+* [a ruby-tipped staff](#a-ruby-tipped-staff)
 
 ### an enruned mithril spear
 
@@ -362,3 +378,7 @@ Bulk              3.
 | Parry Bonus     | 5        |
 | Bulk            | 6        |
 | Value           | 7 copper |
+
+### a ruby-tipped staff
+
+*TODO*

@@ -7,6 +7,7 @@
 * [a golden shield](#a-golden-shield)
 * [a sapphirine kite shield](#a-sapphire-kite-shield)
 * [a shield with the crest of Lake-town](#a-shield-with-the-crest-of-lake-town)
+* [a thick metal buckler](#a-thick-metal-buckler)
 * [a tower shield](#a-tower-shield)
 
 ## Items
@@ -42,6 +43,10 @@
 | Dodge Bonus   | 14      |
 | Parry Bonus   | 13      |
 | Encumberance  | 4       |
+
+### a thick metal buckler
+
+*TODO*
 
 ### a tower shield
 
