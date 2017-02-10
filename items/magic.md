@@ -15,7 +15,26 @@
 
 ### a bulbous spider's eye
 
-*TODO*
+> This glassy bulb reflects the light almost perfectly.  It seems to bend the
+> light around it, making it seem even darker, and is cold to the touch.
+
+#### Specifications
+
+* This item is made of the usual stuff
+* This item can be taken and held
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 0.5 lbs |
+
+#### Attributes
+
+* It is magical in nature
+
+#### Affections
+
+* +1 to MANA_REGEN
+* +1 to SAVING_SPELL
 
 ### a green amulet
 

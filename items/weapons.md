@@ -141,7 +141,7 @@ Bulk              3.
 
 #### Affections
 
-* haze (permanent) equivalent to a 30t spell
+* haze (permanent) equivalent to a level 30 mystic spell
 * Can be [traded](/smobs/black-huorn.md) for
 	[an engraved staff](#an-engraved-staff)
 
@@ -151,7 +151,32 @@ Bulk              3.
 
 ### a twisted, black stick
 
-*TODO*
+> This small stick is of the blackest wood, covered with notches and twisted
+> slightly in jagged patterns. It's only about a foot and a half in length, yet
+> it holds great power within, harnessing the magical abilities of any that hold
+> this item.
+
+#### Specifications
+
+* This weapon is made of wood
+* This weapon can be taken and wielded
+* The weapon you hold is a bludgeoning weapon
+
+| Specification   | Value   |
+|-----------------|---------|
+| Weight          | 1.5 lbs |
+| Damage Rating   | 36/10   |
+| Offensive Bonus | 0       |
+| Parry Bonus     | 1       |
+| Bulk            | 3       |
+
+#### Attributes
+
+* It is magical in nature
+
+#### Affections
+
+* +3 to MANA_REGEN
 
 ### a white mace
 

@@ -18,7 +18,27 @@
 
 ### a pair of shiny black sleeves
 
-*TODO*
+> This pair of sleeves is made from surprisingly great material.  Light
+> easily bounces off its clear surface. It is made from a very light, yet
+> durable, material.
+
+#### Specifications
+
+* This piece of armour is made of cloth
+* This piece of armour can be taken and worn on the arms
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 0.1 lbs |
+| Absorbtion     | 0       |
+| Min Absorbtion | 0       |
+| Encumberance   | 0       |
+| Dodge          | 1       |
+
+#### Affections
+
+* detect magic (permanent)
+* evasion (permanent) equivalent to a level 15 mystic spell
 
 ## Body
 
@@ -53,7 +73,27 @@
 
 ### an emerald encrusted robe
 
-*TODO*
+> This voluminous robe is made of heavy dark-green material, and has been
+> encrusted around the collar with several small emeralds. The jewels seem to
+> absorb the light, making it sparkle and dance across their surfaces.
+
+#### Specifications
+
+* This piece of armour is made of cloth
+* This piece of armour can be taken and worn about the body
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 2.0 lbs |
+| Absorbtion     | 0       |
+| Min Absorbtion | 0       |
+| Encumberance   | 0       |
+| Dodge          | -1      |
+
+#### Affections
+
+* +2 to MANA_REGEN
+* +1 to SAVING_SPELL
 
 ### a fine blue robe
 
