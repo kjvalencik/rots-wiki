@@ -182,11 +182,29 @@
 
 ## Neck
 
-* [an inscribed silver coin](#an-inscribed-silver-coin)
+* [a silver inscribed medallion](#a-silver-inscribed-medallion)
 
-### an inscribed silver coin
+### a silver inscribed medallion
 
-*TODO*
+> This medallion is attached to a small chain of silver, through a small
+> circular hole near the top of it.  Upon the medallion, a small picture is
+> shown depicting  a warrior standing with a sword in hand, facing a large
+> floating skull with flames coming from its orifices.  All around the edges,
+> small words are inscribed.  These words all come together to form the phrase
+> "courage in the eyes of danger". This medallion would definitely inspire
+> anyone who held it.
+
+#### Specifications
+
+* This shield is made of silver
+* This shield can be taken and worn around the neck
+
+| Specification  | Value   |
+|----------------|---------|
+| Weight         | 0.5 lbs |
+| Dodge Bonus    | 1       |
+| Parry Bonus    | 1       |
+| Encumberance   | 0       |
 
 ## Legs
 

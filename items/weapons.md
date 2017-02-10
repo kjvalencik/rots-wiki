@@ -65,7 +65,33 @@ Bulk              3.
 
 ### an engraved staff
 
-*TODO*
+> This light, wooden staff seems very sturdy for its weight. It is very short
+> in comparison to most staves, only three feet in length. It's surface is
+> covered in intricate runes, some of which emit a faint blue glow when touched.
+
+#### Specifications
+
+* This weapon is made of wood
+* This weapon can be taken and wielded
+* The weapon you hold is a bludgeoning weapon
+
+| Specification   | Value                |
+|-----------------|----------------------|
+| Weight          | 2.2 lbs              |
+| Damage Rating   | 48/10                |
+| Offensive Bonus | 2                    |
+| Parry Bonus     | 5                    |
+| Bulk            | 3                    |
+| Value           | 2 gold and 61 copper |
+
+#### Attributes
+
+* It is magical in nature
+* It cannot be used to aid the shadow
+
+#### Affections
+
+* +2 to MANA_REGEN
 
 ### an ivory mallet
 
@@ -89,7 +115,35 @@ Bulk              3.
 
 ### a strange, black limb
 
-*TODO*
+> Cut from an ancient Huorn, this limb is much more than your average piece
+> of wood.  Smooth, yet hard as a rock, its surface strangely reflects almost
+> all light, making it look as though it is actually absorbing the light into
+> its jet-black substance.
+
+#### Specifications
+
+* This weapon is made of wood
+* This weapon can be taken and wielded
+* The weapon you hold is a bludgeoning weapon
+
+| Specification   | Value                          |
+|-----------------|--------------------------------|
+| Weight          | 7.5 lbs                        |
+| Damage Rating   | 87/10                          |
+| Offensive Bonus | 8                              |
+| Parry Bonus     | -3                             |
+| Bulk            | 4                              |
+| Value           | 6 gold, 7 silver and 50 copper |
+
+#### Attributes
+
+* It is magical in nature
+
+#### Affections
+
+* haze (permanent) equivalent to a 30t spell
+* Can be [traded](/smobs/black-huorn.md) for
+	[an engraved staff](#an-engraved-staff)
 
 ### a triple-headed morningstar
 
@@ -217,7 +271,35 @@ Bulk              3.
 
 ### a wicked black knife
 
-*TODO*
+> This knife is about a foot in length from hilt to tip, although it
+> straightened out completely, it would easily be another six inches. The metal
+> of the blade has been forged into jagged angles, and small barbs have been
+> etched into the reverse side of the weapon. Evil markings have been engraved
+> into the black steel of this weapon all the way up the blade, showing the
+> nature of this weapon to be that of cruelty and pain.
+
+#### Specifications
+
+* This weapon is made of metal
+* This weapon can be taken and wielded
+* The weapon you hold is a piercing weapon
+
+| Specification   | Value   |
+|-----------------|---------|
+| Weight          | 1.1 lbs |
+| Damage Rating   | 42/10   |
+| Offensive Bonus | 4       |
+| Parry Bonus     | 0       |
+| Bulk            | 1       |
+
+#### Attributes
+
+* It is evil
+
+#### Affections
+
+* +3 to DODGE
+* +1 to DAMROLL
 
 ## Slashing
 

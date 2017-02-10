@@ -18,7 +18,22 @@
 
 ### a fine, silver shield
 
-*TODO*
+> Crafted of fine silver and in great condition, this shield looks to be
+> worthy of some of Middle-Earth's greatest adventurers. Despite its obvious
+> quality, it looks to have been made quite a long time ago, quite possibly in
+> the Third Age.
+
+#### Specifications
+
+* This shield is made of silver
+* This shield can be taken and used in the off hand
+
+| Specification | Value   |
+|---------------|---------|
+| Weight        | 8.0 lbs |
+| Dodge Bonus   | 14      |
+| Parry Bonus   | 16      |
+| Encumberance  | 3       |
 
 ### a golden shield
 
