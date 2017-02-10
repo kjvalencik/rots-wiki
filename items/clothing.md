@@ -10,6 +10,7 @@
 * [Legs](#legs)
 * [Neck](#neck)
 * [Waist](#waist)
+* [Wrist](#wrist)
 
 ## Arms
 
@@ -230,3 +231,11 @@
 | Encumberance   | 0         |
 | Dodge          | 1         |
 | Value          | 15 copper |
+
+## Wrist
+
+* [a red bracelet](#a-red-bracelet)
+
+### a red bracelet
+
+*TODO*

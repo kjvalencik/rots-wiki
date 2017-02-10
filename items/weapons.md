@@ -11,7 +11,12 @@
 
 ## Cleaving
 
+* [a crescent axe](#a-crescent-axe)
 * [a forester's axe](#a-foresters-axe)
+
+### a crescent axe
+
+*TODO*
 
 ### a forester's axe
 
@@ -42,14 +47,20 @@ Bulk              3.
 
 ## Concussion
 
+* [a dark runed mace](#a-dark-runed-mace)
 * [an engraved staff](#an-engraved-staff)
 * [an ivory mallet](#an-ivory-mallet)
 * [a runed warhammer](#a-runed-warhammer)
 * [a spiked ivory club](#a-spiked-ivory-club)
+* [a steel-shafted maul](#a-steel-shafted-maul)
 * [a strange, black limb](#a-strange-black-limb)
 * [a triple-headed morningstar](#a-triple-headed-morningstar)
 * [a twisted, black stick](#a-twisted-black-stick)
+* [a white mace](#a-white-mace)
 
+### a dark runed mace
+
+*TODO*
 
 ### an engraved staff
 
@@ -67,6 +78,10 @@ Bulk              3.
 
 *TODO*
 
+### a steel-shafted maul
+
+*TODO*
+
 ### a strange, black limb
 
 *TODO*
@@ -76,6 +91,10 @@ Bulk              3.
 *TODO*
 
 ### a twisted, black stick
+
+*TODO*
+
+### a white mace
 
 *TODO*
 
@@ -188,8 +207,10 @@ Bulk              3.
 ## Slashing
 
 * [a bastard sword](#a-bastard-sword)
+* [a blood-encrusted sickle](#a-blood-encrusted-sickle)
 * [a fine longsword](#a-fine-longsword)
 * [a fine shortsword](#a-fine-shortsword)
+* [a many-coloured sword](#a-many-coloured-sword)
 * [an ornate mithril sword](#an-ornate-mithril-sword)
 * [a shadowy blade](#a-shadowy-blade)
 * [a steel scimitar](#a-steel-scimitar)
@@ -218,6 +239,10 @@ Bulk              3.
 | Parry Bonus     | -5                             |
 | Bulk            | 5                              |
 | Value           | 1 gold, 6 silver and 87 copper |
+
+### a blood-encrusted sickle
+
+*TODO*
 
 ### a fine longsword
 
@@ -271,6 +296,10 @@ Bulk              3.
 | Bulk            | 2                              |
 | Value           | 1 gold, 6 silver and 87 copper |
 
+### a many-coloured sword
+
+*TODO*
+
 ### an ornate mithril sword
 
 *TODO*
@@ -305,7 +334,12 @@ Bulk              3.
 
 ## Stabbing
 
+* [an enruned mithril spear](#an-enruned mithril-spear)
 * [a long, wooden spear](#a-long-wooden-spear)
+
+### an enruned mithril spear
+
+*TODO*
 
 ### a long, wooden spear
 

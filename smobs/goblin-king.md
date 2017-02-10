@@ -42,6 +42,5 @@ is solo, the generic super mob strategy is all that is required.
 * [an iron ring](/items/clothing.md#an-iron-ring) in the chest in the vault
 * [a glittering crown](/items/clothing.md#a-glittering-crown) in the chest in
 	the vault
-* a small chance for
-	[a pile of ancient shards](/items/magic.md#a-pile-of-ancient-shards) on the
-	ground in the vault
+* a small chance for a pile of ancient shards on the ground in the vault.
+	*TODO: What are shards used for?*
