@@ -1,0 +1,2563 @@
+HP:Scratched>To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched>ber 
+[set tactics berserk] 
+You are now employing berserk tactics. 
+
+HP:Scratched>ag 
+[set tactics aggressive] 
+2 
+Now targetting 2.Uruk. 
+HP:Scratched>You are now employing aggressive tactics. 
+
+HP:Scratched>w;k;et;f 
+[hit 2.Uruk] 
+[examine 2.Uruk] 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You rush forward wildly. 
+You severely wound *an Uruk*'s head with your cleave! 
+
+HP:Scratched, *an Uruk*:Bruised> 
+*an Uruk* smites your right leg very hard. 
+
+HP:Scratched, *an Uruk*:Bruised> What did you do?! Fuckin'... what the fuckin' fuck! Who the fuck, fucked 
+this fuckin'? fuck. How did you fuckin', fucks?......... FUCK!!! 
+*an Uruk* has some bruises. 
+
+*an Uruk* is using: 
+<worn> an ivory ring..It glows blue! 
+<worn> an iron ring..It glows blue! 
+<worn> an elfskin necklace..It glows blue! 
+<worn> an elfskin necklace..It glows blue! 
+<worn> a loose, black cotton tunic 
+<worn> a coating of war paint 
+<worn> a black pair of cotton pants 
+<worn> a pair of light sandals 
+<worn> a black pair of cotton gloves 
+<worn> a pair of shiny black sleeves 
+<worn> a werewolf fur 
+<worn> a sleek, black strap 
+<worn> a tainted bracelet..It glows blue! 
+<worn> a tainted bracelet..It glows blue! 
+<wielded> a runed warhammer..It glows blue! 
+<held> a werewolf heart 
+<worn> a silvery werewolf fur 
+
+HP:Scratched, *an Uruk*:Bruised>You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Scratched> 
+Shath chats 'Ever stop to think that maybe if they weren't invisible or constantly idling for extensive periods of time that there could a reduced chance of cheating going on.' 
+
+ber 
+[set tactics berserk] 
+HP:Scratched>two 
+You are now employing berserk tactics. 
+
+HP:Scratched>You are already wielding your weapon with two hands. 
+
+HP:Scratched>ew 
+[examine west] 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched>w;k 
+[hit 2.Uruk] 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched>You attack *an Uruk*! 
+You deeply wound *an Uruk*'s left arm with your cleave. 
+
+HP:Scratched, *an Uruk*:Hurt> 
+*an Uruk* smites your body extremely hard. 
+
+HP:Bruised, *an Uruk*:Hurt>df 
+[set tactics aggressive] 
+[fle] 
+You are now employing aggressive tactics. 
+
+HP:Bruised, *an Uruk*:Hurt>You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Bruised>ag 
+[set tactics aggressive] 
+You are now employing aggressive tactics. 
+
+ew 
+[examine west] 
+HP:Bruised>To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>ew 
+[examine west] 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>w;k 
+[hit 2.Uruk] 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>You attack *an Uruk*! 
+You cleave *an Uruk*'s left hand extremely hard. 
+
+HP:Bruised, *an Uruk*:Hurt> 
+*an Uruk* smites your left arm extremely hard. 
+
+HP:Bruised, *an Uruk*:Hurt>f 
+You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Bruised>ew 
+[examine west] 
+
+*an Uruk* enters from the west. 
+A black warg enters from the west. 
+
+HP:Bruised>*an Uruk* leaves >>> EAST >>>. 
+A black warg leaves east. 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+
+HP:Bruised>k 
+[hit 2.Uruk] 
+They aren't here. 
+
+HP:Bruised>ku 
+[hit Uruk] 
+1 
+Now targetting 1.Uruk. 
+HP:Bruised>They aren't here. 
+
+e 
+HP:Bruised>e 
+e 
+An Intersection in a Tunnel Exits are: N E W 
+
+k 
+[hit 1.Uruk] 
+HP:Bruised>A Narrow Tunnel Exits are: E S W 
+
+HP:Bruised>An Escape Tunnel Exits are: S W (U) 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>eu 
+[examine up] 
+You see nothing special. 
+The trapdoor is closed. 
+
+h 
+HP:Bruised>l 
+Ok, you'll try to notice fresh tracks. 
+
+HP:Bruised>An Escape Tunnel Exits are: S W (U) 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead west. Their condition is fresh 
+
+HP:Bruised>h 
+w 
+You stop looking for fresh tracks. 
+
+k 
+[hit 1.Uruk] 
+HP:Bruised>A Narrow Tunnel Exits are: E S W 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>s 
+k 
+[hit 1.Uruk] 
+A Makeshift Guardroom Exits are: N 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised>n 
+They aren't here. 
+
+HP:Bruised>w 
+A Narrow Tunnel Exits are: E S W 
+
+k 
+[hit 1.Uruk] 
+HP:Bruised>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>k 
+[hit 1.Uruk] 
+en 
+[examine north] 
+They aren't here. 
+
+HP:Bruised>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+To the north you see: 
+A Torture Chamber Exits are: (N) S 
+A weapon rack has been set here. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>n 
+k 
+[hit 1.Uruk] 
+A Torture Chamber Exits are: (N) S 
+A weapon rack has been set here. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>en 
+[examine north] 
+You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You cleave *an Uruk*'s right arm extremely hard. 
+
+HP:Bruised, *an Uruk*:Hurt> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* deeply wounds your body with his smite. 
+
+HP:Bruised, *an Uruk*:Hurt>You see nothing special. 
+The door is closed. 
+
+HP:Bruised, *an Uruk*:Hurt>x 
+[close door ] 
+It's already closed! 
+
+l 
+HP:Bruised, *an Uruk*:Hurt>*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves VVV SOUTH VVV. 
+A black warg leaves south. 
+A Torture Chamber Exits are: (N) S 
+A weapon rack has been set here. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Bruised>s 
+k 
+[hit 1.Uruk] 
+e 
+An Intersection in a Tunnel Exits are: N E W 
+
+k 
+[hit 1.Uruk] 
+HP:Bruised>e 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Bruised>e 
+A Narrow Tunnel Exits are: E S W 
+
+HP:Bruised>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+HP:Bruised>An Escape Tunnel Exits are: S W (U) 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>You cannot go that way. 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>k 
+[hit 1.Uruk] 
+w 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+HP:Bruised>w 
+k 
+[hit 1.Uruk] 
+A Narrow Tunnel Exits are: E S W 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised>w 
+They aren't here. 
+
+HP:Bruised>k 
+[hit 1.Uruk] 
+ew 
+[examine west] 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Bruised>They aren't here. 
+
+HP:Bruised>To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>ag 
+[set tactics aggressive] 
+2 
+Now targetting 2.Uruk. 
+HP:Bruised>w 
+You are now employing aggressive tactics. 
+
+HP:Bruised>k 
+[hit 2.Uruk] 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>Cthogul the insomniac attacks YOU! 
+Cthogul the insomniac deeply wounds your right leg with his hit. 
+You already have a fight to worry about. 
+
+HP:Bruised, Cthogul the insomniac:Healthy> 
+You cleave Cthogul the insomniac's right arm very hard. 
+
+HP:Bruised, Cthogul the insomniac:Scratched>f 
+You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Bruised>ew 
+[examine west] 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>w 
+k 
+[hit 2.Uruk] 
+f 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised>You attack *an Uruk*! 
+
+HP:Bruised, *an Uruk*:Hurt> 
+*an Uruk* smites your left hand very hard. 
+
+HP:Hurt, *an Uruk*:Hurt>PANIC! You couldn't escape! 
+[fle] 
+
+HP:Hurt, *an Uruk*:Hurt> 
+You deeply wound *an Uruk*'s right arm with your cleave. 
+
+HP:Hurt, *an Uruk*:Hurt>You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Hurt>k 
+[hit 2.Uruk] 
+ew 
+[examine west] 
+They aren't here. 
+
+HP:Hurt>k 
+[hit 2.Uruk] 
+k 
+[hit 2.Uruk] 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+ku 
+[hit Uruk] 
+HP:Hurt>They aren't here. 
+
+HP:Hurt>They aren't here. 
+
+ku 
+[hit Uruk] 
+HP:Hurt>They aren't here. 
+
+ku 
+[hit Uruk] 
+HP:Hurt>They aren't here. 
+
+ku 
+[hit Uruk] 
+HP:Hurt>They aren't here. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>och 
+[remove paint] 
+[remove sandals] 
+[remove shiny] 
+[remove all.cotton] 
+[wear all.chain] 
+[wear all.mithril] 
+You stop using a coating of war paint. 
+
+ew 
+[examine west] 
+HP:Hurt>You stop using a pair of light sandals. 
+
+HP:Hurt>You stop using a pair of shiny black sleeves. 
+
+HP:Hurt>You stop using a black cotton shirt. 
+You stop using a black pair of cotton pants. 
+You stop using a black pair of cotton gloves. 
+
+HP:Hurt>You put a pair of fine, chainmail leggings on your legs. 
+You put a pair of thick chain gloves on your hands. 
+You wear a heavy pair of chain mail sleeves on your arms. 
+
+HP:Hurt>You wear an ancient mithril breastplate on your body. 
+You wear a mithril mask on your head. 
+You wear light mithril mail boots on your feet. 
+
+HP:Hurt>To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Hurt>w;k 
+[hit 2.Uruk] 
+f 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Hurt>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s right leg with your cleave. 
+
+HP:Hurt, *an Uruk*:Wounded> 
+*an Uruk* smites your body hard. 
+
+HP:Hurt, *an Uruk*:Wounded>Cthogul the insomniac attacks YOU! 
+Cthogul the insomniac hits your body very hard. 
+You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+
+HP:Hurt>1 
+Now targetting 1.Uruk. 
+HP:Hurt>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>*an Uruk* enters from the west. 
+A black warg enters from the west. 
+You attack *an Uruk*! 
+
+ew 
+[examine west] 
+HP:Hurt, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+You do the best you can! 
+
+HP:Hurt, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+You do the best you can! 
+
+HP:Hurt, *an Uruk*:Wounded>You do the best you can! 
+
+l 
+HP:Hurt, *an Uruk*:Wounded>You cleave *an Uruk*'s head extremely hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves >>> EAST >>>. 
+A black warg leaves east. 
+To the west you see: 
+A Hastily Built Barracks Exits are: E 
+A large pickaxe, worn down by digging, rests here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>k 
+[hit 1.Uruk] 
+An Ancient Quarry Exits are: N E S W U 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Hurt>e 
+k 
+[hit 1.Uruk] 
+e 
+They aren't here. 
+
+HP:Hurt>k 
+[hit 1.Uruk] 
+An Intersection in a Tunnel Exits are: N E W 
+
+e 
+HP:Hurt>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+e 
+HP:Hurt>A Narrow Tunnel Exits are: E S W 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>e 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>An Escape Tunnel Exits are: S W (U) 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Hurt>You attack *an Uruk*! 
+
+HP:Hurt, *an Uruk*:Wounded> 
+*an Uruk* smites your right arm extremely hard. 
+
+HP:Hurt, *an Uruk*:Wounded>No way! You're fighting for your life! 
+
+HP:Hurt, *an Uruk*:Wounded>You discover a weakness in *an Uruk*'s defense! 
+You severely wound *an Uruk*'s body with your cleave! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves VVV SOUTH VVV. 
+A black warg leaves south. 
+They aren't here. 
+
+eu 
+[examine up] 
+HP:Hurt>You cannot go that way. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>You see nothing special. 
+The trapdoor is closed. 
+
+HP:Hurt>x 
+[close trapdoor ] 
+It's already closed! 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+HP:Hurt>They aren't here. 
+
+s 
+HP:Hurt>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt>Webbed Trees Exits are: N E S W 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>rid 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+h 
+R HP:Hurt>l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Hurt>Webbed Trees Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of *an Uruk* lead west. Their condition is fresh 
+The tracks of a mule lead north. Their condition is very clear 
+The tracks of *an Uruk* lead west. Their condition is fresh 
+
+R HP:Hurt>w 
+A Sticky Corner Exits are: E S 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+The tracks of *an Uruk* lead south. Their condition is fresh 
+The tracks of *an Uruk* lead east. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Hurt>s 
+Webbed Trees Exits are: N S 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of *an Uruk* lead south. Their condition is fresh 
+
+R HP:Hurt>s 
+Webbed Trees Exits are: N E S 
+The tracks of *an Uruk* lead east. Their condition is fresh 
+
+R HP:Hurt>e 
+Intersection in the Webs Exits are: N E S W 
+The tracks of *an Uruk* lead east. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Hurt>e 
+1 
+Now targetting 1.Uruk. 
+R HP:Hurt>Webbed Trees Exits are: N W 
+The tracks of a black warg lead north. Their condition is fresh 
+
+R HP:Hurt>n 
+Webbed Trees Exits are: N S W 
+The tracks of a mule lead north. Their condition is very clear 
+The tracks of a mule lead north. Their condition is very clear 
+
+R HP:Hurt>n 
+Webbed Trees Exits are: S W 
+
+R HP:Hurt>w 
+Webbed Trees Exits are: N E S W 
+*an Uruk* is riding on a black warg. 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a mule lead north. Their condition is very clear 
+The tracks of a black warg lead west. Their condition is fresh 
+
+R HP:Hurt>k 
+[hit 1.Uruk] 
+*an Uruk* is leaving >>> EAST >>>, riding on a black warg. 
+They aren't here. 
+
+R HP:Hurt>ki 
+[kick ] 
+Your victim is not here! 
+
+e 
+R HP:Hurt>k 
+[hit 1.Uruk] 
+Webbed Trees Exits are: S W 
+The tracks of a mule lead west. Their condition is very clear 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+
+R HP:Hurt>h 
+s 
+s 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Hurt>You stop looking for fresh tracks. 
+
+R HP:Hurt>Webbed Trees Exits are: N S W 
+
+R HP:Hurt>Webbed Trees Exits are: N W 
+
+R HP:Hurt>They aren't here. 
+
+R HP:Hurt>w 
+k 
+[hit 1.Uruk] 
+Intersection in the Webs Exits are: N E S W 
+
+h 
+R HP:Hurt>They aren't here. 
+
+l 
+R HP:Hurt>Ok, you'll try to notice fresh tracks. 
+
+R HP:Hurt>Intersection in the Webs Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+
+R HP:Hurt>w 
+Webbed Trees Exits are: N E S 
+The tracks of *an Uruk* lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a black warg lead north. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+
+R HP:Hurt>tracking black warg 
+Now tracking a black warg. 
+R HP:Hurt>n 
+Webbed Trees Exits are: N S 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Hurt>n 
+A Sticky Corner Exits are: E S 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Hurt>e 
+Webbed Trees Exits are: N E S W 
+The tracks of *an Uruk* lead north. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a black warg lead NORTH. Their condition is FRESH 
+The tracks of a mule lead north. Their condition is very clear 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+
+R HP:Hurt>lead 
+n 
+You stop riding a mule. 
+A mule starts following you. 
+
+HP:Hurt>An Escape Tunnel Exits are: S W (U) 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+The tracks of *a Dwarf* lead south. Their condition is fresh 
+The tracks of a mule lead west. Their condition is very clear 
+The tracks of *a Dwarf* lead west. Their condition is very clear 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead west. Their condition is very clear 
+The tracks of a mule lead south. Their condition is fresh 
+
+HP:Hurt> 
+*an Uruk* opens the trapdoor. 
+
+k 
+[hit 1.Uruk] 
+HP:Hurt> 
+*an Uruk* leaves UP. 
+A black warg leaves up. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>ki 
+[kick ] 
+Your victim is not here! 
+
+HP:Hurt>eu 
+[examine up] 
+To the up you see: 
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+The trapdoor is open. 
+
+h 
+HP:Hurt>You stop looking for fresh tracks. 
+
+HP:Hurt>2 
+Now targetting 2.Uruk. 
+HP:Hurt> 
+The trapdoor closes quietly. 
+
+HP:Hurt>u 
+k 
+[hit 2.Uruk] 
+The trapdoor seems to be closed. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>o 
+[open trapdoor ] 
+u 
+k 
+[hit 2.Uruk] 
+Ok. 
+
+HP:Hurt>The trapdoor closes quietly. 
+The trapdoor seems to be closed. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt> 
+HP:Hurt>o 
+[open trapdoor ] 
+u 
+k 
+[hit 2.Uruk] 
+Ok. 
+
+HP:Hurt>The trapdoor closes quietly. 
+The trapdoor seems to be closed. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>w 
+w 
+A Narrow Tunnel Exits are: E S W 
+
+w 
+HP:Hurt>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Hurt>An Ancient Quarry Exits are: N E S W U 
+
+HP:Hurt>u 
+e 
+A Transformed Quarry Exits are: N E S D 
+An uruk slavemaster stands here with whip in hand. 
+A beaten orcish slave stands here, fearing another thrashing. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Hurt>rid 
+Hewn and Hacked Trees Exits are: N E S W 
+
+HP:Hurt>e 
+e 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+R HP:Hurt>n 
+e 
+Dark Mirkwood Exits are: N S W 
+
+e 
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>Dark Mirkwood Exits are: N S W 
+
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>n 
+e 
+e 
+Dark Mirkwood Exits are: N E S W 
+
+R HP:Hurt>Dark Mirkwood Exits are: N E W 
+
+R HP:Hurt>Dark Mirkwood Exits are: N E W 
+
+R HP:Hurt>es 
+[examine south] 
+You see something strange. 
+
+R HP:Hurt>p palisade s 
+[pick palisade s] 
+You failed to pick the lock. 
+[pick palisade s] 
+
+R HP:Hurt>lead 
+The lock quickly yields to your skills. 
+
+R HP:Hurt>You stop riding a mule. 
+A mule starts following you. 
+
+HP:Hurt>o 
+[open palisade ] 
+s 
+Ok. 
+
+s 
+HP:Hurt>Before the Guard Tower Exits are: N (E) S (W) 
+
+HP:Hurt>Below the Guard Tower Exits are: N (W) 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Hurt>ew 
+[examine west] 
+You see nothing special. 
+The towerdoor is closed. 
+
+HP:Hurt>o 
+[open towerdoor ] 
+w 
+k 
+[hit 2.Uruk] 
+Ok. 
+
+HP:Hurt>The Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>2 
+Now targetting 2.Uruk. 
+HP:Hurt>u 
+k 
+[hit 2.Uruk] 
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+b 
+HP:Hurt>You attack *an Uruk*! 
+You deeply wound *an Uruk*'s right arm with your cleave. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves DOWN. 
+A black warg leaves down. 
+
+HP:Hurt>The young uruk mage attacks YOU! 
+The young uruk mage pounds your head hard. 
+
+d 
+
+f 
+No way! You're fighting for your life! 
+
+HP:Hurt, the young uruk mage:Healthy>*an Uruk* enters from below. 
+A black warg enters from below. 
+
+HP:Hurt, the young uruk mage:Healthy>You flee head over heels. 
+The Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Hurt>u 
+k 
+[hit 2.Uruk] 
+An uruk-hai warrior attacks YOU! 
+An uruk-hai warrior slashes your left hand. 
+No way! You're fighting for your life! 
+
+HP:Hurt, an uruk-hai warrior:Healthy>They aren't here. 
+
+HP:Hurt, an uruk-hai warrior:Healthy>f 
+
+Someone says 'D gnhb feelfip ci dpdobj!' 
+Someone assists an uruk-hai warrior. 
+Someone attacks YOU! 
+An uruk scout pierces your left arm. 
+
+HP:Hurt, an uruk-hai warrior:Healthy>k 
+[hit 2.Uruk] 
+You flee head over heels. 
+Below the Guard Tower Exits are: N W 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Hurt>k 
+[hit 2.Uruk] 
+They aren't here. 
+
+HP:Hurt>They aren't here. 
+
+w 
+HP:Hurt>u 
+The Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+An uruk scout is trying to hide in the shadows. 
+
+HP:Hurt>k 
+[hit 2.Uruk] 
+An uruk-hai warrior attacks YOU! 
+No way! You're fighting for your life! 
+
+HP:Hurt, an uruk-hai warrior:Healthy>You cleave an uruk-hai warrior's head hard. 
+They aren't here. 
+
+HP:Hurt, an uruk-hai warrior:Scratched> 
+An uruk-hai warrior slashes your body. 
+
+HP:Hurt, an uruk-hai warrior:Scratched>f 
+k 
+[hit 2.Uruk] 
+*an Uruk* enters from above. 
+A black warg enters from above. 
+You flee head over heels. 
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+
+HP:Hurt>They aren't here. 
+
+HP:Hurt>k 
+[hit 2.Uruk] 
+They aren't here. 
+
+HP:Hurt>d 
+k 
+[hit 2.Uruk] 
+The Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Hurt>An uruk-hai warrior attacks YOU! 
+They aren't here. 
+
+HP:Hurt, an uruk-hai warrior:Scratched> 
+You discover a weakness in an uruk-hai warrior's defense! 
+You cleave an uruk-hai warrior's left leg very hard. 
+
+HP:Hurt, an uruk-hai warrior:Bruised> 
+A solemn orc closes the towerdoor. 
+A solemn orc says 'S vyfh oeeibqs nh iceeku!' 
+A solemn orc assists an uruk-hai warrior. 
+A solemn orc attacks YOU! 
+A solemn orc slashes your left foot hard. 
+An uruk-hai warrior slashes your left arm hard. 
+
+HP:Hurt, an uruk-hai warrior:Bruised>f 
+You flee head over heels. 
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+
+HP:Hurt>d 
+e 
+The Guard Tower Exits are: (E) U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Hurt>The towerdoor seems to be closed. 
+
+HP:Hurt> 
+An uruk-hai warrior attacks YOU! 
+
+HP:Hurt, an uruk-hai warrior:Bruised>o 
+[open towerdoor ] 
+e 
+
+You discover a weakness in an uruk-hai warrior's defense! 
+You deeply wound an uruk-hai warrior's left hand with your cleave. 
+
+HP:Hurt, an uruk-hai warrior:Bruised>An uruk-hai warrior slashes your left hand. 
+Ok. 
+
+HP:Hurt, an uruk-hai warrior:Bruised>The towerdoor closes quietly. 
+No way! You're fighting for your life! 
+
+HP:Hurt, an uruk-hai warrior:Bruised>f 
+You flee head over heels. 
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+
+HP:Hurt>d 
+An uruk-hai warrior enters from below. 
+The young uruk mage attacks YOU! 
+The young uruk mage deeply wounds your left leg with his pound. 
+No way! You're fighting for your life! 
+
+HP:Wounded, the young uruk mage:Healthy> 
+You cleave the young uruk mage's left arm extremely hard. 
+
+op trapdoor 
+[open trapdoor ] 
+HP:Wounded, the young uruk mage:Scratched>f 
+Nothing here by that name. 
+
+HP:Wounded, the young uruk mage:Scratched>You flee head over heels. 
+The Guard Tower Exits are: (E) U 
+A solemn orc stands expressionless, opening and closing the door. 
+
+HP:Wounded>op trapdoor 
+[open trapdoor ] 
+d 
+Ok. 
+
+HP:Wounded>An Escape Tunnel Exits are: S W U 
+
+HP:Wounded>s 
+Webbed Trees Exits are: N E S W 
+
+HP:Wounded>rid 
+e 
+s 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+e 
+R HP:Wounded>e 
+Webbed Trees Exits are: S W 
+
+R HP:Wounded>e 
+Webbed Trees Exits are: N S W 
+
+R HP:Wounded>You cannot go that way. 
+
+R HP:Wounded>You cannot go that way. 
+
+R HP:Wounded>s 
+You cannot go that way. 
+
+R HP:Wounded>Webbed Trees Exits are: N W 
+
+R HP:Wounded>olw 
+[open largeweb] 
+e 
+Ok. 
+
+n 
+R HP:Wounded>n 
+Dark Mirkwood Exits are: N E W 
+
+R HP:Wounded>n 
+Dark Mirkwood Exits are: N E S 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Wounded>n 
+n 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Wounded>Dark Mirkwood Exits are: N E S 
+
+R HP:Wounded>Dark Mirkwood Exits are: N E S 
+
+R HP:Wounded>ber 
+[set tactics berserk] 
+Beginning of a Small Path Exits are: E S W 
+
+R HP:Wounded>two 
+You are now employing berserk tactics. 
+
+1 
+Now targetting 1.Uruk. 
+R HP:Wounded>w 
+k 
+[hit 1.Uruk] 
+You are already wielding your weapon with two hands. 
+
+R HP:Wounded>Before the Guard Tower Exits are: N E S (W) 
+
+R HP:Wounded>They aren't here.R HP:Wounded>lead 
+s 
+k 
+[hit 1.Uruk] 
+You stop riding a mule. 
+A mule starts following you. 
+
+HP:Wounded>Below the Guard Tower Exits are: N (W) 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Wounded>They aren't here. 
+
+HP:Wounded>ew 
+[examine west] 
+You see nothing special. 
+The towerdoor is closed. 
+
+h 
+HP:Wounded> 
+The towerdoor is opened from the other side. 
+The towerdoor closes quietly. 
+
+l 
+HP:Wounded>Ok, you'll try to notice fresh tracks. 
+
+HP:Wounded>Below the Guard Tower Exits are: N (W) 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+The tracks of *an Uruk* lead north. Their condition is fresh 
+The tracks of *a Dwarf* lead west. Their condition is very clear 
+The tracks of a black warg lead NORTH. Their condition is FRESH 
+The tracks of an uruk scout lead west. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of an uruk scout lead west. Their condition is fresh 
+
+HP:Wounded>h 
+ew 
+[examine west] 
+You stop looking for fresh tracks. 
+
+HP:Wounded>The towerdoor is opened from the other side. 
+To the west you see: 
+The Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+The towerdoor is open. 
+
+HP:Wounded>n 
+Before the Guard Tower Exits are: N E S (W) 
+
+HP:Wounded>e 
+Beginning of a Small Path Exits are: E S W 
+
+HP:Wounded>rid 
+h 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+l 
+R HP:Wounded>Ok, you'll try to notice fresh tracks. 
+
+R HP:Wounded>Beginning of a Small Path Exits are: E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead west. Their condition is fresh 
+
+R HP:Wounded>ew 
+[examine west] 
+To the west you see: 
+Before the Guard Tower Exits are: N E S (W) 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of *a Dwarf* lead east. Their condition is fresh 
+The gate is open. 
+
+R HP:Wounded>l 
+Beginning of a Small Path Exits are: E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead west. Their condition is fresh 
+
+R HP:Wounded>e 
+Shadowy Path Exits are: S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Dark Path Exits are: N E S W 
+A black squirrel can barely be seen on a tree here. 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Dark Path Exits are: N E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Around a Sinkhole in the Path Exits are: N E S W D 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Darkened Path Twisting through Mirkwood Exits are: S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Dark Path Twists Exits are: N E 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Dark Path Exits are: N E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+e 
+R HP:Wounded>Dark Path Exits are: E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Twisting Path Exits are: N E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Dark Mirkwood Exits are: N E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A fetid black fungus grows here, covering the ground. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Many Ivies Exits are: N E W 
+A huge mirkwolf tenses its massive frame in readiness. 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Thick Vines Exits are: E W 
+The tracks of a huge mirkwolf lead west. Their condition is very clear 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+The Shaded Path Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>e 
+s 
+You cannot go that way. 
+
+R HP:Wounded>Large Plants Beside the Path Exits are: N S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+The Shaded Path Beside a Bend Exits are: N S W 
+
+R HP:Wounded>s 
+Shaded Path Bends Exits are: N E W 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+
+R HP:Wounded>w 
+Shaded Path Exits are: N E W 
+
+R HP:Wounded>w 
+Shaded Path Exits are: N E S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Shaded Path through Brush Exits are: N S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Shaded Warpath through Brush Exits are: N S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Warpath through Brush Exits are: N S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+
+Not a cloud can be seen in the sky. 
+You are thirsty. 
+
+R HP:Wounded>Shaded Warpath Exits are: N S W 
+A black squirrel can barely be seen on a tree here. 
+The tracks of a black warg lead South. Their condition is Very Clear 
+
+R HP:Wounded>drink 
+[get flask satchel] 
+[drin flask] 
+[drin flask] 
+[pour water flask] 
+[put flask satchel] 
+s 
+You get a silver flask from a leather satchel. 
+
+R HP:Wounded>You drink the water. 
+
+R HP:Wounded>You drink the water. 
+You don't feel thirsty any more. 
+
+R HP:Wounded>A most unproductive effort. 
+
+R HP:Wounded>You put a silver flask in a leather satchel. 
+
+R HP:Wounded>Shaded Warpath in Dark Forest Exits are: N E S W 
+The tracks of a black warg lead South. Their condition is Very Clear 
+
+R HP:Wounded>s 
+Shaded Warpath Bends Abruptly Exits are: N E W 
+A massive mirkwolf stares at you through blood red eyes. 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Wounded>s 
+w 
+You cannot go that way. 
+
+R HP:Wounded>Warpath through Gloomy Woods Exits are: E W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+A massive mirkwolf stares at you through blood red eyes. 
+The tracks of a mirkwolf lead east. Their condition is clear 
+The tracks of a forest troll lead east. Their condition is clear 
+The tracks of a black warg lead West. Their condition is Very Clear 
+
+R HP:Wounded>w 
+Shaded Warpath Turns Suddenly Exits are: N E S 
+The tracks of a black warg lead South. Their condition is Very Clear 
+
+R HP:Wounded>s 
+Shaded Warpath Exits are: N S 
+A black squirrel can barely be seen on a tree here. 
+The tracks of a black warg lead South. Their condition is Very Clear 
+
+h 
+R HP:Wounded>s 
+s 
+s 
+s 
+You stop looking for fresh tracks. 
+
+s 
+R HP:Wounded>Shaded Path Exits are: N E S W 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Wounded>Shaded Path Exits are: N E S W 
+
+R HP:Wounded>Shaded Path Runs True Exits are: N E S W 
+
+R HP:Wounded>Ancient Trees line the Warpath Exits are: N E S 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Wounded>Warpath in a Tunnel of Trees Exits are: N S 
+
+s 
+R HP:Wounded>s 
+Thick Vines on the Warpath Exits are: N E S W 
+Thick vines hang down from the branches, twitching ominously. 
+
+R HP:Wounded>s 
+Thin Trees Exits are: N E S W 
+
+R HP:Wounded>Tree Stumps Exits are: N E S W 
+A large tree stump is sticking about ten inches out of the ground. 
+
+R HP:Wounded>e 
+s 
+s 
+The Shaded Path Exits are: N E S W 
+
+R HP:Wounded>s 
+The Shaded Path Exits are: N S W 
+
+s 
+R HP:Wounded>The Shaded Path Continues Exits are: N E S W 
+
+R HP:Wounded>Shaded Path Exits are: N E W 
+
+R HP:Wounded>You cannot go that way. 
+
+R HP:Wounded>h 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Wounded>Shaded Path Exits are: N E W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead East. Their condition is Very Clear 
+The tracks of a black warg lead West. Their condition is Very Clear 
+
+R HP:Wounded>h 
+w 
+You stop looking for fresh tracks. 
+
+R HP:Wounded>The Shaded Path Exits are: E S W 
+
+R HP:Wounded>w 
+Thinning Forest Exits are: E W 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Wounded>e 
+s 
+s 
+s 
+The Shaded Path Exits are: E S W 
+
+R HP:Wounded>The Shaded Path Bends Exits are: N W 
+A shrub with thick, waxy, spiny leaves and red berries grows here. 
+
+R HP:Wounded>w 
+You cannot go that way. 
+
+R HP:Wounded>s 
+You cannot go that way. 
+
+s 
+R HP:Wounded>The Shaded Path Exits are: E S W 
+
+R HP:Wounded>The Shaded Path Bends Exits are: N E W 
+
+R HP:Wounded>You cannot go that way. 
+
+R HP:Wounded>w 
+s 
+The Shaded Path Bends Exits are: E S W 
+
+s 
+R HP:Wounded>s 
+Warpath Runs True Exits are: N S 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>Warpath Runs True Exits are: N S 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Wounded>s 
+The Warpath Bends Exits are: N E 
+
+R HP:Wounded>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+s 
+R HP:Wounded>You cannot go that way. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>They aren't here. 
+
+e 
+R HP:Wounded>You cannot go that way. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>Warpath through Diseased Alder Exits are: E W 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>h 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Wounded>Warpath through Diseased Alder Exits are: E W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Wounded>e 
+Shaded Warpath Between Oaks Exits are: N S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>s 
+Shaded Warpath Beside a Boulder Exits are: N S 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Wounded>h 
+s 
+s 
+s 
+You stop looking for fresh tracks. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>Shaded Warpath Beside a Boulder Exits are: N S 
+
+R HP:Wounded>Warpath Between Hanging Vines Exits are: N S W 
+
+R HP:Wounded>Shaded Warpath Exits are: N E S 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>s 
+s 
+Pot-Hole on the Warpath Exits are: N S D 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>s 
+s 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>n 
+k 
+[hit 1.Uruk] 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded>A Dol-Guldur orc commander attacks YOU! 
+A Dol-Guldur orc commander stabs your left hand very hard. 
+You already have a fight to worry about. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Healthy> 
+You discover a weakness in a Dol-Guldur orc commander's defense! 
+You cleave a Dol-Guldur orc commander's left leg very hard. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched>df 
+[set tactics aggressive] 
+[fle] 
+You are now employing aggressive tactics. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched>You flee head over heels. 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded>ber 
+[set tactics berserk] 
+k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+You are now employing berserk tactics. 
+
+R HP:Wounded>es 
+[examine south] 
+They aren't here. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>en 
+[examine north] 
+k 
+[hit 1.Uruk] 
+To the south you see: 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded>k 
+[hit 1.Uruk] 
+To the north you see: 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>n 
+k 
+[hit 1.Uruk] 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded>A Dol-Guldur orc commander attacks YOU! 
+A Dol-Guldur orc commander stabs your body very hard. 
+You already have a fight to worry about. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched> 
+You rush forward wildly. 
+You cleave a Dol-Guldur orc commander's body hard. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched>df 
+[set tactics aggressive] 
+[fle] 
+
+A Dol-guldur patrol member says 'J wuzu bzltzrh uy tocwgw!' 
+A Dol-guldur patrol member assists a Dol-Guldur orc commander. 
+A Dol-guldur patrol member attacks YOU! 
+A Dol-guldur patrol member lightly hits your right leg. 
+A Dol-guldur patrol member says 'J ggii btpwlwv rc kwljqg!' 
+A Dol-guldur patrol member assists a Dol-Guldur orc commander. 
+A Dol-guldur patrol member attacks YOU! 
+A Dol-guldur patrol member slashes your right hand hard. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched>You are now employing aggressive tactics. 
+
+R HP:Wounded, a Dol-Guldur orc commander:Scratched>You flee head over heels. 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+
+R HP:Wounded>ber 
+[set tactics berserk] 
+k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+You are now employing berserk tactics. 
+
+en 
+[examine north] 
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>es 
+[examine south] 
+They aren't here. 
+
+R HP:Wounded>k 
+[hit 1.Uruk] 
+To the north you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>To the south you see: 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>s;k;f 
+[hit 1.Uruk] 
+Tunnel of Trees over the Warpath Exits are: N S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You cleave *an Uruk*'s head hard. 
+
+R HP:Wounded, *an Uruk*:Wounded>df 
+[set tactics aggressive] 
+[fle] 
+You are too enraged to flee! 
+R HP:Wounded, *an Uruk*:Wounded>You are now employing aggressive tactics. 
+
+R HP:Wounded, *an Uruk*:Wounded>You flee head over heels. 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded>ber 
+[set tactics berserk] 
+two 
+You are now employing berserk tactics. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>You are already wielding your weapon with two hands. 
+
+k 
+[hit 1.Uruk] 
+R HP:Wounded>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Wounded>They aren't here. 
+
+R HP:Wounded>en 
+[examine north] 
+They aren't here. 
+
+R HP:Wounded>To the north you see: 
+Tunnel of Trees over the Warpath Exits are: N S 
+
+R HP:Wounded>es 
+[examine south] 
+To the south you see: 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded> 
+en 
+[examine north] 
+
+R HP:Wounded>es 
+[examine south] 
+To the north you see: 
+Tunnel of Trees over the Warpath Exits are: N S 
+
+R HP:Wounded>To the south you see: 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded>ew 
+[examine west] 
+To the west you see: 
+Dusty Mirkwood Exits are: E S 
+
+R HP:Wounded>w 
+cs 
+[cast 'cure self'] 
+Dusty Mirkwood Exits are: E S 
+
+R HP:Wounded>You start to concentrate. 
+
+
+The thick trees almost block out the sky, though it appears cloudless. 
+Saving Vesur. 
+
+aff 
+You lost your concentration! 
+You are affected by: 
+anger (medium) 
+restlessness (fast-acting) 
+resist magic (short) 
+insight (medium) 
+
+R HP:Wounded S:Powered>ee 
+[examine east] 
+To the east you see: 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded S:Powered>cs 
+[cast 'cure self'] 
+You start to concentrate. 
+
+ee 
+[examine east] 
+dia mule 
+
+*an Uruk* (busy) is entering from the east, riding on a black warg. 
+A black, menacing lizard enters from the east. 
+
+
+You feel less energetic. 
+
+e 
+Ok. 
+You feel better. 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your body. 
+To the east you see: 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded S:Depleted, *an Uruk*:Hurt>You cleave *an Uruk*'s right foot hard. 
+A mule looks healthy. 
+A mule is in top shape. 
+A mule has been here for a very long time. 
+A mule is affected by: 
+insight (long) 
+It is well aware of the Wraith-world. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>No way! You're fighting for your life! 
+
+df 
+[set tactics aggressive] 
+[fle] 
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>You are now employing aggressive tactics. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>You flee head over heels. 
+Tunnel of Trees over the Warpath Exits are: N S W 
+
+R HP:Wounded S:Depleted>ber 
+[set tactics berserk] 
+n 
+You are now employing berserk tactics. 
+
+R HP:Wounded S:Depleted>Tunnel of Trees over the Warpath Exits are: N S 
+
+R HP:Wounded S:Depleted>bt 
+[bash 1.Uruk] 
+Nobody here by that name. 
+
+bt 
+[bash 1.Uruk] 
+R HP:Wounded S:Depleted>bt 
+[bash 1.Uruk] 
+Nobody here by that name. 
+
+R HP:Wounded S:Depleted>Nobody here by that name. 
+
+R HP:Wounded S:Depleted>bt 
+[bash 1.Uruk] 
+Nobody here by that name. 
+
+bt 
+[bash 1.Uruk] 
+R HP:Wounded S:Depleted> 
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+A black, menacing lizard enters from the south. 
+
+R HP:Wounded S:Depleted>bt 
+[bash 1.Uruk] 
+
+*an Uruk* is leaving ^^^ NORTH ^^^, riding on a black warg. 
+A black, menacing lizard leaves north. 
+
+You can not do it this way. 
+Nobody here by that name. 
+
+en 
+[examine north] 
+R HP:Wounded S:Depleted>To the north you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Depleted> 
+*an Uruk* is entering from the north, riding on a black warg. 
+A black, menacing lizard enters from the north. 
+
+R HP:Wounded S:Depleted> 
+*an Uruk* attacks YOU! 
+
+R HP:Wounded S:Depleted, *an Uruk*:Hurt>s 
+
+You rush forward wildly. 
+You severely wound *an Uruk*'s body with your cleave! 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>df 
+[set tactics aggressive] 
+[fle] 
+s 
+s 
+You are now employing aggressive tactics. 
+
+s 
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>You flee head over heels. 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Wounded S:Depleted>A Dol-Guldur orc commander attacks YOU! 
+A Dol-Guldur orc commander stabs your right leg hard. 
+No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, a Dol-Guldur orc commander:Scratched>No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, a Dol-Guldur orc commander:Scratched>No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, a Dol-Guldur orc commander:Scratched> 
+A Dol-guldur patrol member says 'W ttyx rbeddpb ht dwfkjl!' 
+A Dol-guldur patrol member assists a Dol-Guldur orc commander. 
+A Dol-guldur patrol member attacks YOU! 
+A Dol-guldur patrol member barely hits your left foot. 
+
+R HP:Wounded S:Depleted, a Dol-Guldur orc commander:Scratched>f 
+You flee head over heels. 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Depleted>d 
+Can not go there mounted. 
+
+R HP:Wounded S:Depleted>lead 
+d 
+You stop riding a mule. 
+A mule starts following you. 
+
+HP:Wounded S:Depleted>Underwater Stream Exits are: E U 
+ACK! someone could not follow, you lost it! 
+ACK! someone could not follow, you lost it! 
+
+HP:Wounded S:Depleted>ber 
+[set tactics berserk] 
+Panic! You cannot breathe!! 
+You are now employing berserk tactics. 
+
+two 
+HP:Wounded S:Depleted>eu 
+[examine up] 
+You are already wielding your weapon with two hands. 
+
+HP:Wounded S:Depleted>To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+
+Your breathing has returned to normal. 
+
+HP:Wounded S:Depleted>To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+eu 
+[examine up] 
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Wounded S:Depleted>eu 
+[examine up] 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+eu 
+[examine up] 
+HP:Wounded S:Depleted>Panic! You cannot breathe!! 
+To the up you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+*an Uruk* (busy) is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+er 
+HP:Wounded S:Depleted>Unrecognized command. 
+
+HP:Wounded S:Depleted>two 
+u 
+k 
+[hit 1.Uruk] 
+You are already wielding your weapon with two hands. 
+
+HP:Wounded S:Depleted>b 
+You need to swim better or find a boat to go there. 
+
+HP:Wounded S:Depleted>They aren't here. 
+
+HP:Wounded S:Depleted>I see no here. 
+Bash who? 
+
+HP:Wounded S:Depleted>u 
+k 
+[hit 1.Uruk] 
+Pot-Hole on the Warpath Exits are: N S D 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+HP:Wounded S:Depleted>Your breathing has returned to normal. 
+You attack *an Uruk*! 
+You cleave *an Uruk*'s body extremely hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving ^^^ NORTH ^^^, riding on a black warg. 
+A black, menacing lizard leaves north. 
+
+HP:Wounded S:Depleted> 
+*an Uruk* is entering from the north, riding on a black warg. 
+A black, menacing lizard enters from the north. 
+
+HP:Wounded S:Depleted>rid 
+k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black, menacing lizard leaves south. 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+R HP:Wounded S:Depleted>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Wounded S:Depleted>They aren't here. 
+
+R HP:Wounded S:Depleted>They aren't here. 
+
+R HP:Wounded S:Depleted>es 
+[examine south] 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>n 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>e 
+Mirkwood Between Boulders Exits are: E W 
+
+R HP:Wounded S:Charged>aff 
+ew 
+[examine west] 
+You are affected by: 
+anger (medium) 
+resist magic (short) 
+insight (medium) 
+
+R HP:Wounded S:Charged>To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>ber 
+[set tactics berserk] 
+two 
+ew 
+[examine west] 
+You are now employing berserk tactics. 
+
+R HP:Wounded S:Charged>You are already wielding your weapon with two hands. 
+
+R HP:Wounded S:Charged>To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>res vesur 
+[cast restlessness vesur] 
+You start to concentrate. 
+
+ew 
+[examine west] 
+Ok. 
+You feel yourself lighter. 
+To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>ew 
+[examine west] 
+The thick trees almost block out the sky, though it appears cloudless. 
+To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+w 
+R HP:Wounded S:Charged>es 
+[examine south] 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>To the south you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Charged>s 
+es 
+[examine south] 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Charged>To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>n 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>Mirkwood Between Boulders Exits are: E W 
+
+se 
+[search] 
+[hit 1.Uruk] 
+R HP:Wounded S:Charged>You start searching the area. 
+
+dia mule 
+You haven't found anything suspicious. 
+They aren't here. 
+
+R HP:Wounded S:Charged>ber 
+[set tactics berserk] 
+A mule looks healthy. 
+A mule is in top shape. 
+A mule has been here for a very long time. 
+A mule is affected by: 
+insight (medium) 
+It is well aware of the Wraith-world. 
+
+R HP:Wounded S:Charged>You are now employing berserk tactics. 
+
+two 
+R HP:Wounded S:Charged>ew 
+[examine west] 
+You are already wielding your weapon with two hands. 
+
+R HP:Wounded S:Charged>To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>res mule 
+[cast restlessness mule] 
+You start to concentrate. 
+
+se 
+[search] 
+[hit 1.Uruk] 
+ew 
+[examine west] 
+You lost your concentration! 
+You start searching the area. 
+
+res mule 
+[cast restlessness mule] 
+You haven't found anything suspicious. 
+They aren't here. 
+
+R HP:Wounded S:Charged>To the west you see: 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>You start to concentrate. 
+
+
+Ok. 
+
+R HP:Wounded S:Charged>w 
+es 
+[examine south] 
+Shaded Warpath Exits are: N E S 
+
+R HP:Wounded S:Charged>To the south you see: 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Charged>s 
+es 
+[examine south] 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Charged>To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>ag 
+[set tactics aggressive] 
+You are now employing aggressive tactics. 
+
+R HP:Wounded S:Charged>s;k;f 
+[hit 1.Uruk] 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You rush forward wildly. 
+You cleave *an Uruk*'s head extremely hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded> 
+*an Uruk* smites your right arm hard. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+PANIC! You couldn't escape! 
+[fle] 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>You flee head over heels. 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Wounded S:Charged>es 
+[examine south] 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Wounded S:Charged>es 
+[examine south] 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>es 
+[examine south] 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>es 
+[examine south] 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>s;k;f 
+[hit 1.Uruk] 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+
+R HP:Wounded S:Charged>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You severely wound *an Uruk*'s body with your cleave! 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* smites your body. 
+
+R HP:Bloodied S:Charged, *an Uruk*:Bloodied>PANIC! You couldn't escape! 
+[fle] 
+
+R HP:Bloodied S:Charged, *an Uruk*:Bloodied>A black, menacing lizard rescues *an Uruk*. 
+
+A Dol-Guldur orc commander says 'I must protect my friend!' 
+A Dol-Guldur orc commander assists a black, menacing lizard. 
+A Dol-Guldur orc commander attacks YOU! 
+A Dol-Guldur orc commander stabs your left arm hard. 
+PANIC! You couldn't escape! 
+[fle] 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Healthy>You flee head over heels. 
+Pot-Hole on the Warpath Exits are: N S D 
+
+R HP:Bloodied S:Charged>es 
+[examine south] 
+
+*an Uruk* is entering from the south, riding on a black warg. 
+A black, menacing lizard enters from the south. 
+
+R HP:Bloodied S:Charged>*an Uruk* attacks YOU! 
+To the south you see: 
+Scene of Battle on the Warpath Exits are: N E S W 
+The dead body of an impaled elf lies rotting against a tree. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Bloodied S:Charged, *an Uruk*:Bloodied>k 
+[hit 1.Uruk] 
+
+You cleave *an Uruk*'s head. 
+
+R HP:Bloodied S:Charged, *an Uruk*:Awful>A black, menacing lizard rescues *an Uruk*. 
+
+You already have a fight to worry about. 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Healthy> 
+*an Uruk* attacks YOU! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Healthy> 
+A black, menacing lizard hits your body. 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Healthy>kit 
+[kick 1.Uruk] 
+You discover a weakness in a black, menacing lizard's defense! 
+You deeply wound a black, menacing lizard's left hindleg with your cleave. 
+You kick *an Uruk* in the shin, nice shot! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt> 
+A black, menacing lizard hits your body. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt> 
+*an Uruk* sends you sprawling with a powerful bash. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt>k 
+[hit 1.Uruk] 
+
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* smites your right hand hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt> 
+A black, menacing lizard hits your body hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt>kit 
+[kick 1.Uruk] 
+
+A black, menacing lizard bites you! 
+
+R HP:Bloodied S:Charged, a black, menacing lizard:Hurt>You have regained your balance! 
+You turn to fight *an Uruk*. 
+
+R HP:Bloodied S:Charged, *an Uruk*:Awful>A black, menacing lizard hits your body hard. 
+You wish that your wounds would stop BLEEDING so much! 
+*an Uruk* smites your right hand hard. 
+You wish that your wounds would stop BLEEDING so much! 
+You kick *an Uruk*'s head, snapping his spine at the neck. 
+*an Uruk* is dead! R.I.P. 
+Your spirit increases by 60. 
+You receive your share of experience -- 2653 points. 
+*an Uruk* stops riding a black warg. 
+Your blood freezes as you hear Ayden's death cry. 
+A black, menacing lizard realizes that *an Uruk* is a jerk! 
+You turn to face your next enemy. 
+
+R HP:Awful S:Charged, a black, menacing lizard:Hurt> 
+You cleave a black, menacing lizard's left foreleg extremely hard. 
+
+R HP:Awful S:Charged, a black, menacing lizard:Bloodied> 
+A black, menacing lizard hits your right arm. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Awful S:Charged, a black, menacing lizard:Bloodied> 
+You discover a weakness in a black, menacing lizard's defense! 
+You deeply wound a black, menacing lizard's body with your cleave. 
+A black, menacing lizard is dead! R.I.P. 
+Your spirit increases by 7. 
+You receive your share of experience -- 12 points. 
+
+R HP:Awful S:Powered>exa 2.corpse 
+You see nothing special.. 
+When you look inside, you see: 
+corpse (here) : 
+a silvery werewolf fur 
+a werewolf heart 
+a runed warhammer..It glows blue! 
+a tainted bracelet..It glows blue! 
+a tainted bracelet..It glows blue! 
+a sleek, black strap 
+a werewolf fur 
+a pair of ebony vambraces 
+a pair of ebony spiked gauntlets 
+a pair of ebony spiked boots 
+a pair of ebony greaves 
+an ebony spiked helm 
+an elfskin necklace..It glows blue! 
+an elfskin necklace..It glows blue! 
+an iron ring..It glows blue! 
+an ivory ring..It glows blue! 
+a huge mound of coins 
+a pair of shiny black sleeves 
+a pair of light sandals 
+a black pair of cotton gloves 
+a black pair of cotton pants 
+a loose, black cotton tunic 
+a leather flask 
+a pair of spectacles 
+a gruesome skin backpack 
+an emerald necklace..It glows blue! 
+a sapphire ring..It glows blue! 
+a backpack 
+a leather bag 
+a leather bag 
+a sharp, glimmering spear..It glows blue! 
+a long, dark snakeskin..It glows blue! 
+a long, dark snakeskin..It glows blue! 
+an inflated moose bladder 
+a sinister death mask 
+a dirty, frayed cloak 
+a stone ring..It glows blue! 
+a stone ring..It glows blue! 
+a fine steel blade 
+a dragon shield..It glows blue! 
+a golden sceptre..It glows blue! 
+a red silk sash 
+an etched leather girdle..It glows blue! 
+
+# 
+# I walk very, very slowly north to matron at Awful/Bloodied, where I meet Blurr at about the 
+# same time Ayden catches up with me after looting himself. Blurr and I chase Ayden away. 
+#

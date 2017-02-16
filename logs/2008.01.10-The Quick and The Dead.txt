@@ -1,0 +1,815 @@
+HP:Scratched S:Surging>To the west you see: 
+It is pitch black... 
+
+HP:Scratched S:Surging>w;e 
+A Hastily Built Barracks Exits are: E 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A beaten orcish slave stands here, fearing another thrashing. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched S:Surging>An Ancient Quarry Exits are: N E S W U 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Surging>2 
+Now targetting 2.Uruk. 
+HP:Scratched S:Surging>w 
+k 
+[hit 2.Uruk] 
+A Hastily Built Barracks Exits are: E 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A beaten orcish slave stands here, fearing another thrashing. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched S:Surging>You attack *an Uruk*! 
+You stab *an Uruk*'s body very hard. 
+
+HP:Scratched S:Surging Mind:in top shape, *an Uruk*:Scratched>f 
+
+*an Uruk* forces his Will against your concentration! 
+
+HP:Scratched S:Surging Mind:in top shape, *an Uruk*:Scratched>Cthogul the insomniac attacks YOU! 
+Cthogul the insomniac deeply wounds your right foot with his hit. 
+Cthogul the insomniac frowns. 
+You flee head over heels. 
+An Ancient Quarry Exits are: N E S W U 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Surging>e 
+e 
+e 
+An Intersection in a Tunnel Exits are: N E W 
+
+HP:Scratched S:Surging>A Narrow Tunnel Exits are: E S W 
+
+HP:Scratched S:Surging>An Escape Tunnel Exits are: S W (U) 
+
+HP:Scratched S:Surging>chat ooh, a mystic now 
+s 
+You chat 'ooh, a mystic now' 
+
+HP:Scratched S:Surging>Webbed Trees Exits are: N E S W 
+
+HP:Scratched S:Surging>rid 
+A mule stops following you. 
+You mount a mule and start riding him. 
+
+se 
+[search] 
+[hit 2.Uruk] 
+R HP:Scratched S:Surging>You start searching the area. 
+
+You haven't found anything suspicious. 
+They aren't here. 
+
+R HP:Scratched S:Surging>ber 
+[set tactics berserk] 
+two 
+You are now employing berserk tactics. 
+
+R HP:Scratched S:Surging>1 
+Now targetting 1.Uruk. 
+R HP:Scratched S:Surging>You are already wielding your weapon with two hands. 
+
+se 
+[search] 
+[hit 1.Uruk] 
+R HP:Scratched S:Surging>You start searching the area. 
+
+
+You haven't found anything suspicious. 
+Beazlbub chats 'you kickin butt?' 
+*an Uruk* enters from the north. 
+A black warg enters from the north. 
+A black warg enters from the north. 
+You attack *an Uruk*! 
+*an Uruk* resists a lot. 
+
+You stab *an Uruk*'s left arm hard. 
+
+R HP:Scratched S:Surging Mind:in top shape, *an Uruk*:Bruised> 
+*an Uruk* forces his Will against your learning! 
+
+R HP:Scratched S:Surging Mind:slightly retarded, *an Uruk*:Bruised> 
+*an Uruk* begins quietly muttering some strange, powerful words. 
+
+
+R HP:Scratched S:Surging Mind:slightly retarded, *an Uruk*:Bruised>l 
+Webbed Trees Exits are: N E S W 
+You are here, fighting *an Uruk*, riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+*an Uruk* (busy) is here, fighting YOU! 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Scratched S:Surging Mind:slightly retarded, *an Uruk*:Bruised>df 
+[set tactics aggressive] 
+[fle] 
+You discover a weakness in *an Uruk*'s defense! 
+You rush forward wildly. 
+You stab *an Uruk*'s right leg very hard. 
+You are now employing aggressive tactics. 
+
+R HP:Scratched S:Surging Mind:slightly retarded, *an Uruk*:Bruised>*an Uruk* forces his Will against your dexterity! 
+You flee head over heels. 
+Webbed Trees Exits are: S W 
+
+R HP:Scratched S:Surging>ber 
+[set tactics berserk] 
+You are now employing berserk tactics. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched S:Surging>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched S:Surging>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched S:Surging>They aren't here. 
+
+R HP:Scratched S:Surging>s 
+s 
+The thick trees almost block out the sky, though it appears cloudless. 
+Saving Vesur. 
+Webbed Trees Exits are: N S W 
+
+R HP:Scratched S:Surging>Webbed Trees Exits are: N W 
+
+spa 
+[remove spear] 
+[wield axe] 
+R HP:Scratched S:Surging>ber 
+[set tactics berserk] 
+You stop using an elven spetum. 
+
+R HP:Scratched S:Surging>You wield a fine silver battle axe. 
+This weapon seems too heavy for one hand. 
+You wield your weapon with both hands. 
+
+R HP:Scratched S:Surging>two 
+n 
+You are now employing berserk tactics. 
+
+R HP:Scratched S:Surging>n 
+You are already wielding your weapon with two hands. 
+
+bt 
+[bash 1.Uruk] 
+R HP:Scratched S:Surging>Webbed Trees Exits are: N S W 
+
+R HP:Scratched S:Surging>Webbed Trees Exits are: S W 
+
+R HP:Scratched S:Surging>w 
+*an Uruk* is entering from the west, riding on a black warg. 
+A black warg enters from the west. 
+
+
+*an Uruk* forces his Will against your concentration! 
+
+bt 
+[bash 1.Uruk] 
+
+*an Uruk* forces his Will against your constitution! 
+
+Your bash at *an Uruk* sends him sprawling. 
+No way! You're fighting for your life! 
+
+R HP:Scratched S:Surging Mind:barely sickly, *an Uruk*:Bruised>You cleave *an Uruk*'s body extremely hard. 
+Your victim is already bashed! 
+
+R HP:Scratched S:Surging Mind:barely sickly, *an Uruk*:Bruised>et 
+[examine 1.Uruk] 
+Tall and thin, with no signs of any strength, this Old and Hollow orc does 
+ot seem to be very dangero 
+
+*an Uruk* has some bruises. 
+
+*an Uruk* is using: 
+<worn> a sapphire ring..It glows blue! 
+<worn> a sapphire ring..It glows blue! 
+<worn> an elfskin necklace..It glows blue! 
+<worn> an elfskin necklace..It glows blue! 
+<worn> a black cotton shirt 
+<worn> a twisted crown..It glows blue! 
+<worn> a black pair of cotton pants 
+<worn> a pair of black, padded boots 
+<worn> a black pair of cotton gloves 
+<worn> a black pair of cotton sleeves 
+<worn> a dragon shield..It glows blue! 
+<worn> an orange embroidered robe..It glows blue! 
+<worn> a black cloth belt 
+<worn> a tainted bracelet..It glows blue! 
+<worn> a tainted bracelet..It glows blue! 
+<wielded> an enruned wooden staff..It glows blue! 
+<held> a golden sceptre..It glows blue! 
+<worn> a red silk sash 
+
+R HP:Scratched S:Surging Mind:barely sickly, *an Uruk*:Bruised> 
+You cleave *an Uruk*'s body very hard. 
+
+R HP:Scratched S:Surging Mind:barely sickly, *an Uruk*:Hurt> 
+*an Uruk* has recovered from a bash! 
+
+R HP:Scratched S:Surging Mind:barely sickly, *an Uruk*:Hurt> 
+*an Uruk* forces his Will against your will! 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Hurt>l 
+Webbed Trees Exits are: S W 
+You are here, fighting *an Uruk*, riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+*an Uruk* is here, fighting YOU, riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Hurt> 
+You cleave *an Uruk*'s body very hard. 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Hurt>b 
+
+*an Uruk* forces his Will against your strength! 
+
+ki 
+[kick ] 
+Your bash at *an Uruk* sends him sprawling. 
+You kick *an Uruk* in the shin, nice shot! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Hurt> 
+You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s left leg with your cleave. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Wounded>chat a mystic with high wimpy! 
+
+*an Uruk* has recovered from a bash! 
+*an Uruk* begins quietly muttering some strange, powerful words. 
+
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Wounded>*an Uruk* resists a lot. 
+
+You cleave *an Uruk*'s right leg hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* (busy) is leaving <<< WEST <<<riding>w 
+k 
+[hit 1.Uruk] 
+Webbed Trees Exits are: E S W 
+
+R HP:Scratched>*an Uruk* is entering from the west, riding on a black warg. 
+A black warg enters from the west. 
+You attack *an Uruk*! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Scratched Mind:slightly dispirited, *an Uruk*:Wounded> 
+*an Uruk* forces his Will against your intelligence! 
+
+R HP:Scratched Mind:slightly duped, *an Uruk*:Wounded> 
+*an Uruk* stops riding a black warg. 
+A black warg now follows *an Uruk*. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched Mind:slightly duped, *an Uruk*:Wounded>*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves VVV SOUTH VVV. 
+A black warg leaves south. 
+A black warg leaves south. 
+They aren't here. 
+
+R HP:Scratched>x 
+[close roots ] 
+k 
+[hit 1.Uruk] 
+It's already closed! 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>*an Uruk* enters from the south. 
+A black warg enters from the south. 
+A black warg enters from the south. 
+You attack *an Uruk*! 
+*an Uruk* resists a lot. 
+
+You cleave *an Uruk*'s left hand. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves >>> EAST >>>. 
+A black warg leaves east. 
+A black warg leaves east. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>x 
+[close roots ] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+*an Uruk* enters from the east. 
+A black warg enters from the east. 
+A black warg enters from the east. 
+You attack *an Uruk*! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves VVV SOUTH VVV. 
+A black warg leaves south. 
+A black warg leaves south. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+It's already closed! 
+
+R HP:Scratched>Beazlbub chats 'lo' 
+*an Uruk* enters from the south. 
+A black warg enters from the south. 
+A black warg enters from the south. 
+You attack *an Uruk*! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves >>> EAST >>>. 
+A black warg leaves east. 
+A black warg leaves east. 
+
+x 
+[close roots ] 
+R HP:Scratched>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+It's already closed! 
+
+R HP:Scratched>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>e 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>s 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>s 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>Webbed Trees Exits are: S W 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>Webbed Trees Exits are: N S W 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>Webbed Trees Exits are: N E W 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>e 
+n 
+n 
+Dark Mirkwood Exits are: N E W 
+
+R HP:Scratched>n 
+n 
+n 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Beginning of a Small Path Exits are: E S (W) 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Scratched>You attack *an Uruk*! 
+*an Uruk* resists a lot. 
+
+You cleave *an Uruk*'s right arm hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+
+R HP:Scratched>ew 
+[examine west] 
+x 
+[close roots ] 
+x 
+[close roots ] 
+You see nothing special. 
+The gate is closed. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+Nothing here by that name. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+Nothing here by that name. 
+
+R HP:Scratched>s 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>s 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>s 
+Dark Mirkwood Exits are: N E S 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Scratched>s 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>s 
+w 
+Dark Mirkwood Exits are: N E W 
+
+n 
+R HP:Scratched>n 
+w 
+Webbed Trees Exits are: N E W 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>Webbed Trees Exits are: N S W 
+
+R HP:Scratched>Webbed Trees Exits are: S W 
+
+R HP:Scratched>Webbed Trees Exits are: E S W 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>e 
+s 
+s 
+Webbed Trees Exits are: S W 
+
+e 
+R HP:Scratched>Webbed Trees Exits are: N S W 
+
+n 
+R HP:Scratched>n 
+Webbed Trees Exits are: N E W 
+
+R HP:Scratched>n 
+Dark Mirkwood Exits are: N E W 
+
+n 
+R HP:Scratched>n 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Beginning of a Small Path Exits are: E S (W) 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>ew 
+[examine west] 
+k 
+[hit 1.Uruk] 
+You see nothing special. 
+The gate is closed. 
+
+R HP:Scratched>h 
+s 
+They aren't here. 
+
+R HP:Scratched>Ok, you'll try to notice fresh tracks. 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+The tracks of a black warg lead NORTH. Their condition is FRESH 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Scratched>n 
+Beginning of a Small Path Exits are: E S (W) 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Scratched>s 
+s 
+Dark Mirkwood Exits are: N E S 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+The tracks of a black warg lead NORTH. Their condition is FRESH 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+A hunched forest troll moves around here, arms dragging on the ground. 
+The tracks of a black warg lead NORTH. Their condition is FRESH 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E S W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E S W 
+The tracks of a black warg lead SOUTH. Their condition is FRESH 
+
+R HP:Scratched>s 
+Dark Mirkwood Exits are: N E W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: E W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E W 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E S W 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+The tracks of a black warg lead EAST. Their condition is FRESH 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+b 
+You attack *an Uruk*! 
+You cleave *an Uruk*'s body very hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving <<< WEST <<<riding>The thick trees almost block out the sky, though it appears cloudless. 
+I see no here. 
+Bash who? 
+
+R HP:Scratched S:Surging>w 
+Dark Mirkwood Exits are: N E W 
+The tracks of a black warg lead North. Their condition is Very Clear 
+The tracks of a mule lead east. Their condition is very clear 
+
+R HP:Scratched S:Surging>h 
+w 
+Beazlbub chats 'hey prolly either small orstupid' 
+You stop looking for fresh tracks. 
+
+R HP:Scratched S:Surging>Dark Mirkwood Exits are: N E W 
+
+e 
+R HP:Scratched S:Surging>n 
+k 
+[hit 1.Uruk] 
+Dark Mirkwood Exits are: N E W 
+
+R HP:Scratched>Dark Path Exits are: E S W 
+
+R HP:Scratched>They aren't here. 
+
+h 
+R HP:Scratched>l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Scratched>Dark Path Exits are: E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+
+R HP:Scratched>h 
+w 
+w 
+You stop looking for fresh tracks. 
+
+R HP:Scratched>w 
+n 
+Dark Path Exits are: N E S W 
+
+w 
+R HP:Scratched>w 
+Dark Path Twists Exits are: N E 
+
+w 
+R HP:Scratched>w 
+You cannot go that way. 
+
+w 
+R HP:Scratched>Darkened Path Twisting through Mirkwood Exits are: S W 
+
+n 
+R HP:Scratched>k 
+[hit 1.Uruk] 
+Around a Sinkhole in the Path Exits are: N E S W D 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Scratched>Dark Path Exits are: N E S W 
+
+R HP:Scratched>Dark Path Exits are: N E S W 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>You cannot go that way. 
+
+R HP:Scratched>Beginning of a Small Path Exits are: E S (W) 
+
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>ew 
+[examine west] 
+h 
+l 
+You see nothing special. 
+The gate is closed. 
+
+R HP:Scratched>Ok, you'll try to notice fresh tracks. 
+
+R HP:Scratched>Beginning of a Small Path Exits are: E S (W) 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a black warg lead South. Their condition is Very Clear 
+
+R HP:Scratched> 
+*an Uruk* is entering from the east, riding on a black warg. 
+A black warg enters from the east. 
+
+R HP:Scratched>h 
+
+*an Uruk* stops riding a black warg. 
+A black warg now follows *an Uruk*. 
+
+R HP:Scratched>You stop looking for fresh tracks. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s body with your cleave. 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Scratched Mind:barely duped, *an Uruk*:Awful>x 
+[close gate ] 
+
+*an Uruk* forces his Will against your strength! 
+
+R HP:Scratched Mind:barely duped, *an Uruk*:Bloodied>It's already closed! 
+
+x 
+[close gate ] 
+R HP:Scratched Mind:barely duped, *an Uruk*:Bloodied>x 
+[close gate ] 
+It's already closed! 
+
+ki 
+[kick ] 
+R HP:Scratched Mind:barely duped, *an Uruk*:Bloodied>It's already closed! 
+
+R HP:Scratched Mind:barely duped, *an Uruk*:Bloodied>*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves >>> EAST >>>. 
+A black warg leaves east. 
+A black warg leaves east. 
+Your victim is not here! 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+e 
+R HP:Scratched>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>Shadowy Path Exits are: S W 
+*an Uruk* is sleeping here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Scratched>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+*an Uruk* resists a lot. 
+
+You deeply wound *an Uruk*'s left leg with your cleave. 
+*an Uruk* is dead! R.I.P. 
+Your spirit increases by 95. 
+You receive your share of experience -- 3140 points. 
+[get all.gold corpse] 
+[get all.silver corpse] 
+Your blood freezes as you hear Sharku's death cry. 
+A black warg stops following *an Uruk*. 
+A black warg stops following *an Uruk*.

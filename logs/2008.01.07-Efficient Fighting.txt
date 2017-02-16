@@ -1,0 +1,1616 @@
+# 
+# Harman died to Dmourk in Troys. Locknah and I ran to check his corpse, and 
+# found an Orc as well. We ran around a bit, then ran to tubor to see if they 
+# would follow. After a bit we went out and checked to see if they had. 
+# 
+
+
+>s 
+A Widening Cave Exits are: N W 
+A brown horse enters from the north. 
+
+>ew 
+[examine west] 
+To the west you see: 
+At a Deep Pit Exits are: E 
+The skewered corpse of a coiled black snake is lying here. 
+The skewered corpse of a coiled black snake is lying here. 
+The slashed corpse of a coiled black snake is lying here. 
+The slashed corpse of a coiled black snake is lying here. 
+The skewered corpse of a coiled black snake is lying here. 
+*an Orc* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+>n 
+Before a Jagged Cave Exits are: N S 
+A brown horse enters from the south. 
+
+>n 
+rid 
+The Eastern End of a Clearing Exits are: N E S W 
+A brown horse enters from the south. 
+
+HP:Scratched>A mule stops following you. 
+You mount a mule and start riding him. 
+
+R HP:Scratched> 
+A brown horse stops following Locknah. 
+Locknah mounts a brown horse and starts riding him. 
+
+R HP:Scratched> 
+Locknah says 'why should i?' 
+
+R HP:Scratched>chat They're waiting above stones atm 
+You chat 'They're waiting above stones atm' 
+
+R HP:Scratched> 
+Harman chats 'know where they are?' 
+
+R HP:Scratched>chat 2 uruks now, and an orc with 3 followers. 
+You chat '2 uruks now, and an orc with 3 followers.' 
+
+
+# 
+# Too much for Locknah and I. Harman joins, and we think of a way to split 
+# their group. 
+# 
+# Snip! 
+# 
+
+
+Thogar the Guardian is dead! R.I.P. 
+You get a misshapen key from the crushed corpse of Thogar the Guardian. 
+Harman gets the crushed corpse of Thogar the Guardian. 
+
+R>e 
+A Chattering Gate Exits are: E S W 
+Locknah is resting here, riding on a brown horse. 
+A nice pony enters from the west. 
+
+R>xl 
+[close bulkygate ] 
+[lock bulkygate ] 
+Ok. 
+
+R>*Click* 
+
+R>'drop corpse e 
+You say 'drop corpse e' 
+
+R>l 
+A Chattering Gate Exits are: E S (W) 
+Locknah is resting here, riding on a brown horse. 
+You are riding on a mule. 
+Harman is riding on a nice pony. 
+A friendly little pony is here, looking well-groomed and happy. 
+A stout little mule with droopy eyes stands here. 
+
+R>i 
+
+Harman drops the crushed corpse of Thogar the Guardian. 
+
+R>Locknah stops resting, and clambers on his feet. 
+You are carrying: 
+a misshapen key 
+a werewolf fur 
+a fine silver battle axe..It glows blue! 
+a heavy pair of chain mail sleeves 
+a pair of thick chain gloves 
+a pair of thick chain boots 
+a thick pair of chain mail leggings 
+a thick chain coif 
+a fine, chainmail shirt 
+a leather satchel 
+an elven spetum..It glows blue! 
+a shadowy blade..It glows blue! 
+a small jewelry box 
+a dark black shield 
+
+R> 
+Harman stops riding a nice pony. 
+A nice pony now follows Harman. 
+
+R> 
+Harman gets the crushed corpse of Thogar the Guardian. 
+
+R> 
+Harman leaves east. 
+A nice pony leaves east. 
+A nice pony leaves east. 
+
+R>ew 
+[examine west] 
+You see nothing special. 
+The bulkygate is closed. 
+
+R>l 
+A Chattering Gate Exits are: E S (W) 
+Locknah is riding on a brown horse. 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R>stand 
+Locknah stops riding a brown horse. 
+A brown horse now follows Locknah. 
+You are already standing. 
+
+R> 
+Harman enters from the east. 
+A nice pony enters from the east. 
+A nice pony enters from the east. 
+
+'wait e locknah 
+R>You say 'wait e locknah' 
+
+R>'wait e both of you 
+Locknah leaves east. 
+A brown horse leaves east. 
+You say 'wait e both of you' 
+
+R>stand 
+l 
+You are already standing. 
+
+R>A Chattering Gate Exits are: E S (W) 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+Harman Dom, Wait til' you see my O! is standing here. 
+A friendly little pony is here, looking well-groomed and happy. 
+A friendly little pony is here, looking well-groomed and happy. 
+
+R> 
+Harman leaves east. 
+A nice pony leaves east. 
+A nice pony leaves east. 
+
+R>w 
+The bulkygate seems to be closed. 
+
+R>uo 
+[unlock bulkygate ] 
+[open bulkygate ] 
+w 
+*click* 
+
+R>Ok. 
+
+R>Pines in Mirkwood Exits are: N E W 
+
+R>xl 
+[close bulkygate ] 
+[lock bulkygate ] 
+Ok. 
+
+R>*Click* 
+
+R>n 
+n 
+Nightshade in Mirkwood Exits are: N E S W 
+A writhing cube of black flames flickers through the air. (shadow) 
+
+R>Nightshade in Mirkwood Exits are: N E S W 
+
+R>n 
+n 
+Nightshade in Mirkwood Exits are: N E S 
+
+n 
+R>Ancient Well in Mirkwood Exits are: N S W 
+
+R>Dark Mirkwood Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+n 
+R>n 
+Dark Mirkwood Exits are: N E S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R>Through the trees a cloudless sky can be seen. 
+Dark Mirkwood Exits are: N E S W 
+
+aff 
+R S:Surging>You are affected by: 
+anger (short) 
+resist magic (short) 
+vitality (fast-acting) 
+regeneration (fast-acting) 
+insight (short) 
+evasion (permanent) 
+
+R S:Surging>dia mule 
+A mule looks healthy. 
+A mule is in top shape. 
+A mule has been here for a very long time. 
+A mule is affected by: 
+insight (medium) 
+It is well aware of the Wraith-world. 
+
+R S:Surging>res mule 
+[cast restlessness mule] 
+You start to concentrate. 
+
+res 2.mule 
+[cast restlessness 2.mule] 
+Ok. 
+You start to concentrate. 
+
+chat I'll try to make this lure quick-like 
+You lost your concentration! 
+You chat 'I'll try to make this lure quick-like' 
+
+R S:Surging>res 2.mule 
+[cast restlessness 2.mule] 
+You start to concentrate. 
+
+
+Ok. 
+
+R S:Surging>chat waiting in traps is boring 
+n 
+n 
+You chat 'waiting in traps is boring' 
+
+R>Dark Path Exits are: N E S W 
+
+R>Shadowy Path Exits are: S W 
+
+R>s 
+e 
+e 
+Dark Path Exits are: N E S W 
+
+e 
+R>Dark Path Exits are: N E S W 
+
+R>Around a Sinkhole in the Path Exits are: N E S W D 
+
+R>h 
+Darkened Path Twisting through Mirkwood Exits are: S W 
+
+R>l 
+Ok, you'll try to notice fresh tracks. 
+
+R>Darkened Path Twisting through Mirkwood Exits are: S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R> 
+Harman chats 'heh..' 
+
+R>h 
+s 
+e 
+e 
+e 
+You stop looking for fresh tracks. 
+
+R>Dark Path Twists Exits are: N E 
+A black squirrel can barely be seen on a tree here. 
+
+n 
+R>n 
+Harman chats 'tkk' 
+Dark Path Exits are: N E S W 
+
+e 
+R>Dark Path Exits are: E S W 
+
+e 
+R>Twisting Path Exits are: N E S W 
+
+R>Small Path in Mirkwood Exits are: N E S 
+
+R>track 
+Small Path in Mirkwood Exits are: E S W 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R>A Small Path Exits are: N E W 
+
+R> 
+A Fountain on the Warpath Exits are: N S W 
+Water gushes from a filthy stone fountain here. 
+
+R>n 
+You start searching the ground for tracks. 
+
+n 
+R>Warpath Through Mirkwood Exits are: N E S 
+
+R>Bending Warpath Exits are: N S W 
+
+R>track 
+You start searching the ground for tracks. 
+
+
+You find some tracks of what went past here. 
+The tracks of a black warg lead north. Their condition is weathered 
+The tracks of a black warg lead north. Their condition is weathered 
+
+R>w 
+Shaded Warpath Bends Exits are: N E W 
+
+n 
+R>n 
+n 
+Shaded Warpath Exits are: N E S W 
+
+R>w 
+Warpath through Dark Forest Exits are: N E S 
+
+R>Warpath Bends Again Exits are: N E S W 
+
+R>n 
+The Shaded Warpath Bends Exits are: N E W 
+
+R>n 
+n 
+Fallen Branches on the Warpath Exits are: N E S W 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R>n 
+Hanging Vines on the Warpath Exits are: N E S W 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R>n 
+A huge mirkwolf leaves north. 
+Shaded Warpath Exits are: N E S 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+n 
+R>A Large Depression on the Warpath Exits are: N E S 
+
+R>Warpath through Colorful Forest Exits are: N E S 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R>trac 
+Shaded Warpath Exits are: N E S W 
+
+R>You start searching the ground for tracks. 
+
+
+You find some tracks of what went past here. 
+The tracks of a black warg lead west. Their condition is weathering 
+The tracks of a black warg lead west. Their condition is weathering 
+The tracks of a mule lead north. Their condition is distinctive 
+The tracks of a mule lead north. Their condition is distinctive 
+The tracks of a black warg lead west. Their condition is weathering 
+The tracks of a brown horse lead north. Their condition is distinctive 
+
+R>w 
+w 
+An Aging Compost Exits are: E S W 
+
+w 
+R>w 
+The Southeast Corner of the Massing Area Exits are: N E S W 
+
+w 
+R>The Southwest Corner of the Massing Grounds Exits are: N E S W 
+
+w 
+R>w 
+Near the Massing Grounds Exits are: N E 
+
+R>w 
+You cannot go that way. 
+
+R>You cannot go that way. 
+
+R>n 
+You cannot go that way. 
+
+R>w 
+You cannot go that way. 
+
+w 
+R>Dark Shade Exits are: N E S W 
+
+R>A Grassy Rise Exits are: N E W 
+
+R>The Eastern End of a Clearing Exits are: N E S W 
+
+R>h 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R>The Eastern End of a Clearing Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R>s 
+Before a Jagged Cave Exits are: N S 
+
+R>es 
+[examine south] 
+To the south you see: 
+It is pitch black... 
+
+lead 
+R>You stop riding a mule. 
+A mule starts following you. 
+
+>h 
+s 
+You stop looking for fresh tracks. 
+
+ew 
+[examine west] 
+>A Widening Cave Exits are: N W 
+
+>To the west you see: 
+At a Deep Pit Exits are: E 
+The skewered corpse of a coiled black snake is lying here. 
+The skewered corpse of a coiled black snake is lying here. 
+The slashed corpse of a coiled black snake is lying here. 
+The slashed corpse of a coiled black snake is lying here. 
+The skewered corpse of a coiled black snake is lying here. 
+A large black snake is coiled up here, gazing at you intently. 
+
+> 
+*an Uruk* enters from the west. 
+*an Uruk* enters from the west. 
+A black warg enters from the west. 
+A black warg enters from the west. 
+A black warg enters from the west. 
+
+> 
+*an Uruk* leaves ^^^ NORTH ^^^. 
+*an Uruk* leaves ^^^ NORTH ^^^. 
+A black warg leaves north. 
+A black warg leaves north. 
+A black warg leaves north. 
+
+>n 
+n 
+Before a Jagged Cave Exits are: N S 
+*an Uruk* is standing here. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+rid 
+>*an Uruk* searches the ground for tracks. 
+The Eastern End of a Clearing Exits are: N E S W 
+
+e 
+>A mule stops following you. 
+You mount a mule and start riding him. 
+
+R>A Grassy Rise Exits are: N E W 
+
+R>e 
+Dark Shade Exits are: N E S W 
+
+R>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R>k 
+[hit 1.Uruk] 
+def 
+[set tactics defensive] 
+They aren't here. 
+
+R>who 
+You are now employing defensive tactics. 
+
+R>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+Players 
+------- 
+[ 26 Dwf] Harman Dom, Wait til' you see my O! 
+[ 38 Hum] Locknah - High Prissy Priest of the Northern Realm 
+[ 77 Dwf] Vesur the King of Dwarves 
+
+3 characters displayed. 
+
+R>They aren't here. 
+
+R>They aren't here. 
+
+l 
+R>w 
+k 
+[hit 1.Uruk] 
+Dark Shade Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R>A Grassy Rise Exits are: N E W 
+
+R>They aren't here. 
+
+R>w 
+
+Your regeneration slows again. 
+
+R>k 
+[hit 1.Uruk] 
+The Eastern End of a Clearing Exits are: N E S W 
+*an Uruk* is riding on a black warg. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+
+R>You attack *an Uruk*! 
+You discover a weakness in *an Uruk*'s defense! 
+You pierce *an Uruk*'s body very hard. 
+
+R HP:Healthy, *an Uruk*:Scratched>e 
+
+*an Uruk* whips your body hard. 
+
+R HP:Scratched, *an Uruk*:Scratched>f 
+No way! You're fighting for your life! 
+
+R HP:Scratched, *an Uruk*:Scratched>e 
+
+*an Orc* attacks YOU! 
+
+R HP:Scratched, *an Uruk*:Scratched>e 
+You flee head over heels. 
+Before a Jagged Cave Exits are: N S 
+
+R HP:Scratched>You cannot go that way. 
+
+R HP:Scratched>You cannot go that way. 
+
+R HP:Scratched>n 
+n 
+The Eastern End of a Clearing Exits are: N E S W 
+*an Uruk* is riding on a black warg. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+
+R HP:Scratched>e 
+e 
+*an Orc* is leaving VVV SOUTH VVV, riding on a black warg. 
+*an Orc* is leaving VVV SOUTH VVV, riding on a black warg. 
+*an Orc* is leaving VVV SOUTH VVV, riding on a black warg. 
+Short Pines Exits are: N E S W 
+
+R HP:Scratched>A Grassy Rise Exits are: N E S W 
+
+R HP:Scratched>A Patch of Grass Exits are: N S W 
+
+R HP:Scratched>s 
+s 
+Clouds can be seen above in the sky. 
+Dark Shade Exits are: N E S W 
+
+R HP:Scratched S:Surging>aff 
+Near the Massing Grounds Exits are: N E 
+
+R HP:Scratched S:Surging>You are affected by: 
+anger (medium) 
+resist magic (short) 
+vitality (fast-acting) 
+insight (short) 
+evasion (permanent) 
+
+R HP:Scratched S:Surging>e 
+e 
+The Southwest Corner of the Massing Grounds Exits are: N E S W 
+
+R HP:Scratched S:Surging>The Southeast Corner of the Massing Area Exits are: N E S W 
+
+R HP:Scratched S:Surging>res vesur 
+[cast restlessness vesur] 
+You start to concentrate. 
+
+e 
+e 
+e 
+You lost your concentration! 
+An Aging Compost Exits are: E S W 
+
+R HP:Scratched S:Surging>Shaded Warpath Exits are: N E S W 
+
+R HP:Scratched S:Surging>New Forest Exits are: N E S W 
+
+R HP:Scratched S:Surging>res vesur 
+[cast restlessness vesur] 
+You start to concentrate. 
+
+
+Ok. 
+You feel yourself lighter. 
+
+R HP:Scratched>s 
+Old Mirkwood Exits are: N S W 
+A massive mirkwolf stares at you through blood red eyes. 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Scratched>chat splitting them might be hard. 
+s 
+You chat 'splitting them might be hard.' 
+
+R HP:Scratched>Mirkwood Forest Exits are: N E S W 
+
+R HP:Scratched>w 
+A Large Depression on the Warpath Exits are: N E S 
+
+R HP:Scratched>def 
+[set tactics defensive] 
+You are now employing defensive tactics. 
+
+l 
+R HP:Scratched>A Large Depression on the Warpath Exits are: N E S 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Scratched>They aren't here. 
+
+R HP:Scratched>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Scratched>en 
+[examine north] 
+They aren't here. 
+
+R HP:Scratched>def 
+[set tactics defensive] 
+To the north you see: 
+It is pitch black... 
+
+R HP:Scratched>You are now employing defensive tactics. 
+
+R HP:Scratched>score 
+
+*an Uruk* (busy) is entering from the east, riding on a black warg. 
+*an Uruk* is entering from the east, riding on a black warg. 
+A black warg enters from the east. 
+
+R HP:Scratched>s 
+*an Uruk* attacks YOU! 
+No way! You're fighting for your life! 
+
+R HP:Scratched, *an Uruk*:Scratched>You pierce *an Uruk*'s body hard. 
+No way! You're fighting for your life! 
+
+R HP:Scratched, *an Uruk*:Scratched>f 
+
+*an Uruk* attacks YOU! 
+
+R HP:Scratched, *an Uruk*:Scratched>You flee head over heels. 
+Warpath through Colorful Forest Exits are: N E S 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Scratched> 
+A mirkwolf attacks YOU! 
+You pierce a mirkwolf's body hard. 
+
+R HP:Scratched, a mirkwolf:Scratched>f 
+You pierce a mirkwolf's head hard. 
+You flee head over heels. 
+Shaded Warpath Exits are: N E S W 
+*an Orc* (busy) is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+
+R HP:Scratched>e 
+*an Orc* is leaving >>> EAST >>>, riding on a black warg. 
+*an Orc* is leaving >>> EAST >>>, riding on a black warg. 
+*an Orc* is leaving >>> EAST >>>, riding on a black warg. 
+New Forest Exits are: N E S W 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* (busy) is riding on a black warg. 
+
+R HP:Scratched>w 
+
+*an Orc* is leaving <<< WEST <<<, riding on a black warg. 
+*an Orc* is leaving <<< WEST <<<, riding on a black warg. 
+*an Orc* is leaving <<< WEST <<<riding>Shaded Warpath Exits are: N E S W 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* (busy) is riding on a black warg. 
+
+R HP:Scratched>s 
+You feel heavier again. 
+Warpath through Colorful Forest Exits are: N E S 
+A massive mirkwolf stares at you through blood red eyes. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Scratched> 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+
+R HP:Scratched> 
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+*an Uruk* is entering from the south, riding on a black warg. 
+A black warg enters from the south. 
+
+R HP:Scratched>e 
+*an Orc* is entering from the north, riding on a black warg. 
+*an Orc* is entering from the north, riding on a black warg. 
+*an Orc* is entering from the north, riding on a black warg. 
+Old Mirkwood Exits are: N S W 
+A massive mirkwolf stares at you through blood red eyes. 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Scratched>s 
+Mirkwood Forest Exits are: N E S W 
+
+R HP:Scratched>s 
+Forest of Darkness Exits are: N E W 
+
+R HP:Scratched>s 
+You cannot go that way. 
+
+R HP:Scratched>w 
+s 
+s 
+Shaded Warpath Exits are: N E S 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R HP:Scratched>Hanging Vines on the Warpath Exits are: N E S W 
+
+R HP:Scratched>Fallen Branches on the Warpath Exits are: N E S W 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Scratched> 
+Locknah chats 'You give a fine silver bastard sword to Harman.' 
+
+s 
+R HP:Scratched> 
+The world seems dull again. 
+
+R HP:Scratched>The Shaded Warpath Bends Exits are: N E W 
+
+R HP:Scratched>inss 
+[cast insight Vesur] 
+You start to concentrate. 
+
+
+You lost your concentration! 
+
+R HP:Scratched>chat they're interested :P 
+You chat 'they're interested :P' 
+
+e 
+R HP:Scratched>Warpath Bends Again Exits are: N E S W 
+
+inss 
+[cast insight Vesur] 
+R HP:Scratched>You start to concentrate. 
+
+
+Ok. 
+The world seems to gain a few edges for you. 
+
+R HP:Scratched>s 
+Warpath through Dark Forest Exits are: N E S 
+
+R HP:Scratched> 
+Harman chats 'hehe..' 
+
+R HP:Scratched>s 
+Shaded Warpath Exits are: N E S W 
+
+R HP:Scratched>s 
+Shaded Warpath Bends Exits are: N E W 
+
+R HP:Scratched>e 
+s 
+s 
+Bending Warpath Exits are: N S W 
+
+w 
+R HP:Scratched>Warpath Through Mirkwood Exits are: N E S 
+
+w 
+R HP:Scratched>A Fountain on the Warpath Exits are: N S W 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Scratched>A Small Path Exits are: N E W 
+
+R HP:Scratched>w 
+Small Path in Mirkwood Exits are: E S W 
+
+R HP:Scratched>s 
+Can not go there mounted. 
+
+s 
+R HP:Scratched>Small Path in Mirkwood Exits are: N E S 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Scratched>w 
+w 
+Twisting Path Exits are: N E S W 
+
+R HP:Scratched>Dark Path Exits are: E S W 
+
+R HP:Scratched>Dark Path Exits are: N E S W 
+
+R HP:Scratched>w 
+Dark Path Twists Exits are: N E 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Scratched>n 
+w 
+Darkened Path Twisting through Mirkwood Exits are: S W 
+
+R HP:Scratched>Around a Sinkhole in the Path Exits are: N E S W D 
+
+R HP:Scratched>d 
+Deep Sinkhole With Fallen Tree-Trunks Exits are: W U 
+
+R HP:Scratched> 
+*an Uruk* (busy) is entering from above, riding on a black warg. 
+*an Uruk* is entering from above, riding on a black warg. 
+A black warg enters from above. 
+
+resm 
+[cast 'resist magic'] 
+R HP:Scratched>You start to concentrate. 
+
+
+
+*an Uruk* attacks YOU! 
+
+f 
+You could not concentrate anymore! 
+*an Uruk* attacks YOU! 
+
+R HP:Scratched, *an Uruk*:Bruised>You pierce *an Uruk*'s right hand hard. 
+PANIC! You couldn't escape! 
+[fle] 
+
+R HP:Scratched, *an Uruk*:Bruised>w 
+w 
+You flee head over heels. 
+Around a Sinkhole in the Path Exits are: N E S W D 
+
+R HP:Scratched>w 
+Dark Path Exits are: N E S W 
+
+R HP:Scratched>Dark Path Exits are: N E S W 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>s 
+s 
+s 
+Dark Mirkwood Exits are: N E S 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Scratched>s 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>Dark Mirkwood Exits are: N E 
+
+R HP:Scratched>e 
+Ancient Well in Mirkwood Exits are: N S W 
+
+R HP:Scratched>n 
+Dark Mirkwood Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+n 
+R HP:Scratched>Dark Mirkwood Exits are: N E S W 
+
+R HP:Scratched>e 
+Dark Mirkwood Exits are: N E W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+n 
+R HP:Scratched>Dark Mirkwood Exits are: N E S W 
+
+R HP:Scratched>n 
+e 
+Dark Path Exits are: N E S W 
+
+e 
+R HP:Scratched>Around a Sinkhole in the Path Exits are: N E S W D 
+
+R HP:Scratched>Darkened Path Twisting through Mirkwood Exits are: S W 
+
+R HP:Scratched>h 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R>Darkened Path Twisting through Mirkwood Exits are: S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+The tracks of a black warg lead WEST. Their condition is FRESH 
+
+R>h 
+You stop looking for fresh tracks. 
+
+R> 
+You feel more vulnerable to magic. 
+
+R HP:Scratched>score 
+resm 
+[cast 'resist magic'] 
+
+R HP:Scratched>You start to concentrate. 
+
+resm 
+[cast 'resist magic'] 
+Ok. 
+You feel yourself resistant to magic. 
+You start to concentrate. 
+
+
+You could not concentrate anymore! 
+
+R>conc 
+You start focusing your mind. 
+
+
+You release your concentration. 
+
+R>resm 
+[cast 'resist magic'] 
+You start to concentrate. 
+
+
+*an Orc* (busy) is entering from the south, riding on a black warg. 
+*an Orc* is entering from the south, riding on a black warg. 
+*an Orc* is entering from the south, riding on a black warg. 
+
+resm 
+[cast 'resist magic'] 
+
+You lost your concentration! 
+You start to concentrate. 
+
+f 
+w 
+
+*an Orc* attacks YOU! 
+
+w 
+w 
+
+*an Orc* issues an order. 
+*an Orc* assists *an Orc*. 
+*an Orc* attacks YOU! 
+*an Orc* assists *an Orc*. 
+*an Orc* attacks YOU! 
+
+
+You lost your concentration! 
+You flee head over heels. 
+Around a Sinkhole in the Path Exits are: N E S W D 
+*an Uruk* is riding on a black warg. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R> 
+Dark Path Exits are: N E S W 
+
+
+R>Dark Path Exits are: N E S W 
+
+R>Dark Mirkwood Exits are: N E S 
+
+R>R>s 
+s 
+Dark Mirkwood Exits are: N E S 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Scratched>rest 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Scratched>You sit down and rest your tired bones. 
+
+R> 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+*an Uruk* is entering from the north, riding on a black warg. 
+A black warg enters from the north. 
+
+R HP:Scratched> 
+*an Uruk* begins quietly muttering some strange, powerful words. 
+
+
+R HP:Scratched> 
+*an Orc* is entering from the north, riding on a black warg. 
+*an Orc* (busy) is entering from the north, riding on a black warg. 
+*an Orc* is entering from the north, riding on a black warg. 
+
+R HP:Scratched> 
+*an Uruk* attacks YOU! 
+*an Uruk* rushes forward wildly. 
+*an Uruk* deeply wounds your head with his whip. 
+
+stnad 
+R HP:Bruised, *an Uruk*:Bruised> 
+You discover a weakness in *an Uruk*'s defense! 
+You pierce *an Uruk*'s right leg. 
+
+R HP:Bruised, *an Uruk*:Bruised>f 
+*an Orc* begins quietly muttering some strange, powerful words. 
+
+Unrecognized command. 
+
+R HP:Bruised, *an Uruk*:Bruised>e 
+e 
+*an Uruk* utters a strange command, 'curing saturation' 
+You feel yourself becoming healthier. 
+*an Uruk* attacks YOU! 
+*an Uruk* pierces your left arm. 
+You flee head over heels. 
+Dark Mirkwood Exits are: N E S 
+
+R HP:Bruised>Dark Mirkwood Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Bruised>You cannot go that way. 
+
+R HP:Bruised>s 
+Ancient Well in Mirkwood Exits are: N S W 
+
+R HP:Bruised>rest 
+You sit down and rest your tired bones. 
+
+R HP:Bruised> 
+Clouds can be seen above in the sky. 
+
+R HP:Bruised S:Surging> 
+*an Orc* is entering from the west, riding on a black warg. 
+*an Orc* (busy) is entering from the west, riding on a black warg. 
+*an Orc* is entering from the west, riding on a black warg. 
+
+R HP:Bruised S:Surging>stand 
+f 
+You stop resting, and stand up. 
+
+R HP:Bruised S:Surging> 
+*an Orc* attacks YOU! 
+
+R HP:Bruised S:Surging, *an Orc*:Healthy>You flee head over heels. 
+Dark Mirkwood Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+*an Uruk* (busy) is riding on a black warg. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Bruised S:Surging>w 
+
+*an Uruk* attacks YOU! 
+*an Uruk* attacks YOU! 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised>*an Orc* (busy) is entering from the south, riding on a black warg. 
+*an Orc* is entering from the south, riding on a black warg. 
+*an Orc* is entering from the south, riding on a black warg. 
+No way! You're fighting for your life! 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised>f 
+
+A forest troll attacks YOU! 
+You pierce *an Uruk*'s body hard. 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised>You flee head over heels. 
+Dark Mirkwood Exits are: N E S W 
+
+R HP:Bruised S:Surging>s 
+s 
+s 
+Dark Mirkwood Exits are: N S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+*an Uruk* (busy) is riding on a black warg. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+*an Orc* is riding on a black warg. 
+
+R HP:Bruised S:Surging>*an Orc* is leaving ^^ NORTH ^^^, riding on a black warg. 
+*an Orc* is leaving ^^ NORTH ^^^, riding on a black warg. 
+*an Orc* is leaving ^^ NORTH ^^^, riding on a black warg. 
+*an Uruk* is leaving ^^^ NORTH ^^^, riding on a black warg. 
+Ancient Well in Mirkwood Exits are: N S W 
+
+R HP:Bruised S:Surging>Nightshade in Mirkwood Exits are: N E S 
+
+R HP:Bruised S:Surging>e 
+s 
+s 
+Nightshade in Mirkwood Exits are: S W 
+
+R HP:Bruised>s 
+Nightshade in Mirkwood Exits are: N E S W 
+
+R HP:Bruised>Nightshade in Mirkwood Exits are: N E W 
+A small downy bush with dull, purple pentamerous flowers grows here. 
+A writhing cube of black flames flickers through the air. (shadow) 
+
+R HP:Bruised>You cannot go that way. 
+
+R HP:Bruised>e 
+Nightshade in Mirkwood Exits are: N E W 
+
+R HP:Bruised>uo 
+[unlock bulkygate ] 
+[open bulkygate ] 
+I see no bulkygate here. 
+
+e 
+R HP:Bruised>Nothing here by that name. 
+
+R HP:Bruised>Can not go there mounted. 
+
+R HP:Bruised>w 
+w 
+s 
+Nightshade in Mirkwood Exits are: N E W 
+A small downy bush with dull, purple pentamerous flowers grows here. 
+A writhing cube of black flames flickers through the air. (shadow) 
+
+R HP:Bruised>s 
+Nightshade in Mirkwood Exits are: N E S W 
+A writhing cube of black flames flickers through the air. (shadow) 
+
+R HP:Bruised>Pines in Mirkwood Exits are: N (E) W 
+
+R HP:Bruised>You cannot go that way. 
+
+R HP:Bruised>uo 
+[unlock bulkygate ] 
+[open bulkygate ] 
+*click* 
+
+R HP:Bruised>Ok. 
+
+R HP:Bruised>rest 
+You sit down and rest your tired bones. 
+
+R HP:Bruised> 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+*an Uruk* is entering from the north, riding on a black warg. 
+A black warg enters from the north. 
+
+R HP:Bruised> 
+*an Uruk* wields a dragon-toothed whip. 
+*an Uruk* takes his weapon with both hands. 
+
+R HP:Bruised> 
+*an Uruk* attacks YOU! 
+*an Uruk* whips your body very hard. 
+
+stnad 
+R HP:Bruised, *an Uruk*:Scratched> 
+You discover a weakness in *an Uruk*'s defense! 
+You pierce *an Uruk*'s right arm hard. 
+
+f 
+R HP:Bruised, *an Uruk*:Bruised>Unrecognized command. 
+
+R HP:Bruised, *an Uruk*:Bruised>PANIC! You couldn't escape! 
+[fle] 
+
+R HP:Bruised, *an Uruk*:Bruised>You flee head over heels. 
+Pines in Mirkwood Exits are: N E W 
+
+R HP:Bruised>e 
+e 
+*an Uruk* is entering from the east, riding on a black warg. 
+Pines in Mirkwood Exits are: N E W 
+*an Uruk* (busy) is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Bruised>A Chattering Gate Exits are: E S W 
+
+R HP:Bruised> 
+*an Uruk* (busy) is entering from the west, riding on a black warg. 
+A black warg enters from the west. 
+
+R HP:Bruised>xl 
+[close bulkygate ] 
+[lock bulkygate ] 
+Ok. 
+
+R HP:Bruised>*an Uruk* attacks YOU! 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* whips your left arm very hard. 
+*Click* 
+
+R HP:Bruised, *an Uruk*:Bruised> 
+You pierce *an Uruk*'s body. 
+
+R HP:Bruised, *an Uruk*:Bruised>chat IN 
+You chat 'IN' 
+
+R HP:Bruised, *an Uruk*:Bruised>chat IN 
+
+You discover a weakness in *an Uruk*'s defense! 
+You pierce *an Uruk*'s left leg hard. 
+
+R HP:Bruised, *an Uruk*:Bruised>def 
+[set tactics defensive] 
+You chat 'IN' 
+
+R HP:Bruised, *an Uruk*:Bruised> 
+You are now employing defensive tactics. 
+
+R HP:Bruised, *an Uruk*:Bruised> 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+R HP:Bruised, *an Uruk*:Bruised> 
+Harman enters from the east. 
+A nice pony enters from the east. 
+A nice pony enters from the east. 
+
+R HP:Bruised, *an Uruk*:Bruised>xl 
+[close bulkygate ] 
+[lock bulkygate ] 
+
+Harman attacks *an Uruk*! 
+Harman discovers a weakness in *an Uruk*'s defense! 
+Harman deeply wounds *an Uruk*'s right arm with his slash. 
+
+R HP:Bruised, *an Uruk*:Hurt> 
+Locknah enters from the east. 
+A brown horse enters from the east. 
+
+R HP:Bruised, *an Uruk*:Hurt>You have regained your balance! 
+It's already closed! 
+
+R HP:Bruised, *an Uruk*:Hurt>da 
+[remove dagger] 
+[remove shield] 
+[wield axe] 
+You discover a weakness in *an Uruk*'s defense! 
+You pierce *an Uruk*'s left arm hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+It's already locked! 
+
+R HP:Bruised>ber 
+[set tactics berserk] 
+You stop using a light marble dagger. 
+
+R HP:Bruised>You stop using a fine, silver shield. 
+
+two 
+R HP:Bruised>You wield a fine silver battle axe. 
+This weapon seems too heavy for one hand. 
+You wield your weapon with both hands. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+You are now employing berserk tactics. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+*an Uruk* is entering from the south, riding on a black warg. 
+A black warg enters from the south. 
+You are already wielding your weapon with two hands. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+You attack *an Uruk*! 
+
+R HP:Bruised, *an Uruk*:Hurt>You do the best you can! 
+
+xl 
+[close bulkygate ] 
+[lock bulkygate ] 
+R HP:Bruised, *an Uruk*:Hurt>k 
+[hit 1.Uruk] 
+Locknah assists you! 
+Locknah attacks *an Uruk*! 
+Locknah discovers a weakness in *an Uruk*'s defense! 
+Locknah deeply wounds *an Uruk*'s left arm with his slash. 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Hurt>k 
+[hit 1.Uruk] 
+It's already closed! 
+
+R HP:Bruised, *an Uruk*:Hurt>k 
+[hit 1.Uruk] 
+*an Uruk* whips your body very hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+It's already locked! 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Hurt>You deeply wound *an Uruk*'s head with your cleave. 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+They aren't here. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+*an Uruk* is entering from the south, riding on a black warg. 
+A black warg enters from the south. 
+You attack *an Uruk*! 
+
+R HP:Bruised, *an Uruk*:Wounded>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+Harman sends *an Uruk* sprawling with a powerful bash. 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>Locknah assists you! 
+Locknah attacks *an Uruk*! 
+You do the best you can! 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Wounded>You do the best you can! 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Wounded>You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded>You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Wounded> 
+You deeply wound *an Uruk*'s left arm with your cleave. 
+
+R HP:Bruised, *an Uruk*:Wounded> 
+Harman slashes *an Uruk*'s body very hard. 
+
+R HP:Bruised, *an Uruk*:Wounded> 
+Locknah slashes *an Uruk*'s body extremely hard. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Bruised, *an Uruk*:Bloodied>k 
+[hit 1.Uruk] 
+k 
+[hit 1.Uruk] 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Bloodied> 
+Locknah begins quietly muttering some strange, powerful words. 
+
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Bloodied>You do the best you can! 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Bloodied>You do the best you can! 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised, *an Uruk*:Bloodied>*an Uruk* has recovered from a bash! 
+You do the best you can! 
+
+R HP:Bruised, *an Uruk*:Bloodied>k 
+[hit 1.Uruk] 
+You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s body with your cleave. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Bruised>s 
+k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Bruised>s 
+k 
+[hit 1.Uruk] 
+A Lugubrious Street Exits are: N S W 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Bruised>*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+You attack *an Uruk*! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* panics, and attempts to flee! 
+
+R HP:Bruised, *an Uruk*:Awful> 
+*an Uruk* whips your body hard. 
+
+R HP:Bruised, *an Uruk*:Awful>*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+A Worn Cobble Street Exits are: N S W 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Bruised>You attack *an Uruk*! 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving VVV SOUTH VVV, riding on a black warg. 
+A black warg leaves south. 
+
+R HP:Bruised>n 
+k 
+[hit 1.Uruk] 
+A Lugubrious Street Exits are: N S W 
+
+s 
+R HP:Bruised>k 
+[hit 1.Uruk] 
+s 
+Locknah enters from the north. 
+A brown horse enters from the north. 
+They aren't here. 
+
+k 
+[hit 1.Uruk] 
+R HP:Bruised>A Worn Cobble Street Exits are: N S W 
+A brown horse enters from the north. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>Harman enters from the north. 
+A nice pony enters from the north. 
+A nice pony enters from the north. 
+Street In The Front Of A Watchtower Exits are: N E (S) 
+A nice pony enters from the north. 
+A nice pony enters from the north. 
+A brown horse enters from the north. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>e 
+k 
+[hit 1.Uruk] 
+e 
+Locknah opens the towerdoor. 
+An Abandoned Road Exits are: E W 
+A nice pony enters from the west. 
+A nice pony enters from the west. 
+A brown horse enters from the west. 
+
+R HP:Bruised>k 
+[hit 1.Uruk] 
+They aren't here. 
+
+R HP:Bruised>A Deserted Square Exits are: N E W 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+A nice pony enters from the west. 
+A nice pony enters from the west. 
+A brown horse enters from the west. 
+
+R HP:Bruised>w 
+w 
+You attack *an Uruk*! 
+You cleave *an Uruk*'s right leg extremely hard. 
+*an Uruk* is dead! R.I.P. 
+Your spirit increases by 28. 
+You receive your share of experience -- 1003 points. 
+[get all.gold corpse] 
+[get all.silver corpse] 
+*an Uruk* stops riding a black warg. 
+Your blood freezes as you hear Kane's death cry. 
+A black warg stops following *an Uruk*. 
+*an Uruk* leaves the group of *an Orc*. 
+
+R HP:Bruised>An Abandoned Road Exits are: E W 
+A nice pony enters from the east. 
+A nice pony enters from the east. 
+A brown horse enters from the east. 
+
+R HP:Bruised>Street In The Front Of A Watchtower Exits are: N E S 
+A nice pony enters from the east. 
+A nice pony enters from the east. 
+A brown horse enters from the east. 
+
+R HP:Bruised>You don't have a corpse. 
+
+R HP:Bruised>e 
+You don't have a corpse. 
+
+e 
+R HP:Bruised>An Abandoned Road Exits are: E W 
+A nice pony enters from the west. 
+A nice pony enters from the west. 
+A brown horse enters from the west. 
+
+ec 
+R HP:Bruised>A Deserted Square Exits are: N E W 
+The hacked corpse of *an Uruk* is lying here. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A nice pony enters from the west. 
+A nice pony enters from the west. 
+A brown horse enters from the west. 
+
+R HP:Bruised>chatYou see nothing special.. 
+When you look inside, you see: 
+corpse (here) : 
+a black leather baldric 
+a pewter wine goblet 
+a dragon-toothed whip..It glows blue! 
+a tainted bracelet..It glows blue! 
+a tainted bracelet..It glows blue! 
+a snakeskin belt 
+a golden bear fur 
+a pair of shiny black sleeves 
+a pair of black, padded boots 
+a coating of war paint 
+a werewolf tooth necklace 
+a werewolf tooth necklace 
+an ivory ring..It glows blue! 
+an ivory ring..It glows blue! 
+a sharp, glimmering spear..It glows blue! 
+a leather flask 
+a backpack 
+a leather satchel 
+
+R HP:Bruised>chat dead 
+You chat 'dead' 
+
+R HP:Bruised>whois kane 
+Kane the King of The Tower is a level 30 Uruk-Hai. 
+
+
+# 
+# Quick and efficient way to split up a group of 3. The other Uruk got hit down 
+# to bloodied outside right after this, but he managed to get into the new mage 
+# tower with the Orc. 
+#

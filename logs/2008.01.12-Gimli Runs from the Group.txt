@@ -1,0 +1,1638 @@
+Mic and Ayden, holdin it down. 
+
+hw 
+S:Surging>Break in the Trees: n Exits are: N S W 
+*a Dwarf* is here, fighting Ayden, riding on a nice pony. 
+A black, menacing lizard is here, fighting *a Dwarf*. 
+Ayden is here, fighting *a Dwarf*, riding on a black warg. 
+You managed to enter without anyone noticing. 
+
+S:Surging> 
+Ayden panics, and attempts to flee! 
+Ayden panics, and attempts to flee! 
+
+S:Surging>Ayden discovers a weakness in *a Dwarf*'s defense! 
+Ayden deeply wounds *a Dwarf*'s left arm with his smite. 
+You carefully choose a place to hide. 
+
+- 
+*a Dwarf* panics, and attempts to flee! 
+*a Dwarf* panics, and attempts to flee! 
+
+\ 
+Ayden panics, and attempts to flee! 
+Ayden panics, and attempts to flee! 
+
+| 
+*a Dwarf* discovers a weakness in Ayden's defense! 
+*a Dwarf* stabs Ayden's body extremely hard. 
+*an Elf* enters from the north. 
+*a Hobbit* enters from the north. 
+A nice pony enters from the north. 
+A nice pony enters from the north. 
+*a Dwarf* enters from the north. 
+A nice pony enters from the north. 
+A white horse enters from the north. 
+A white horse enters from the north. 
+
+/ 
+Ayden panics, and attempts to flee! 
+Ayden panics, and attempts to flee! 
+
+- 
+*an Elf* attacks Ayden! 
+
+q 
+\ 
+A black, menacing lizard rescues Ayden. 
+
+
+
+You carefully hide yourself. 
+*a Dwarf* assists *an Elf*. 
+*a Dwarf* attacks Ayden! 
+*a Dwarf* rushes forward wildly. 
+*a Dwarf* crushes Ayden's right arm very hard. 
+
+>You target is too alert! 
+
+> 
+> 
+Ayden panics, and attempts to flee! 
+Ayden flees head over heels! 
+Ayden is leaving south, riding on a black warg. 
+
+>q 
+q 
+*a Dwarf* stabs a black, menacing lizard's body extremely hard. 
+You target is too alert! 
+
+>You target is too alert! 
+
+> 
+A black, menacing lizard hits *a Dwarf*'s right leg very hard. 
+
+> 
+*a Dwarf* panics, and attempts to flee! 
+*a Dwarf* panics, and attempts to flee! 
+
+>q 
+A black, menacing lizard panics, and attempts to flee! 
+A black, menacing lizard flees head over heels! 
+A black, menacing lizard leaves west. 
+*an Elf* attacks YOU! 
+
+/ 
+*a Hobbit* attacks YOU! 
+*a Hobbit* slashes your body hard. 
+
+
+q 
+
+No way! You're fighting for your life! 
+*a Dwarf* assists *an Elf*. 
+*a Dwarf* attacks YOU! 
+*a Dwarf* assists *an Elf*. 
+*a Dwarf* attacks YOU! 
+*a Dwarf* crushes your body hard. 
+
+HP:Scratched, *an Elf*:Healthy> 
+No way! You're fighting for your life! 
+
+
+HP:Scratched, *an Elf*:Healthy>f 
+
+Ayden enters from the south. 
+A black warg enters from the south. 
+
+HP:Scratched, *an Elf*:Healthy>e 
+Ayden leaves north. 
+A black warg leaves north. 
+
+HP:Scratched, *an Elf*:Healthy>You flee head over heels. 
+Leaving the Forest Exits are: %N% S 
+A skull has been impaled here on a stick. 
+Ayden - Professional of the Black Faction is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+
+
+HP:Scratched> 
+You cannot go that way. 
+
+HP:Scratched>HP:Scratched>s 
+You seem to have left without raising any alarm. 
+Break in the Trees: n Exits are: N S W 
+*a Dwarf* (busy) is riding on a nice pony. 
+*an Elf* is standing here. 
+*a Hobbit* is standing here. 
+A friendly little pony is here, looking well-groomed and happy. 
+A friendly little pony is here, looking well-groomed and happy. 
+*a Dwarf* is standing here. 
+A friendly little pony is here, looking well-groomed and happy. 
+A white horse is here, gleaming in valiant beauty. 
+A white horse is here, gleaming in valiant beauty. 
+You managed to enter without anyone noticing. 
+
+s 
+HP:Scratched> 
+*an Elf* attacks YOU! 
+
+HP:Scratched, *an Elf*:Healthy>No way! You're fighting for your life! 
+*a Hobbit* attacks YOU! 
+
+HP:Scratched, *an Elf*:Healthy> 
+*a Dwarf* sends you sprawling with a powerful bash. 
+*a Dwarf* assists *an Elf*. 
+*a Dwarf* attacks YOU! 
+*a Dwarf* rushes forward wildly. 
+*a Dwarf* crushes your head hard. 
+
+HP:Bruised, *an Elf*:Healthy>f 
+e 
+
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* tried to attack you but could not get close enough. 
+
+s 
+HP:Bruised, *an Elf*:Healthy>e 
+s 
+s 
+
+*an Elf* tried to attack you but could not get close enough. 
+*a Hobbit* tried to attack you but could not get close enough. 
+
+HP:Bruised, *an Elf*:Healthy> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* tried to attack you but could not get close enough. 
+
+HP:Bruised, *an Elf*:Healthy> 
+*a Dwarf* crushes your body. 
+*a Dwarf* begins quietly muttering some strange, powerful words. 
+
+
+HP:Bruised, *an Elf*:Healthy> 
+*an Elf* discovers a weakness in your defense! 
+*an Elf* discovers a weakness in your defense! 
+*an Elf* slashes your body. 
+*a Dwarf* stops fighting you. 
+
+HP:Bruised, *an Elf*:Healthy>You have regained your balance! 
+You flee head over heels. 
+Taur-en-Faroth: en Exits are: N E S 
+The skewered corpse of a scarred bear is lying here. 
+The skewered corpse of a ferocious tiger is lying here. 
+The slashed corpse of a foaming, grey-furred wolf is lying here. 
+A black, menacing lizard glares at its surroundings. 
+
+HP:Bruised>You seem to have left without raising any alarm. 
+Break in the Trees: n Exits are: N S W 
+*a Dwarf* (busy) is riding on a nice pony. 
+*an Elf* is standing here. 
+*a Hobbit* is standing here. 
+A friendly little pony is here, looking well-groomed and happy. 
+A friendly little pony is here, looking well-groomed and happy. 
+*a Dwarf* (busy) is standing here. 
+A friendly little pony is here, looking well-groomed and happy. 
+A white horse is here, gleaming in valiant beauty. 
+A white horse is here, gleaming in valiant beauty. 
+You managed to enter without anyone noticing. 
+*an Elf* attacks YOU! 
+
+HP:Bruised, *an Elf*:Healthy>No way! You're fighting for your life! 
+
+HP:Bruised, *an Elf*:Healthy>s 
+HP:Bruised, *an Elf*:Healthy>s 
+No way! You're fighting for your life! 
+*a Hobbit* attacks YOU! 
+
+HP:Bruised, *an Elf*:Healthy>s 
+No way! You're fighting for your life! 
+*a Dwarf* assists *an Elf*. 
+*a Dwarf* attacks YOU! 
+
+HP:Bruised, *an Elf*:Healthy>No way! You're fighting for your life! 
+
+HP:Bruised, *an Elf*:Healthy>f 
+No way! You're fighting for your life! 
+
+HP:Bruised, *an Elf*:Healthy>s 
+No way! You're fighting for your life! 
+Ayden enters from the north. 
+A black warg enters from the north. 
+
+s 
+HP:Bruised, *an Elf*:Healthy>*an Elf* lightly slashes your right arm. 
+You flee head over heels. 
+Fallen Trees Exits are: N W 
+Ayden enters from the north. 
+A black warg enters from the north. 
+
+HP:Bruised>You cannot go that way. 
+
+HP:Bruised>You cannot go that way. 
+HP:Bruised>You cannot go that way. 
+
+HP:Bruised>w 
+w 
+w 
+You seem to have left without raising any alarm. 
+Dense Forest Exits are: E W 
+
+w 
+HP:Bruised>w 
+You step out of your cover. 
+Dense Forest Exits are: E W 
+The pierced corpse of a nice pony is lying here. 
+Some twisted vines hang from the trees. 
+You managed to enter without anyone noticing. 
+
+w 
+HP:Bruised>w 
+You step out of your cover. 
+You seem to have left without raising any alarm. 
+Rotten Stump Exits are: E W 
+
+HP:Bruised>You step out of your cover. 
+Dense Forest Exits are: E S 
+
+HP:Bruised>s 
+You step out of your cover. 
+You cannot go that way. 
+
+
+HP:Bruised>w 
+You cannot go that way. 
+
+HP:Bruised>You cannot go that way. 
+
+HP:Bruised>n 
+Dark Mirkwood Exits are: N S W 
+
+HP:Bruised>You step out of your cover. 
+Thick Undergrowth Exits are: N E S 
+
+lead warg 
+lead 2.warg 
+ride 
+HP:Bruised>You step out of your cover. 
+Dense Forest Exits are: S W 
+A dark warg stands here, its eyes glowing like a flame. 
+You managed to enter without anyone noticing. 
+
+HP:Bruised>You step out of your cover. 
+You grab a black warg and start leading him. 
+A black warg starts following you. 
+
+HP:Bruised>There is nobody by that name. 
+
+HP:Bruised>A black warg stops following you. 
+You mount a black warg and start riding him. 
+
+>>>run to re meet, didnt know it was that many :O 
+
+
+
+
+>>>find a dwarf<<<R>l 
+You chat 'follow me' 
+
+n 
+R HP:Bruised>Dark Forest Path: nssen Exits are: N S W 
+A black rabbit scurries about. 
+You are riding on a black warg. 
+*a Dwarf* is riding on a nice pony. 
+Ayden chats 'dont know how' 
+
+R HP:Bruised>n 
+Dark Path Turns Sharply Exits are: N S W 
+
+
+R HP:Bruised>Haunting Forest Exits are: S W 
+
+R HP:Bruised>z 
+s 
+z 
+They aren't here. 
+
+R HP:Bruised>Dark Path Turns Sharply Exits are: N S W 
+*a Dwarf* (busy) is riding on a nice pony. 
+
+R HP:Bruised>1 
+You attack *a Dwarf*! 
+You pierce *a Dwarf*'s body. 
+
+R HP:Bruised, *a Dwarf*:Hurt>2 
+R HP:Bruised, *a Dwarf*:Hurt>2 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your left hand with his stab. 
+You start to use a fine, silver shield as a shield. 
+
+R HP:Bruised, *a Dwarf*:Hurt>You are now employing defensive tactics. 
+
+R HP:Bruised, *a Dwarf*:Hurt>1 
+2 
+You don't seem to have a shield. 
+
+R HP:Bruised, *a Dwarf*:Hurt>You are now employing defensive tactics. 
+
+R HP:Bruised, *a Dwarf*:Hurt>sc 
+The thick trees almost block out the sky, though it appears cloudless. 
+Saving Mic. 
+You have 257/352 hit, 65/67 stamina, 151/183 moves, 4590 spirit. 
+OB: 71, DB: 77, PB: 106, Speed: 31, Gold: 205, XP Needed: 99K. 
+
+R HP:Bruised S:Surging, *a Dwarf*:Hurt>a 
+
+You lightly pierce *a Dwarf*'s left hand. 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+R HP:Bruised S:Surging, *a Dwarf*:Hurt> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* rushes forward wildly. 
+*a Dwarf* stabs your left hand extremely hard. 
+
+
+R HP:Hurt S:Surging, *a Dwarf*:Hurt> 
+You experience a new kind of pain as *a Dwarf* kicks you in the groin! 
+
+R HP:Hurt S:Surging, *a Dwarf*:Hurt> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* stabs your head very hard. 
+
+R HP:Hurt S:Surging, *a Dwarf*:Hurt>You have regained your balance! 
+
+/-\|/-\|/-\ 
+You lose your balance and fall as *a Dwarf* dodges your bash! 
+
+R HP:Hurt S:Surging, *a Dwarf*:Hurt>f 
+You flee head over heels. 
+Along the Dark Forest Path: nssen Exits are: E W 
+
+R HP:Hurt S:Surging>w 
+w 
+
+*a Dwarf* (busy) is entering from the east, riding on a nice pony. 
+
+R HP:Hurt S:Surging>w 
+Dark Forest Path: nssen Exits are: E W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Hurt S:Surging>w 
+A Smooth Path Exits are: E S W 
+
+
+R HP:Hurt S:Surging>w 
+Narrow Animal Trail Exits are: E %S% 
+
+R HP:Hurt S:Surging>You cannot go that way. 
+
+R HP:Hurt S:Surging>You cannot go that way. 
+
+R HP:Hurt S:Surging>w 
+s 
+You cannot go that way. 
+
+R HP:Hurt S:Surging>w 
+w 
+A Cleared Path in the Woods Exits are: N S W 
+
+w 
+R HP:Hurt S:Surging> 
+The power of Arda weakens your body. 
+Path Through the Woods Exits are: N %E% %W% 
+
+R HP:Hurt S:Surging>A Footpath of Glittery Flowers Exits are: N E W 
+
+R HP:Hurt S:Surging>w 
+A Bend in the Path Exits are: %E% S W 
+
+R HP:Hurt S:Surging>w 
+Black Forest Exits are: E S W 
+
+
+R HP:Hurt S:Surging>Dark Mirkwood Exits are: E W 
+
+R HP:Hurt S:Surging> 
+The Power of Arda no longer weakens you. 
+
+R HP:Hurt>chat i goin globs 
+w 
+You chat 'i goin globs' 
+
+R HP:Hurt>w 
+Stagnant Pool Exits are: E S 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>s 
+w 
+Dark Mirkwood Forest Exits are: N E 
+Ayden (busy) is riding on a black warg. 
+
+w 
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>You cannot go that way. 
+
+R HP:Hurt>bec 
+bec 
+You beckon for everyone to follow you. 
+You beckon for everyone to follow you. 
+
+bec 
+R HP:Hurt>You beckon for everyone to follow you. 
+
+R HP:Hurt>You beckon for everyone to follow you. 
+
+R HP:Hurt>reg 
+
+Ayden utters a strange command, 'guardian' 
+A black, menacing lizard appears with a flash. 
+A black, menacing lizard now follows Ayden. 
+Ayden chats 'trying to get hp' 
+
+R HP:Hurt> 
+Ayden says 'hold' 
+
+R HP:Hurt>You start to concentrate. 
+
+viy 
+|/-\|vit 
+/- 
+Ayden starts following you. 
+
+\Ok. 
+You feel yourself becoming much healthier. 
+Unrecognized command. 
+
+R HP:Hurt>You start to concentrate. 
+R HP:Hurt>You start to concentrate. 
+
+- 
+*a Dwarf* (busy) is entering from the north, riding on a nice pony. 
+
+\ 
+Ayden says 'go' 
+
+| 
+Skaad narrates 'pukes I guess?' 
+
+/sa spam bash 
+- 
+*a Dwarf* attacks Ayden! 
+*a Dwarf* deeply wounds Ayden's left arm with his stab. 
+
+\ 
+Ayden discovers a weakness in *a Dwarf*'s defense! 
+Ayden deeply wounds *a Dwarf*'s head with his smite. 
+
+Ok. 
+You are still as light as can be. 
+You say 'spam bash' 
+
+R HP:Hurt>q 
+z 
+You target is too alert! 
+
+a 
+a 
+R HP:Hurt>a 
+You attack *a Dwarf*! 
+You lightly pierce *a Dwarf*'s right arm. 
+
+R HP:Hurt, Ayden:Wounded, *a Dwarf*:Hurt> 
+A black, menacing lizard rescues Ayden. 
+
+
+R HP:Hurt, a black, menacing lizard:Healthy, *a Dwarf*:Hurt>/- 
+*a Dwarf* discovers a weakness in a black, menacing lizard's defense! 
+*a Dwarf* deeply wounds a black, menacing lizard's body with his stab. 
+Ayden assists you! 
+Ayden attacks *a Dwarf*! 
+
+\| 
+Ayden begins quietly muttering some strange, powerful words. 
+
+*a Dwarf* panics, and attempts to flee! 
+
+/ 
+A black, menacing lizard hits *a Dwarf*'s head extremely hard. 
+
+-\3 
+4 
+|a 
+/ 
+*a Dwarf* panics, and attempts to flee! 
+*a Dwarf* flees head over heels! 
+*a Dwarf* is leaving north, riding on a nice pony. 
+
+a 
+-\You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Hurt>You stop using a fine, silver shield. 
+
+R HP:Hurt>a 
+You are now employing aggressive tactics. 
+
+a 
+R HP:Hurt>n 
+Nobody here by that name. 
+
+R HP:Hurt>a 
+Nobody here by that name. 
+
+R HP:Hurt>a 
+Nobody here by that name. 
+
+R HP:Hurt>a 
+Nobody here by that name. 
+
+R HP:Hurt>a 
+Stagnant Pool Exits are: E S 
+A massive mirkwolf stares at you through blood red eyes. 
+A black, menacing lizard enters from the south. 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt>Nobody here by that name. 
+
+R HP:Hurt>Nobody here by that name. 
+
+R HP:Hurt>e 
+Nobody here by that name. 
+
+R HP:Hurt>a 
+Nobody here by that name. 
+
+R HP:Hurt>Dark Mirkwood Exits are: E W 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>Nobody here by that name. 
+
+R HP:Hurt>e 
+Black Forest Exits are: E S W 
+A black, menacing lizard enters from the west. 
+
+a 
+R HP:Hurt>e 
+Nobody here by that name. 
+
+a 
+R HP:Hurt>A Bend in the Path Exits are: %E% S W 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>Skaad narrates 'i'm at glob' 
+Nobody here by that name. 
+
+R HP:Hurt>hunt 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Hurt>A Bend in the Path Exits are: %E% S W 
+You are riding on a black warg. 
+Ayden is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+The tracks of a nice pony lead east. Their condition is fresh 
+
+R HP:Hurt>e 
+A Footpath of Glittery Flowers Exits are: N E W 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a nice pony lead east. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+The power of Arda weakens your body. 
+Path Through the Woods Exits are: N %E% %W% 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+
+
+The Power of Arda no longer weakens you. 
+
+R HP:Hurt>A Cleared Path in the Woods Exits are: N S W 
+The tracks of a nice pony lead south. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+Ayden narrates 'come east' 
+
+R HP:Hurt>s 
+The power of Arda weakens your body. 
+A Tranquil Mirkwood Exits are: %N% E S W 
+The tracks of a black warg lead west. Their condition is very clear 
+The tracks of a nice pony lead east. Their condition is fresh 
+A black, menacing lizard enters from the north. 
+
+R HP:Hurt>e 
+
+The Power of Arda no longer weakens you. 
+
+R HP:Hurt>Deathly Silence Exits are: N W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+A black rabbit scurries about. 
+The tracks of a black warg lead west. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+You cannot go that way. 
+
+
+
+n 
+R HP:Hurt>An Evil Intersection Exits are: N E S 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt>e 
+Dense Mirkwood Exits are: E W 
+The tracks of a black warg lead west. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+Dense Mirkwood Exits are: E S W 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+Dark Forest Path: nssen Exits are: N S W 
+A black rabbit scurries about. 
+The tracks of a black warg lead north. Their condition is very clear 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>n 
+Dark Path Turns Sharply Exits are: N S W 
+The tracks of a nice pony lead north. Their condition 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt>w 
+Along the Dark Forest Path: nssen Exits are: E W 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>w 
+Dark Forest Path: nssen Exits are: E W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>w 
+A Smooth Path Exits are: E S W 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>w 
+Narrow Animal Trail Exits are: E %S% 
+The tracks of a nice pony lead south. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is fresh 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>e 
+e 
+A Smooth Path Exits are: E S W 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+Dark Forest Path: nssen Exits are: E W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>Along the Dark Forest Path: nssen Exits are: E W 
+The tracks of a nice pony lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>e 
+Dark Path Turns Sharply Exits are: N S W 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Hurt>n 
+Haunting Forest Exits are: S W 
+The tracks of a nice pony lead west. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt>w 
+
+The thick trees almost block out the sky, though it appears cloudless. 
+
+R HP:Hurt S:Surging>Mirkwood Forest Exits are: E W 
+A dark warg stands here, its eyes glowing like a flame. 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt S:Surging>w 
+Dark Oak Trees Exits are: E W 
+The tracks of a nice pony lead west. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt S:Surging>w 
+Dark Mirkwood Exits are: N E W 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt S:Surging>n 
+Dark Forest Exits are: S W 
+Dark Forest Exits are: S W 
+The tracks of a nice pony lead west. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt S:Surging>w 
+Tall Trees Exits are: E W 
+The tracks of a nice pony lead west. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt S:Surging>w 
+
+Ayden chats 'going back to faroth it is' 
+
+R HP:Hurt S:Surging>Black Forest Exits are: N E 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt S:Surging>n 
+Foul Air Exits are: E S 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt S:Surging> 
+Ayden chats 'i belive' 
+
+e 
+R HP:Hurt S:Surging>Dim Mirkwood Forest Exits are: E W 
+The tracks of a nice pony lead east. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+
+R HP:Hurt>e 
+
+
+
+Shadows in the Forest Exits are: N W 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the west. 
+
+
+R HP:Hurt>sc 
+R HP:Hurt>You have 237/352 hit, 67/67 stamina, 172/183 moves, 4580 spirit. 
+OB: 123, DB: 59, PB: 51, Speed: 31, Gold: 205, XP Needed: 99K. 
+
+R HP:Hurt>e 
+You cannot go that way. 
+
+R HP:Hurt>xx n 
+To the north you see: 
+Enormous trees Exits are: N S 
+The tracks of a nice pony lead north. Their condition is very clear 
+
+R HP:Hurt>n 
+Enormous trees Exits are: N S 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+n 
+R HP:Hurt> 
+R HP:Hurt> 
+Ayden chats 'or its lost' 
+
+R HP:Hurt>Enormous trees Exits are: S W 
+The tracks of a nice pony lead west. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt>w 
+A Lifeless Tree Exits are: E S %W% 
+The tracks of a nice pony lead west. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>chat its running 
+You chat 'its running' 
+
+R HP:Hurt>chat north 
+w 
+You chat 'north' 
+
+R HP:Hurt>The Forest Path Continues Exits are: %N% E %S% 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the east. 
+
+R HP:Hurt>n 
+The power of Arda weakens your body. 
+Path Through the Forest Exits are: %N% E %S% 
+The tracks of a nice pony lead north. Their condition is very clear 
+A black, menacing lizard enters from the south. 
+
+
+R HP:Hurt>n 
+Dark Path Exits are: %E% %S% W 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the south. 
+
+R HP:Hurt> 
+Ayden chats 'running north' 
+
+R HP:Hurt>w 
+A Tight Turn in the Forest Exits are: %E% S 
+A black, menacing lizard enters from the east. 
+
+R HP:Bruised>e 
+e 
+Dark Path Exits are: %E% %S% W 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+
+R HP:Bruised>n 
+A Tight Turn in the Path Exits are: %N% E S %W% 
+The tracks of a nice pony lead north. Their condition is fresh 
+A black, menacing lizard enters from the west. 
+Ayden chats 'toward old lhuth' 
+
+R HP:Bruised>Twisted Stone Path Bends Exits are: N %S% %W% 
+R HP:Bruised>Twisted Stone Path Bends Exits are: N %S% %W% 
+*a Dwarf* is riding on a nice pony. 
+The tracks of a nice pony lead north. Their condition is fresh 
+A black, menacing lizard enters from the south. 
+*a Dwarf* is leaving west, riding on a nice pony. 
+
+R HP:Bruised>chat lhuthsish 
+You chat 'lhuthsish' 
+
+R HP:Bruised>w 
+z 
+A Twisted Stone Path Exits are: %N% %E% W 
+The tracks of a nice pony lead west. Their condition is fresh 
+A black, menacing lizard enters from the east. 
+Ayden is leaving west, riding on a black warg. 
+A black, menacing lizard leaves west. 
+
+R HP:Bruised>w 
+z 
+They aren't here. 
+
+R HP:Bruised>z 
+Dense Forest Exits are: N %E% 
+Ayden is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+The tracks of a nice pony lead north. Their condition is fresh 
+Ayden is leaving north, riding on a black warg. 
+A black, menacing lizard leaves north. 
+
+
+R HP:Bruised>z 
+n 
+They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>Dense Forest Exits are: N %E% S W 
+The tracks of a black, menacing lizard lead north. Their condition is fresh 
+The tracks of a nice pony lead north. Their condition is fresh 
+
+R HP:Bruised> 
+Skaad narrates 'just 1 puke?' 
+
+R HP:Bruised>n 
+The Power of Arda no longer weakens you. 
+Silent Forest Exits are: %E% S W 
+The tracks of a nice pony lead east. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Bruised>e 
+A Dark Forest Path: nssen Exits are: %N% %S% W 
+*a Dwarf* is riding on a nice pony. 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a black, menacing lizard lead north. Their condition is fresh 
+The tracks of a black warg lead north. Their condition is fresh 
+
+
+R HP:Bruised> 
+*a Dwarf* is leaving south, riding on a nice pony. 
+
+R HP:Bruised>chat runnin 
+You chat 'runnin' 
+
+R HP:Bruised> 
+The power of Arda weakens your body. 
+
+R HP:Bruised>sa spam 
+s 
+You say 'spam' 
+
+z 
+R HP:Bruised>A Bloody Stone Path Exits are: %N% %S% W 
+
+R HP:Bruised>They aren't here. 
+
+l 
+R HP:Bruised>A Bloody Stone Path Exits are: %N% %S% W 
+You are riding on a black warg. 
+
+R HP:Bruised> 
+*a Dwarf* is entering from the west, riding on a nice pony. 
+
+hunt 
+R HP:Bruised>l 
+You stop looking for fresh tracks. 
+
+R HP:Bruised>A Bloody Stone Path Exits are: %N% %S% W 
+You are riding on a black warg. 
+*a Dwarf* is riding on a nice pony. 
+*a Dwarf* is leaving north, riding on a nice pony. 
+
+R HP:Bruised>z 
+a 
+a 
+They aren't here. 
+
+R HP:Bruised>n 
+Nobody here by that name. 
+
+R HP:Bruised>z 
+Nobody here by that name. 
+
+R HP:Bruised>a 
+A Dark Forest Path: nssen Exits are: %N% %S% W 
+Ayden (busy) is riding on a black warg. 
+A black, menacing lizard (busy) is here, fighting *a Dwarf*. 
+*a Dwarf* is here, fighting a black, menacing lizard, riding on a nice pony. 
+
+R HP:Bruised>You attack *a Dwarf*! 
+You pierce *a Dwarf*'s body. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Hurt>a 
+Ayden assists you! 
+Ayden assists you! 
+Ayden attacks *a Dwarf*! 
+
+/ 
+*a Dwarf* panics, and attempts to flee! 
+*a Dwarf* flees head over heels! 
+*a Dwarf* is leaving west, riding on a nice pony. 
+
+- 
+Ayden begins quietly muttering some strange, powerful words. 
+
+
+\3 
+|4 
+/-w 
+\ 
+*a Dwarf* is entering from the west, riding on a nice pony. 
+
+|z 
+
+Ayden utters a strange command, 'insight' 
+*a Dwarf* is leaving north, riding on a nice pony. 
+
+a 
+/a 
+-\You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Bruised>You don't seem to be using a shield. 
+
+R HP:Bruised>You are now employing aggressive tactics. 
+
+e 
+R HP:Bruised>Silent Forest Exits are: %E% S W 
+A black, menacing lizard enters from the east. 
+
+R HP:Bruised>a 
+They aren't here. 
+
+R HP:Bruised>Nobody here by that name. 
+
+R HP:Bruised>Nobody here by that name. 
+
+
+R HP:Bruised>n 
+A Dark Forest Path: nssen Exits are: %N% %S% W 
+A black, menacing lizard enters from the west. 
+
+R HP:Bruised>z 
+Nobody here by that name. 
+
+R HP:Bruised>R HP:Bruised>Old Path Exits are: E %S% %W% 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>l 
+R HP:Bruised>l 
+Old Path Exits are: E %S% %W% 
+A hunched forest troll moves around here, arms dragging on the ground. 
+You are riding on a black warg. 
+
+R HP:Bruised> 
+A black, menacing lizard enters from the south. 
+
+R HP:Bruised>hunt 
+n 
+Ok, you'll try to notice fresh tracks. 
+
+l 
+R HP:Bruised>You cannot go that way. 
+Ayden is leaving east, riding on a black warg. 
+A black, menacing lizard leaves east. 
+
+R HP:Bruised>Old Path Exits are: E %S% %W% 
+A hunched forest troll moves around here, arms dragging on the ground. 
+You are riding on a black warg. 
+The tracks of a black, menacing lizard lead east. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead east. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead south. Their condition is fresh 
+The tracks of a nice pony lead east. Their condition is fresh 
+
+R HP:Bruised>e 
+Green Forest Exits are: E %W% 
+Green Forest Exits are: E %W% 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a black, menacing lizard lead east. Their condition is fresh 
+
+R HP:Bruised> 
+A black, menacing lizard enters from the east. 
+
+e 
+R HP:Bruised>Lush Forest Exits are: N W 
+A massive mirkwolf stares at you through blood red eyes. 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a black, menacing lizard lead west. Their condition is fresh 
+
+R HP:Bruised>n 
+Clouds can be seen above in the sky. 
+Mirkwood Forest Exits are: N S 
+The tracks of a nice pony lead north. Their condition is very clear 
+The tracks of a mirkwolf lead south. Their condition is very clear 
+
+R HP:Bruised S:Surging>chat follow me man 
+n 
+You chat 'follow me man' 
+
+R HP:Bruised S:Surging>The Power of Arda no longer weakens you. 
+Thicken Mirkwood Exits are: S W 
+Thicken Mirkwood Exits are: S W 
+A hunched forest troll moves around here, arms dragging on the ground. 
+The tracks of a nice pony lead west. Their condition is very clear 
+
+R HP:Bruised S:Surging>w 
+Thick Forest Exits are: E S 
+The tracks of a nice pony lead south. Their condition is very clear 
+
+R HP:Bruised S:Surging>s 
+w 
+Off the Path Exits are: N %W% 
+
+R HP:Bruised S:Surging>Evil Path Exits are: %N% E %W% 
+The tracks of a nice pony lead north. Their condition is fresh 
+The tracks of a nice pony lead west. Their condition is fresh 
+
+R HP:Bruised S:Surging>n 
+The power of Arda weakens your body. 
+Smoothing Path Exits are: %N% %S% 
+The tracks of a nice pony lead north. Their condition is fresh 
+
+R HP:Bruised S:Surging>n 
+Stone Path Exits are: %N% E %S% 
+A hunched forest troll moves around here, arms dragging on the ground. 
+The tracks of a nice pony lead north. Their condition is fresh 
+
+n 
+R HP:Bruised S:Surging> 
+A forest troll attacks YOU! 
+A forest troll attacks YOU! 
+
+R HP:Bruised S:Surging, a forest troll:Healthy>No way! You're fighting for your life! 
+
+R HP:Bruised S:Surging, a forest troll:Healthy> 
+You pierce a forest troll's body hard. 
+
+R HP:Bruised S:Surging, a forest troll:Scratched>chat north 
+
+You chat 'north' 
+
+R HP:Bruised S:Surging, a forest troll:Scratched>f 
+n 
+You flee head over heels. 
+Another Bend Exits are: %E% %S% 
+A grey spirit gazes upon you. (shadow) 
+
+n 
+R HP:Bruised S:Surging>n 
+You cannot go that way. 
+
+R HP:Bruised S:Surging>You cannot go that way. 
+
+R HP:Bruised S:Surging>You cannot go that way. 
+
+R HP:Bruised S:Surging>e 
+n 
+A Bend in the Old Stone Path Exits are: %N% S %W% 
+*a Dwarf* is riding on a nice pony. 
+
+hunt 
+R HP:Bruised S:Surging>Dark Path Exits are: %N% %S% %W% 
+
+R HP:Bruised S:Surging> 
+Ok, you'll try to notice fresh tracks. 
+
+z 
+R HP:Bruised S:Surging>They aren't here. 
+
+hunt 
+R HP:Bruised S:Surging> 
+The world seems dull again. 
+
+R HP:Bruised S:Surging>z 
+You stop looking for fresh tracks. 
+
+a 
+R HP:Bruised S:Surging> 
+They aren't here. 
+
+R HP:Bruised S:Surging>z 
+Nobody here by that name. 
+
+R HP:Bruised S:Surging>z 
+R HP:Bruised S:Surging>z 
+They aren't here. 
+
+
+z 
+R HP:Bruised S:Surging>z 
+They aren't here. 
+
+R HP:Bruised S:Surging>z 
+They aren't here. 
+
+R HP:Bruised S:Surging>They aren't here. 
+
+R HP:Bruised S:Surging>d 
+They aren't here. 
+
+R HP:Bruised S:Surging>They aren't here. 
+
+R HP:Bruised S:Surging>di 
+You cannot go that way. 
+
+R HP:Bruised> 
+You stop riding a black warg. 
+A black warg starts following you. 
+
+HP:Bruised> 
+*a Dwarf* is entering from the south, riding on a nice pony. 
+
+HP:Bruised> 
+*a Dwarf* is leaving west, riding on a nice pony. 
+
+HP:Bruised>lose all 
+HP:Bruised>lose all 
+A black warg stops following you. 
+Ayden stops following you. 
+
+HP:Bruised>lead warg 
+lead 2.warg 
+ride 
+w 
+z 
+You grab a black warg and start leading him. 
+A black warg starts following you. 
+
+HP:Bruised>w 
+There is nobody by that name. 
+
+z 
+HP:Bruised>n 
+A black warg stops following you. 
+You mount a black warg and start riding him. 
+
+R HP:Bruised>Into the Swamp Exits are: %N% %E% %W% 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+n 
+R HP:Bruised>A Thick Mist Exits are: %N% %E% 
+
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised> 
+Bubbling Swamp Exits are: %N% %E% %S% W 
+
+R HP:Bruised>w 
+They aren't here. 
+
+R HP:Bruised>z 
+A Floating Corpse Exits are: N %E% %S% %W% 
+*a Dwarf* is riding on a nice pony. 
+*a Dwarf* is leaving north, riding on a nice pony. 
+
+R HP:Bruised>n 
+They aren't here. 
+
+R HP:Bruised>Deadend in Swamp Exits are: N %E% 
+
+R HP:Bruised>z 
+They aren't here. 
+
+w 
+R HP:Bruised>z 
+Wooded Swamp Exits are: N E %S% W 
+
+R HP:Bruised>w 
+They aren't here. 
+They aren't here. 
+
+R HP:Bruised>z 
+Black Forest Exits are: N E 
+
+R HP:Bruised>They aren't here. 
+
+n 
+R HP:Bruised>You cannot go that way. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>z 
+z 
+Misty Forest Exits are: N E S W 
+
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+z 
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+z 
+R HP:Bruised> 
+They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>hunt 
+They aren't here. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+l 
+R HP:Bruised>R HP:Bruised>Ok, you'll try to notice fresh tracks. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>Misty Forest Exits are: N E S W 
+You are riding on a black warg. 
+
+R HP:Bruised>hunt 
+z 
+z 
+You stop looking for fresh tracks. 
+
+
+R HP:Bruised>z 
+They aren't here. 
+
+z 
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>z 
+z 
+They aren't here. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+sc 
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>You have 296/352 hit, 67/67 stamina, 168/183 moves, 4580 spirit. 
+OB: 101, DB: 55, PB: 44, Speed: 31, Gold: 205, XP Needed: 99K. 
+OB: 101, DB: 55, PB: 44, Speed: 31, Gold: 205, XP Needed: 99K. 
+
+R HP:Bruised>3 
+4 
+You don't seem to be using a shield. 
+
+z 
+R HP:Bruised>z 
+You are now employing aggressive tactics. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>sc 
+They aren't here. 
+
+R HP:Bruised>You have 296/352 hit, 67/67 stamina, 168/183 moves, 4580 spirit. 
+OB: 101, DB: 55, PB: 44, Speed: 31, Gold: 205, XP Needed: 99K. 
+
+R HP:Bruised>rem skin 
+wear fur 
+rem stick 
+hol goblet 
+rem all.ring 
+wear all.ivory 
+rem all.bracer 
+wear all.bracelet 
+You stop using a disgusting, black skin. 
+
+R HP:Bruised>You wear a werewolf fur around your body. 
+R HP:Bruised>You wear a werewolf fur around your body. 
+
+R HP:Bruised>You stop using a wooden walking stick. 
+
+R HP:Bruised>You grab a pewter wine goblet. 
+
+R HP:Bruised>You stop using a stone ring. 
+You stop using a stone ring. 
+
+R HP:Bruised>z 
+You slide an ivory ring on to your right ring finger. 
+You slide an ivory ring on to your left ring finger. 
+
+R HP:Bruised>You stop using an etched silver bracer. 
+You stop using an etched silver bracer. 
+
+R HP:Bruised>z 
+You put a tainted bracelet on around your right wrist. 
+You put a tainted bracelet on around your left wrist. 
+
+R HP:Bruised>z 
+They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>hunt 
+l 
+Ok, you'll try to notice fresh tracks. 
+
+R HP:Bruised>Misty Forest Exits are: N E S W 
+You are riding on a black warg. 
+
+R HP:Bruised>s 
+Black Forest Exits are: N E 
+
+e 
+R HP:Bruised>Wooded Swamp Exits are: N E %S% W 
+The tracks of a black warg lead west. Their condition is fresh 
+*a Dwarf* enters from the east. 
+
+R HP:Bruised> 
+The Power of Arda no longer weakens you. 
+
+R HP:Bruised>z 
+a 
+You attack *a Dwarf*! 
+You lightly pierce *a Dwarf*'s left arm. 
+
+a 
+R HP:Bruised, *a Dwarf*:Wounded> 
+*a Dwarf* stabs your body hard. 
+Ayden is entering from the east, riding on a black warg. 
+A black, menacing lizard enters from the east. 
+
+R HP:Bruised, *a Dwarf*:Wounded>a 
+Ayden attacks *a Dwarf*! 
+Ayden discovers a weakness in *a Dwarf*'s defense! 
+Ayden deeply wounds *a Dwarf*'s left arm with his smite. 
+
+/-\|/-\ 
+A black, menacing lizard attacks *a Dwarf*! 
+A black, menacing lizard hits *a Dwarf*'s body very hard. 
+*a Dwarf* panics, and attempts to flee! 
+*a Dwarf* flees head over heels! 
+*a Dwarf* leaves north. 
+
+|/-\z 
+You can not do it this way. 
+Nobody here by that name. 
+Ayden is leaving north, riding on a black warg. 
+A black, menacing lizard leaves north. 
+
+R HP:Bruised>Nobody here by that name. 
+
+n 
+R HP:Bruised>a 
+They aren't here. 
+
+R HP:Bruised>z 
+Watery Forest Exits are: E S W 
+Ayden is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+The tracks of *a Dwarf* lead west. Their condition is fresh 
+
+R HP:Bruised> 
+Ayden is leaving west, riding on a black warg. 
+A black, menacing lizard leaves west. 
+
+R HP:Bruised>w 
+Nobody here by that name. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>Misty Forest Exits are: N E S W 
+Ayden is riding on a black warg. 
+A black, menacing lizard glares at its surroundings. 
+The tracks of *a Dwarf* lead north. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is fresh 
+
+R HP:Bruised> 
+Ayden is leaving north, riding on a black warg. 
+A black, menacing lizard leaves north. 
+
+R HP:Bruised>n 
+Dark Forest Exits are: N E S 
+The tracks of a black, menacing lizard lead north. Their condition is fresh 
+The tracks of a black warg lead north. Their condition is fresh 
+
+R HP:Bruised>n 
+Swamp near Ruined Wall Exits are: N E S W 
+A massive mirkwolf stares at you through blood red eyes. 
+*a Dwarf* is here, fighting a black, menacing lizard. 
+Ayden (busy) is riding on a black warg. 
+A black, menacing lizard (busy) is here, fighting *a Dwarf*. 
+
+R HP:Bruised>z 
+a 
+You attack *a Dwarf*! 
+
+a 
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Bloodied>A black, menacing lizard hits *a Dwarf*'s left hand hard. 
+Ayden attacks *a Dwarf*! 
+
+/3 
+-4 
+\ 
+Ayden begins quietly muttering some strange, powerful words. 
+
+
+|/- 
+*a Dwarf* sends Ayden sprawling with a powerful bash. 
+
+\|/-\kk 
+A black, menacing lizard hits *a Dwarf*'s body very hard. 
+Your bash at *a Dwarf* sends him sprawling. 
+Your victim is already bashed! 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Bloodied>You pierce *a Dwarf*'s left leg. 
+You don't seem to be using a shield. 
+You don't seem to be using a shield. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>You are now employing aggressive tactics. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>You group-say 'kick' 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>tip 
+
+You lightly pierce *a Dwarf*'s right leg. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>You tip your hat to everyone. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful> 
+A black, menacing lizard hits *a Dwarf*'s body hard. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful> 
+You pierce *a Dwarf*'s right arm hard. 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful> 
+Ayden has recovered from a bash! 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful> 
+As the sun sets the marshy area becomes alive with night-time sound. 
+A slight mist rises from the damp land into the cloudless sky. 
+A black, menacing lizard bites *a Dwarf*! 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful> 
+Ayden kicks *a Dwarf* in the shin, making him spout obscenities! 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>z 
+z 
+z 
+You do the best you can! 
+
+z 
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>z 
+*a Dwarf* has recovered from a bash! 
+You do the best you can! 
+*a Dwarf* you guys sucks Smile 
+
+R HP:Bruised, a black, menacing lizard:Hurt, *a Dwarf*:Awful>z 
+A black, menacing lizard hits *a Dwarf*'s body hard. 
+*a Dwarf* is incapacitated and will die, if not aided. 
+You pierce *a Dwarf*'s left hand very hard. 
+get all.coin cor 
+*a Dwarf* is dead! R.I.P. 
+Your spirit increases by 139. 
+You receive your share of experience -- 6582 points. 
+Your blood freezes as you hear Glimli's death cry. 
+*a Dwarf* leaves the group of *an Elf*. 
+They aren't here. 
+
+z 
+R HP:Bruised>They aren't here. 
+
+z 
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>You get a huge mound of coins from the pierced corpse of *a Dwarf*. 
+There were 277 gold, 5 silver and 40 copper coins. 
+
+R HP:Bruised>They aren't here. 
+
+R HP:Bruised>grin 
+They aren't here. 
+
+R HP:Bruised>You grin evilly. 
+
+R HP:Bruised>xx cor 
+You see nothing special.. 
+When you look inside, you see: 
+corpse (here) : 
+a silvery werewolf fur 
+a werewolf heart 
+a light ash spear..It glows blue!..It has a soft glowing aura! 
+a golden bracelet..It glows blue! 
+a golden bracelet..It glows blue! 
+a silvery-white robe 
+a pair of shiny black sleeves 
+a scarlet pair of cotton gloves 
+a pair of light sandals 
+a scarlet pair of cotton pants 
+a coating of war paint 
+a coating of war paint 
+a scarlet cotton shirt 
+a green amulet..It glows blue! 
+a green amulet..It glows blue! 
+a plain golden ring..It glows blue! 
+a dragon's eye..It glows blue! 
+a water skin 
+a golden shield 
+an ancient mithril sword..It glows blue! 
+a large sack 
+a backpack 
+an obsidian breastplate 
+an obsidian helmet 
+a pair of obsidian boots 
+a pair of obsidian gauntlets 
+a pair of blue and gold emblazoned greaves 
+a pair of blue and gold emblazoned vambraces 
+a heavy, stone maul..It glows blue! 
+
+R HP:Bruised>cac 
+You cackle gleefully.

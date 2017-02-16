@@ -1,0 +1,3096 @@
+*** To start, it may not be obvious in the log, but there were 2 uruks 
+*** running around and I wasn't sure who was who. 
+
+
+R HP:Scratched S:Powered> 
+*an Uruk* is entering from the east, riding on a black warg. 
+Vesur chats 'mistake!' 
+
+R HP:Scratched S:Powered> 
+*an Uruk* attacks YOU! 
+*an Uruk* rushes forward wildly. 
+*an Uruk* deeply wounds your body with his cleave. 
+
+R HP:Bruised S:Powered, *an Uruk*:Healthy> 
+You lightly pound *an Uruk*'s left hand. 
+
+R HP:Bruised S:Powered, *an Uruk*:Scratched>fYou flee head over heels. 
+Shadowy Path Exits are: S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Powered>l urukYou do not see that here. 
+
+R HP:Bruised S:Powered>l urukYou do not see that here. 
+
+R HP:Bruised S:Powered>l urukYou do not see that here. 
+
+R HP:Bruised S:Powered>wl uruksBeginning of a Small Path Exits are: E S (W) 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Powered>You do not see that here. 
+
+R HP:Bruised S:Powered>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Powered>l uruks Wild roving eyes are the first thing you notice about this huge Uruk. 
+Immediately your attention is diverted to his massive axe, whistling toward 
+your head! 
+*an Uruk* has a few scratches. 
+
+*an Uruk* is using: 
+<worn> an ivory ring 
+<worn> an ivory ring 
+<worn> an obsidian pendant 
+<worn> an obsidian pendant 
+<worn> a pair of antlers 
+<worn> a pair of supple leather boots 
+<worn> a werewolf fur 
+<worn> an etched leather girdle 
+<worn> a tainted bracelet 
+<worn> a tainted bracelet 
+<wielded> a serpentine battle axe 
+<held> a skull cup 
+
+R HP:Bruised S:Powered>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Powered>eDark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Bruised S:Powered>chat got a biggie out noweYou chat 'got a biggie out now' 
+
+R HP:Bruised S:Powered>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+scR HP:Bruised S:Powered>csYou have 186/241 hit, 75/128 stamina, 128/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Bruised S:Powered>You start to concentrate. 
+
+chat some warrior 
+Vesur chats 'yay' 
+
+Ok. 
+You feel better. 
+You chat 'some warrior' 
+
+R HP:Bruised S:Charged>chat deeplied me :>scYou chat 'deeplied me :>' 
+
+R HP:Bruised S:Powered>csYou have 214/241 hit, 65/128 stamina, 130/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Bruised S:Powered>You start to concentrate. 
+
+
+Vesur chats 'yikes!' 
+
+scOk. 
+You feel better. 
+You have 241/241 hit, 55/128 stamina, 131/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R S:Charged> 
+*an Uruk* (busy) is entering from the west, riding on a black warg. 
+
+R S:Charged> 
+Vesur chats 'it wearing metal?' 
+
+R S:Charged> 
+You resist a lot. 
+*an Uruk*'s swing gets you in the ribs! 
+
+R HP:Scratched S:Charged, *an Uruk*:Healthy> 
+You pound *an Uruk*'s body. 
+*an Uruk* discovers a weakness in your defense! 
+You resist a lot. 
+*an Uruk* cleaves your right leg very hard. 
+
+R HP:Bruised S:Charged, *an Uruk*:Scratched>chat through fYou chat 'through ' 
+
+R HP:Bruised S:Charged, *an Uruk*:Scratched>You flee head over heels. 
+Dark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>eDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>chat he leads with swingsYou chat 'he leads with swing' 
+
+wR HP:Bruised S:Charged>wYou cannot go that way. 
+
+R HP:Bruised S:Charged>rDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+rR HP:Bruised S:Charged>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>Nobody here by that name. 
+
+R HP:Bruised S:Charged>Nobody here by that name. 
+
+R HP:Bruised S:Charged>eeeDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+eR HP:Bruised S:Charged>*an Uruk* is leaving west, riding on a black warg. 
+Dark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>Dark Mirkwood Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>Dark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>eRuckus chats 'Razz' 
+Dark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>eDark Mirkwood Exits are: N E S W 
+
+R HP:Bruised S:Charged> 
+Vesur chats '....silly of him..' 
+
+R HP:Bruised S:Charged>eThick Brush Exits are: N E W 
+
+R HP:Bruised S:Charged>eMany Ivies Exits are: N E W 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R HP:Bruised S:Charged> 
+A huge mirkwolf attacks YOU! 
+You resist a lot. 
+A huge mirkwolf lightly hits your body. 
+Ruckus chats 'now thats just silly' 
+
+eR HP:Bruised S:Charged, a huge mirkwolf:Healthy> 
+You lightly pound a huge mirkwolf's body. 
+
+R HP:Bruised S:Charged, a huge mirkwolf:Scratched>No way! You're fighting for your life! 
+
+R HP:Bruised S:Charged, a huge mirkwolf:Scratched>fnYou flee head over heels. 
+Thick Vines Exits are: E W 
+
+nR HP:Bruised S:Charged>You cannot go that way. 
+
+R HP:Bruised S:Charged>You cannot go that way. 
+
+R HP:Bruised S:Charged>wnMany Ivies Exits are: N E W 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+nR HP:Bruised S:Charged>Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Charged>The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>nA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Bruised S:Charged> 
+The sun rises, its first rays lighting the road. 
+The road slowly starts to disappear under a carpet of snow. 
+Your flame flickers weakly. 
+Saving Drusilla. 
+
+R HP:Bruised S:Powered>prep 'fireboltYou start to prepare your spell. 
+
+
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+
+
+You completed your preparations. 
+
+R HP:Bruised S:Powered>j 
+You resist a lot. 
+You swiftly duck *an Uruk*'s attempt to swing at you. 
+*an Uruk* swings at a white horse wildly, and connects! 
+
+R HP:Bruised S:Powered, *an Uruk*:Healthy>A white horse hits *an Uruk*'s body hard. 
+You lightly pound *an Uruk*'s body. 
+Your preperations were ruined. 
+*an Uruk* cleaves your body. 
+You start to concentrate. 
+
+rOk. 
+Your firebolt scorches *an Uruk*'s body. 
+Vesur chats 'That's like a free firebolt for something that's got a better chance of hitting your mount than your opponent Razz' 
+You start to concentrate. 
+
+
+A white horse hits *an Uruk*'s body. 
+
+r*an Uruk* discovers a weakness in your defense! 
+*an Uruk* cleaves your body very hard. 
+You could not concentrate anymore! 
+You start to concentrate. 
+
+
+Ok. 
+Your lightning bolt strikes *an Uruk*, bullseye! 
+
+R HP:Bruised S:Charged, *an Uruk*:Bruised> 
+A white horse hits *an Uruk*'s right arm. 
+
+R HP:Bruised S:Charged, *an Uruk*:Hurt>rYou start to concentrate. 
+
+r 
+You could not concentrate anymore! 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+R HP:Bruised S:Charged, *an Uruk*:Bruised> 
+A white horse hits *an Uruk*'s body hard. 
+You resist a lot. 
+*an Uruk*'s swing gets you in the ribs! 
+
+R HP:Hurt S:Charged, *an Uruk*:Hurt> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* cleaves your body very hard. 
+
+R HP:Hurt S:Charged, *an Uruk*:Hurt> 
+A white horse hits *an Uruk*'s left arm hard. 
+
+R HP:Hurt S:Charged, *an Uruk*:Hurt>cheer urukYou have regained your balance! 
+You start to concentrate. 
+
+emo yay swing 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving north, riding on a black warg. 
+
+Nobody here by that name. 
+Nobody here by that name. 
+
+sR HP:Hurt S:Charged>Drusilla yay swing 
+
+sR HP:Hurt S:Charged>sThe Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>sBee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R HP:Hurt S:Charged>Many Ivies Exits are: N E W 
+
+R HP:Hurt S:Charged>You cannot go that way. 
+
+R HP:Hurt S:Charged>wcsThick Brush Exits are: N E W 
+
+R HP:Hurt S:Charged>You start to concentrate. 
+
+
+Ok. 
+You feel better. 
+
+R HP:Bruised S:Charged>wcsDark Mirkwood Exits are: N E S W 
+
+R HP:Bruised S:Charged>You start to concentrate. 
+
+
+Ok. 
+You feel better. 
+
+R HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+eeYou completed your preparations. 
+Thick Brush Exits are: N E W 
+
+R HP:Bruised S:Charged>Many Ivies Exits are: N E W 
+
+R HP:Bruised S:Charged>nnBee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Charged>The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>nA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Charged> 
+You release your prepared spell. 
+
+R HP:Bruised S:Charged>exa nTo the north you see: 
+It is pitch black... 
+
+exa wR HP:Bruised S:Charged>To the west you see: 
+It is pitch black... 
+
+exa sR HP:Bruised S:Charged>scTo the south you see: 
+The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Charged>You have 202/241 hit, 36/128 stamina, 129/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Charged> 
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+
+R HP:Bruised S:Charged>jYou release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+R HP:Bruised S:Depleted, *an Uruk*:Hurt> 
+*an Uruk* cleaves your head hard. 
+You pound *an Uruk*'s body. 
+
+R HP:Bruised S:Depleted, *an Uruk*:Hurt>rYou start to concentrate. 
+
+fOk. 
+Your lightning bolt strikes *an Uruk*, bullseye! 
+You flee head over heels. 
+Warpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted> 
+The road slowly starts to disappear under a carpet of snow. 
+Your flame flickers weakly. 
+
+R HP:Bruised S:Depleted> 
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+
+nR HP:Bruised S:Depleted>rBending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R HP:Bruised S:Depleted>Nobody here by that name. 
+
+R HP:Bruised S:Depleted>srWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Depleted>You start to concentrate. 
+
+
+You resist a lot. 
+*an Uruk*'s swing gets you in the ribs! 
+
+
+You could not concentrate anymore! 
+
+R HP:Hurt S:Depleted, *an Uruk*:Wounded> 
+You lightly pound *an Uruk*'s left arm. 
+
+R HP:Hurt S:Depleted, *an Uruk*:Wounded>r 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* cleaves your body very hard. 
+
+R HP:Hurt S:Depleted, *an Uruk*:Wounded>fYou start to concentrate. 
+
+You could not concentrate anymore! 
+You flee head over heels. 
+Dark Corner in the Forest Exits are: W 
+
+R HP:Hurt S:Depleted>R HP:Hurt S:Depleted>R HP:Hurt S:Depleted>wrrWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* (busy) is riding on a black warg. 
+
+R HP:Hurt S:Depleted>You start to concentrate. 
+
+
+*an Uruk* is leaving south, riding on a black warg. 
+
+rYour victim has fled. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>Nobody here by that name. 
+
+R HP:Hurt S:Depleted>sA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+*an Uruk* is riding on a black warg. 
+
+sR HP:Hurt S:Depleted> 
+You resist a lot. 
+*an Uruk*'s swing gets you in the ribs! 
+
+R HP:Hurt S:Depleted, *an Uruk*:Wounded>*an Uruk* discovers a weakness in your defense! 
+*an Uruk* cleaves your right hand very hard. 
+No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded> 
+You lightly pound *an Uruk*'s head. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Wounded>fYou flee head over heels. 
+Warpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>sssA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+*an Uruk* (busy) is riding on a black warg. 
+
+R HP:Wounded S:Depleted>sThe Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Wounded S:Depleted>Many Ivies Exits are: N E W 
+
+R HP:Wounded S:Depleted>wwThick Brush Exits are: N E W 
+
+csR HP:Wounded S:Depleted>Dark Mirkwood Exits are: N E S W 
+
+R HP:Wounded S:Depleted>You start to concentrate. 
+
+chat he's pretty goodOk. 
+You feel better. 
+You chat 'he's pretty good' 
+
+R HP:Hurt S:Depleted>chat wounded/wounded nowYou chat 'wounded/wounded now' 
+
+R HP:Hurt S:Depleted>wDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+scR HP:Hurt S:Depleted>You have 137/241 hit, 15/128 stamina, 122/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Hurt S:Depleted>wcsDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You start to concentrate. 
+
+eeee 
+Vesur chats 'Go Drusilla!' 
+
+Ok. 
+You feel better. 
+Dark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Drained>Dark Mirkwood Exits are: N E S W 
+
+R HP:Hurt S:Drained>Thick Brush Exits are: N E W 
+
+R HP:Hurt S:Drained>Many Ivies Exits are: N E W 
+
+R HP:Hurt S:Drained>prep 'firebolt 
+You sense a surge of unknown magic from nearby... 
+
+R HP:Hurt S:Drained>You start to prepare your spell. 
+
+chat he's healing!!!You completed your preparations. 
+You chat 'he's healing!!!' 
+
+R HP:Hurt S:Drained>chat cheater!!You chat 'cheater!!' 
+
+R HP:Hurt S:Drained>rest 
+You sense a surge of unknown magic from nearby... 
+
+R HP:Hurt S:Drained>You sit down and rest your tired bones. 
+
+exa nR HP:Hurt S:Drained>To the north you see: 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Hurt S:Drained>chat only i can healVesur chats 'No fair!!!11' 
+You chat 'only i can heal' 
+
+exa nR HP:Bruised S:Drained>To the north you see: 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Drained>exa nTo the north you see: 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Drained>exa nTo the north you see: 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Drained>exa nTo the north you see: 
+Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Drained> 
+You sense a surge of unknown magic from nearby... 
+
+R HP:Bruised S:Drained>stnYou stop resting, and stand up. 
+
+jR HP:Bruised S:Drained>Bee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Bruised S:Drained>nYou release your prepared spell. 
+You can't summon enough energy to cast the spell. 
+
+R HP:Bruised S:Drained>jYou release your prepared spell. 
+The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Drained>njYou release your prepared spell. 
+You can't summon enough energy to cast the spell. 
+
+R HP:Bruised S:Drained>A Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Bruised S:Drained>You release your prepared spell. 
+You can't summon enough energy to cast the spell. 
+
+R HP:Bruised S:Drained>n 
+Ruckus chats 'gig' 
+
+R HP:Bruised S:Drained>Warpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Drained>exa sTo the south you see: 
+A Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Bruised S:Drained>affscYou are affected by: 
+protection (long) 
+anger (medium) 
+You have prepared the 'firebolt' spell. 
+
+R HP:Bruised S:Drained>You have 171/241 hit, 13/128 stamina, 126/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Bruised S:Depleted>njBending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>njDark Forest Exits are: E S W 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>sjBending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>exa sTo the south you see: 
+It is pitch black... 
+
+R HP:Bruised S:Depleted>snWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>Bending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>sWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>sn 
+The road slowly starts to disappear under a carpet of snow. 
+Your flame went out. 
+
+R HP:Bruised S:Depleted>A Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Bruised S:Depleted>It is pitch black... 
+You are riding on someone. 
+
+R HP:Bruised S:Depleted>hold flamelYou light something and hold it. 
+
+R HP:Bruised S:Depleted>Warpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+You are riding on a brown horse. 
+A white horse is here, gleaming in valiant beauty. 
+
+R HP:Bruised S:Depleted>timeIt is 10 o'clock AM on Valanya, the 24th Day of Nenime. 
+The moon is full and not shining. 
+The sun will set in about 8 hours. 
+
+R HP:Bruised S:Depleted>ssA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+
+R HP:Bruised S:Depleted>The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>jsjYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>sBee Hive Exits are: N S W 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+A fetid black fungus grows here, covering the ground. 
+
+jR HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>Many Ivies Exits are: N E W 
+*an Uruk* (busy) is riding on a black warg. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+R HP:Bruised S:Drained, *an Uruk*:Wounded> 
+You lightly pound *an Uruk*'s body. 
+
+R HP:Bruised S:Drained, *an Uruk*:Wounded>r 
+*an Uruk* discovers a weakness in your defense! 
+You resist a lot. 
+*an Uruk* cleaves your body hard. 
+
+R HP:Hurt S:Drained, *an Uruk*:Wounded>You start to concentrate. 
+
+
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving west, riding on a black warg. 
+
+fnNobody here by that name. 
+You flee head over heels. 
+Thick Vines Exits are: E W 
+
+R HP:Hurt S:Drained>nYou cannot go that way. 
+
+R HP:Hurt S:Drained>You cannot go that way. 
+
+R HP:Hurt S:Drained>exa wTo the west you see: 
+It is pitch black... 
+
+prep 'fireboltR HP:Hurt S:Drained>You start to prepare your spell. 
+
+sc 
+You completed your preparations. 
+
+R HP:Hurt S:Depleted>You have 162/241 hit, 13/128 stamina, 125/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Hurt S:Depleted>restYou sit down and rest your tired bones. 
+
+exa wR HP:Hurt S:Depleted>To the west you see: 
+It is pitch black... 
+
+scR HP:Hurt S:Depleted>You have 162/241 hit, 14/128 stamina, 127/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Hurt S:Depleted>scYou have 162/241 hit, 14/128 stamina, 127/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Hurt S:Depleted>stwYou stop resting, and stand up. 
+
+jR HP:Hurt S:Depleted>Many Ivies Exits are: N E W 
+
+wR HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Thick Brush Exits are: N E W 
+A huge mirkwolf tenses its massive frame in readiness. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>wjDark Mirkwood Exits are: N E S W 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>wjDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>wYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>wjDark Mirkwood Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>enDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+nR HP:Hurt S:Depleted>jDark Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>Dark Mirkwood Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>njDeep Mirkwood Exits are: E S W 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>wwwDarkened Mirkwood Exits are: E W 
+
+R HP:Hurt S:Depleted>jUprooted Trees Near a Sinkhole Exits are: E S W 
+
+R HP:Hurt S:Depleted>jShadowy Mirkwood Exits are: N E S 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>njDark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+nR HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>Dark Mirkwood Exits are: N S W 
+Snow lies upon the ground. 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>ssDark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+sR HP:Hurt S:Depleted>sShadowy Mirkwood Exits are: N E S 
+
+R HP:Hurt S:Depleted>You sense a surge of unknown magic from nearby... 
+Dark Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>sDark Mirkwood Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>swYou cannot go that way. 
+
+wR HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>sDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>nnnDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>jDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>njBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>dismwYou stop riding a brown horse. 
+A brown horse starts following you. 
+
+sHP:Hurt S:Depleted>Before the Guard Tower Exits are: E S (W) 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>llBelow the Guard Tower Exits are: N W 
+Snow lies upon the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Hurt S:Depleted>You release your prepared spell. 
+You start to concentrate. 
+
+neOk. 
+a solemn orc at The Guard Tower to the west. 
+a white-scaled lizard at An Escape Tunnel to the west and down. 
+the young uruk mage at An Arcane Study to the west and up. 
+*an Uruk* at An Arcane Study to the west and up. 
+an uruk-hai warrior at An Arcane Study to the west and up. 
+a black warg at Warg Pens to the northwest and up. 
+a black warg at Warg Pens to the northwest and up. 
+a black warg at Warg Pens to the northwest and up. 
+a black warg at Warg Pens to the northwest and up. 
+a black warg at Warg Pens to the northwest and up. 
+a black warg at Warg Pens to the northwest and up. 
+an orc slave at A Narrow Tunnel to the west and down. 
+You could not further concentrate. 
+Before the Guard Tower Exits are: E S (W) 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>Beginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>scYou have 165/241 hit, 18/128 stamina, 97/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Hurt S:Depleted>chat damnYou chat 'damn' 
+
+sHP:Hurt S:Depleted>csDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>You start to concentrate. 
+
+chat he's in mage towersc 
+Vesur chats '?' 
+
+Ok. 
+You feel better. 
+You chat 'he's in mage tower' 
+
+HP:Bruised S:Drained>You have 194/241 hit, 8/128 stamina, 96/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Drained>chat wanna come hit him with me ves?Wet snow falls through the trees, but cannot cover the ground. 
+You catch a waft of evil stench in the air. 
+You chat 'wanna come hit him with me ves?' 
+
+scHP:Bruised S:Depleted>You have 195/241 hit, 14/128 stamina, 98/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>sc 
+Vesur chats 'is warrior in there or elsewhere?' 
+
+HP:Bruised S:Depleted>You have 195/241 hit, 14/128 stamina, 98/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>chat i just waftedYou chat 'i just wafted' 
+
+HP:Bruised S:Depleted>chat warrior is in therescYou chat 'warrior is in there' 
+
+HP:Bruised S:Depleted>You have 197/241 hit, 16/128 stamina, 101/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>scYou have 198/241 hit, 17/128 stamina, 102/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted> 
+You sense a surge of unknown magic from nearby... 
+
+HP:Bruised S:Depleted>scYou have 198/241 hit, 17/128 stamina, 102/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>st 
+Vesur chats 'mmph' 
+
+HP:Bruised S:Depleted>You are already standing. 
+
+HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+You completed your preparations. 
+
+HP:Bruised S:Depleted>chat the mage is prolly healed up now 
+Vesur chats 'more than 1 Uruk now?' 
+
+HP:Bruised S:Depleted>You chat 'the mage is prolly healed up now' 
+
+exa nHP:Bruised S:Depleted>To the north you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>chat this one is different from mageYou chat 'this one is different from mage' 
+
+HP:Bruised S:Depleted>exda nscUnrecognized command. 
+
+HP:Bruised S:Depleted>You have 203/241 hit, 23/128 stamina, 109/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>exa nTo the north you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>chat so i will assume there's 2nYou chat 'so i will assume there's 2' 
+
+HP:Bruised S:Depleted>jBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted> 
+You release your prepared spell. 
+
+HP:Bruised S:Depleted>wjBefore the Guard Tower Exits are: E S (W) 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>exa sTo the south you see: 
+It is pitch black... 
+
+eHP:Bruised S:Depleted>jBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>scYou have 205/241 hit, 26/128 stamina, 107/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted>ejShadowy Path Exits are: S W 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>wjBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>sjDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>restscYou sit down and rest your tired bones. 
+
+HP:Bruised S:Depleted>You have 206/241 hit, 27/128 stamina, 103/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Depleted> 
+Vesur tells you 'let's try a trap in the door e e all n from cth?' 
+
+HP:Bruised S:Depleted>yell boooYou yell 'booo' 
+
+HP:Bruised S:Depleted>reply okYou tell Vesur 'ok' 
+
+HP:Bruised S:Depleted> 
+You sense a surge of unknown magic from nearby... 
+
+HP:Bruised S:Depleted>reply you go there?You tell Vesur 'you go there?' 
+
+HP:Bruised S:Charged>scYou have 210/241 hit, 34/128 stamina, 112/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+HP:Bruised S:Charged>reply i lead him?*an Uruk* is entering from the north, riding on a black warg. 
+You tell Vesur 'i lead him?' 
+
+HP:Bruised S:Charged>scYou have 211/241 hit, 36/128 stamina, 114/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+stHP:Bruised S:Charged>jYou stop resting, and stand up. 
+
+HP:Bruised S:Charged>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>rYou lightly pound *an Uruk*'s right leg. 
+You start to concentrate. 
+
+
+You could not concentrate anymore! 
+*an Uruk* sends you sprawling with a powerful bash. 
+You resist a lot. 
+You swiftly duck *an Uruk*'s attempt to swing at you. 
+*an Uruk* stops riding a black warg. 
+*an Uruk* swings at a black warg wildly, and connects! 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded> 
+A black warg hits *an Uruk*'s left leg. 
+*an Uruk* discovers a weakness in your defense! 
+You resist a lot. 
+*an Uruk* rushes forward wildly. 
+*an Uruk* deeply wounds your left hand with his stab. 
+Wet snow falls through the trees, but cannot cover the ground. 
+Saving Drusilla. 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>r 
+Vesur tells you 'yep. I'm there.' 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded> 
+*an Uruk* stabs your right arm. 
+
+HP:Hurt S:Depleted, *an Uruk*:Wounded> 
+A black warg hits *an Uruk*'s body. 
+
+HP:Hurt S:Depleted, *an Uruk*:Wounded>You have regained your balance! 
+You start to concentrate. 
+
+
+*an Uruk* stabs your left hand hard. 
+You could not concentrate anymore! 
+
+HP:Hurt S:Depleted, *an Uruk*:Wounded>rA black warg hits *an Uruk*'s body. 
+You start to concentrate. 
+
+
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves south. 
+
+
+Nobody here by that name. 
+
+eHP:Hurt S:Depleted> 
+*an Uruk* enters from the south. 
+
+HP:Hurt S:Depleted>s*an Uruk* leaves north. 
+*an Uruk* enters from the south. 
+Dark Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+HP:Hurt S:Depleted>scYou have 146/241 hit, 32/128 stamina, 116/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+rideHP:Hurt S:Depleted>wA brown horse stops following you. 
+You mount a brown horse and start riding her. 
+
+R HP:Hurt S:Depleted>csDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Depleted>You start to concentrate. 
+
+
+Ok. 
+You feel better. 
+
+R HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+You sense a surge of unknown magic from nearby... 
+
+sYou completed your preparations. 
+Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+nR HP:Bruised S:Depleted>nDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+nR HP:Bruised S:Depleted>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Uruk* is standing here. 
+
+R HP:Bruised S:Depleted>jBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+R HP:Bruised S:Drained, *an Uruk*:Bloodied> 
+*an Uruk* stabs your body. 
+
+R HP:Hurt S:Drained, *an Uruk*:Bloodied>fYou flee head over heels. 
+Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+A dark warg stands here, its eyes glowing like a flame. 
+*an Uruk* is standing here. 
+
+R HP:Hurt S:Drained>esDark Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Drained>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Drained>chat 2You chat '2' 
+
+R HP:Hurt S:Depleted>chat one is bloodysYou chat 'one is bloody' 
+
+scR HP:Hurt S:Depleted>Dark Mirkwood Exits are: N E S W 
+Snow lies upon the ground. 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Hurt S:Depleted>You have 168/241 hit, 14/128 stamina, 116/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+R HP:Hurt S:Depleted>preYou need some argument here. 
+
+R HP:Hurt S:Depleted>sDark Mirkwood Exits are: N S W 
+Snow lies upon the ground. 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Hurt S:Depleted>wDark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+Vesur chats 'ooh. They're in main tower?' 
+
+reply we still try trap?You completed your preparations. 
+You tell Vesur 'we still try trap?' 
+
+R HP:Bruised S:Depleted>chat were jsut near gatenYou chat 'were jsut near gate' 
+
+jnR HP:Bruised S:Depleted>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>nYou release your prepared spell. 
+Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Bruised S:Depleted>j 
+Vesur tells you 'yes' 
+
+R HP:Bruised S:Depleted>Dark Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Depleted>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving south, riding on a black warg. 
+
+R HP:Bruised S:Drained>niBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+iR HP:Bruised S:Drained>They aren't here. 
+
+R HP:Bruised S:Drained>They aren't here. 
+
+R HP:Bruised S:Drained>prep 'fireboltYou start to prepare your spell. 
+
+
+You sense a surge of unknown magic from nearby... 
+
+
+*an Uruk* is entering from the south, riding on a black warg. 
+
+
+*an Uruk* is leaving west, riding on a black warg. 
+
+
+You completed your preparations. 
+
+R HP:Bruised S:Drained>reply both in i thinkwYou tell Vesur 'both in i think' 
+
+R HP:Bruised S:Drained>Before the Guard Tower Exits are: E S W 
+Snow lies upon the ground. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Bruised S:Drained>dismWet snow falls through the trees, but cannot cover the ground. 
+You catch a waft of evil stench in the air. 
+You stop riding a brown horse. 
+A brown horse starts following you. 
+
+sHP:Bruised S:Depleted>jBelow the Guard Tower Exits are: N W 
+Snow lies upon the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves west. 
+A black warg leaves west. 
+
+HP:Bruised S:Drained> 
+Vesur tells you 'any idea if bloodied one is leading or following?' 
+
+HP:Bruised S:Drained>wherePlayers in your Zone 
+-------------------- 
+Drusilla - Below the Guard Tower 
+
+HP:Bruised S:Drained>nBefore the Guard Tower Exits are: E S W 
+Snow lies upon the ground. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Drained>reply both bloodyYou tell Vesur 'both bloody' 
+
+eHP:Bruised S:Drained>scBeginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+
+HP:Bruised S:Drained>You have 177/241 hit, 3/128 stamina, 117/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>wsBefore the Guard Tower Exits are: E S W 
+Snow lies upon the ground. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Drained>Below the Guard Tower Exits are: N W 
+Snow lies upon the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Bruised S:Drained>exa wTo the west you see: 
+It is pitch black... 
+The towerdoor is open. 
+
+HP:Bruised S:Drained>wop trapdoordThe Guard Tower Exits are: E U D 
+A solemn orc stands expressionless, opening and closing the door. 
+
+HP:Bruised S:Drained>It's already open! 
+
+HP:Bruised S:Drained>You sense a surge of unknown magic from nearby... 
+An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Drained> 
+*an Uruk* leaves west. 
+A black warg leaves west. 
+Vesur tells you 'want me to come charge tower?' 
+
+HP:Bruised S:Drained>iThey aren't here. 
+
+sHP:Bruised S:Drained>You cannot go that way. 
+
+HP:Bruised S:Drained>op rootssOk. 
+
+HP:Bruised S:Drained>Webbed Trees Exits are: N E S W 
+A nearly transparent blue flame hovers eerily above the ground, lighting its surroundings. 
+
+HP:Bruised S:Drained>wherePlayers in your Zone 
+-------------------- 
+Drusilla - Webbed Trees 
+
+HP:Bruised S:Drained>scYou have 179/241 hit, 7/128 stamina, 109/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+exa nHP:Bruised S:Drained>To the north you see: 
+An Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+*an Uruk* (busy) is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+The roots is open. 
+
+llHP:Bruised S:Drained>You start to concentrate. 
+
+wsOk. 
+a white-scaled lizard at An Escape Tunnel to the north. 
+*an Uruk* at An Escape Tunnel to the north. 
+a black warg at An Escape Tunnel to the north. 
+a malicious spider at A Sticky Corner to the west. 
+a malicious spider at A Sticky Corner to the west. 
+a malicious spider at A Sticky Corner to the west. 
+a black warg at A Sticky Corner to the west. 
+a black warg at A Sticky Corner to the west. 
+an orc slave at A Narrow Tunnel to the northwest. 
+a solemn orc at The Guard Tower to the north and up. 
+an uruk-hai warrior at The Guard Tower to the north and up. 
+an orc slave at An Ancient Quarry to the west-northwest. 
+an orc slave at An Ancient Quarry to the west-northwest. 
+You could not further concentrate. 
+A Sticky Corner Exits are: E S 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Drained>Webbed Trees Exits are: N S 
+
+HP:Bruised S:Drained>scYou have 181/241 hit, 4/128 stamina, 102/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>prep 'fireboltYou start to prepare your spell. 
+
+reply not sureYou fumbled with your preparations. 
+You tell Vesur 'not sure' 
+
+HP:Bruised S:Drained>reply they not in tower now i thinkYou tell Vesur 'they not in tower now i think' 
+
+prep 'fireboltHP:Bruised S:Drained>You start to prepare your spell. 
+
+scYou completed your preparations. 
+You have 185/241 hit, 9/128 stamina, 108/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 185/241 hit, 9/128 stamina, 108/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 186/241 hit, 10/128 stamina, 110/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 186/241 hit, 10/128 stamina, 110/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+restHP:Bruised S:Drained>You sit down and rest your tired bones. 
+
+exa nHP:Bruised S:Drained>To the north you see: 
+A Sticky Corner Exits are: E S 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Drained>scYou have 186/241 hit, 11/128 stamina, 111/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 186/241 hit, 11/128 stamina, 111/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+scHP:Bruised S:Drained>You have 186/241 hit, 11/128 stamina, 111/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 187/241 hit, 12/128 stamina, 113/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 187/241 hit, 12/128 stamina, 113/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 187/241 hit, 12/128 stamina, 113/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Drained>scYou have 188/241 hit, 14/128 stamina, 115/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>scYou have 188/241 hit, 14/128 stamina, 115/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>stnYou stop resting, and stand up. 
+
+HP:Bruised S:Depleted>eA Sticky Corner Exits are: E S 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A malicious spider slides down its web with a look of hunger in its eyes. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Depleted>Webbed Trees Exits are: E S W 
+A nearly transparent blue flame hovers eerily above the ground, lighting its surroundings. 
+
+HP:Bruised S:Depleted>exa nYou see something strange. 
+
+HP:Bruised S:Depleted>op rootsOk. 
+
+exa nHP:Bruised S:Depleted>jTo the north you see: 
+An Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+The roots is open. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted> 
+You release your prepared spell. 
+
+HP:Bruised S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+nHP:Bruised S:Depleted>wAn Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+
+wHP:Bruised S:Depleted>A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>wAn Ancient Quarry Exits are: N E S W U 
+The slightly chilled corpse of an orc slave is lying here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>weA Hastily Built Barracks Exits are: E 
+A small shield made of iron lies discarded here. 
+The electrocuted corpse of *an Uruk* is lying here. 
+The slightly chilled corpse of *an Uruk* is lying here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Depleted>An Ancient Quarry Exits are: N E S W U 
+The slightly chilled corpse of an orc slave is lying here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>eeAn Intersection in a Tunnel Exits are: N E W 
+
+eHP:Bruised S:Depleted>A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>eAn Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+
+llHP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+You start to concentrate. 
+
+
+Ok. 
+an orc slave at A Narrow Tunnel to the west. 
+a solemn orc at The Guard Tower to the up. 
+*an Uruk* at The Guard Tower to the up. 
+a black warg at The Guard Tower to the up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+the young uruk mage at An Arcane Study to the up. 
+an uruk-hai warrior at An Arcane Study to the up. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+You could not further concentrate. 
+
+HP:Bruised S:Depleted>exa uYou see nothing special. 
+The trapdoor is closed. 
+
+HP:Bruised S:Depleted>op trapdoorOk. 
+
+HP:Bruised S:Depleted>exa uTo the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+wHP:Bruised S:Depleted>A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>wAn Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>exa nTo the north you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>exa eTo the east you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>scYou have 195/241 hit, 22/128 stamina, 102/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>scYou have 196/241 hit, 23/128 stamina, 103/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>scYou have 196/241 hit, 23/128 stamina, 103/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>nA Torture Chamber Exits are: N S 
+A weapon rack has been set here. 
+
+HP:Bruised S:Depleted>exa nTo the north you see: 
+At a Sinister Altar Exits are: S 
+Vesur the King of Dwarves is standing here. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+The door is open. 
+
+HP:Bruised S:Depleted>alias p close doorsYou replaced the alias 'p'. 
+
+HP:Bruised S:Depleted>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>exa escTo the east you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>You have 198/241 hit, 26/128 stamina, 104/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>reply we try for a trapscYou tell Vesur 'we try for a trap' 
+
+HP:Bruised S:Depleted>You have 198/241 hit, 27/128 stamina, 105/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>eeA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>An Escape Tunnel Exits are: S W U 
+A white-scaled lizard hisses violently. 
+
+HP:Bruised S:Depleted>exa uwTo the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+HP:Bruised S:Depleted> 
+Vesur tells you 'okey' 
+
+HP:Bruised S:Depleted>llA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a white-scaled lizard at An Escape Tunnel to the east. 
+an orc slave at An Ancient Quarry to the west. 
+*a Dwarf* at At a Sinister Altar to the north-northwest. 
+a mule at At a Sinister Altar to the north-northwest. 
+a mule at At a Sinister Altar to the north-northwest. 
+a solemn orc at The Guard Tower to the east and up. 
+Cthogul the insomniac at A Hastily Built Barracks to the west. 
+a black warg at A Hastily Built Barracks to the west. 
+a black warg at A Hastily Built Barracks to the west. 
+an orc slave at A Hastily Built Barracks to the west. 
+the Uruk Storekeep at A Converted General Store to the west-northwest. 
+Krakfuin the blacksmith at A Makeshift Forge to the west-southwest. 
+an uruk slavemaster at A Transformed Quarry to the west and up. 
+You could not further concentrate. 
+
+HP:Bruised S:Depleted>scYou have 200/241 hit, 25/128 stamina, 105/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+eHP:Bruised S:Depleted>llAn Escape Tunnel Exits are: S W U 
+A white-scaled lizard hisses violently. 
+
+HP:Bruised S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a solemn orc at The Guard Tower to the up. 
+an orc slave at A Narrow Tunnel to the west. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+an orc slave at An Ancient Quarry to the west. 
+the young uruk mage at An Arcane Study to the up. 
+an uruk-hai warrior at An Arcane Study to the up. 
+*an Uruk* at An Arcane Study to the up. 
+a black warg at An Arcane Study to the up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+You could not further concentrate. 
+
+HP:Bruised S:Depleted>close rootsOk. 
+
+HP:Bruised S:Depleted>exa uTo the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+HP:Bruised S:Depleted>wA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+scHP:Bruised S:Depleted>You have 203/241 hit, 23/128 stamina, 106/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+alias h cast 'firebolt' 2.urukYou completed your preparations. 
+You replaced the alias 'h'. 
+
+HP:Bruised S:Depleted>alias h cast 'firebolt' 3.urukeYou replaced the alias 'h'. 
+
+HP:Bruised S:Depleted>An Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+
+HP:Bruised S:Depleted>exa uYou see nothing special. 
+The trapdoor is closed. 
+
+HP:Bruised S:Depleted>op trapdoorOk. 
+
+exa uHP:Bruised S:Depleted>To the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+HP:Bruised S:Depleted>alias o op trapdoorYou replaced the alias 'o'. 
+
+HP:Bruised S:Depleted>alias p op towerdoorYou replaced the alias 'p'. 
+
+HP:Bruised S:Charged>uuhThe Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Bruised S:Charged>An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+*an Uruk* is sleeping here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+fHP:Bruised S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Charged>You release your prepared spell. 
+PANIC! You couldn't escape! 
+
+HP:Bruised S:Charged>ddThe Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Bruised S:Charged>An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+
+HP:Bruised S:Charged>alias h cast 'firebolt' 2.urukuuYou replaced the alias 'h'. 
+
+hHP:Bruised S:Charged>fThe Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Bruised S:Charged>An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+*an Uruk* is sleeping here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Bruised S:Charged>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* stabs your head very hard. 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>PANIC! You couldn't escape! 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>fdYou flee head over heels. 
+The Guard Tower Exits are: (E) U 
+A solemn orc stands expressionless, opening and closing the door. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+dHP:Bruised S:Depleted>dYou cannot go that way. 
+
+HP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>An uruk-hai warrior attacks YOU! 
+No way! You're fighting for your life! 
+
+HP:Bruised S:Depleted, an uruk-hai warrior:Healthy>opYou can not do it this way. 
+
+HP:Bruised S:Depleted, an uruk-hai warrior:Healthy>opfOk. 
+
+dHP:Bruised S:Depleted, an uruk-hai warrior:Healthy>Ok. 
+
+HP:Bruised S:Depleted, an uruk-hai warrior:Healthy>sYou flee head over heels. 
+An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+
+dHP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>exa uTo the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+HP:Bruised S:Depleted>scYou have 189/241 hit, 27/128 stamina, 112/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+llYour preparations were ruined. 
+
+HP:Bruised S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a solemn orc at The Guard Tower to the up. 
+an uruk-hai warrior at The Guard Tower to the up. 
+*an Uruk* at The Guard Tower to the up. 
+a black warg at The Guard Tower to the up. 
+an orc slave at A Narrow Tunnel to the west. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+the young uruk mage at An Arcane Study to the up. 
+an orc slave at An Ancient Quarry to the west. 
+Cthogul the insomniac at A Hastily Built Barracks to the west. 
+a black warg at A Hastily Built Barracks to the west. 
+a black warg at A Hastily Built Barracks to the west. 
+You could not further concentrate. 
+
+HP:Bruised S:Depleted>wA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+llHP:Bruised S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a white-scaled lizard at An Escape Tunnel to the east. 
+a solemn orc at The Guard Tower to the east and up. 
+an uruk-hai warrior at The Guard Tower to the east and up. 
+the young uruk mage at An Arcane Study to the up and east and up. 
+*an Uruk* at An Arcane Study to the up and east and up. 
+a black warg at An Arcane Study to the up and east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+an orc slave at An Ancient Quarry to the west. 
+a black warg at Before the Guard Tower to the east-northeast and up. 
+a black warg at Warg Pens to the northeast and up. 
+a black warg at Warg Pens to the northeast and up. 
+You could not further concentrate. 
+
+HP:Bruised S:Depleted>sccsYou have 190/241 hit, 22/128 stamina, 117/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Bruised S:Depleted>You start to concentrate. 
+
+
+Ok. 
+You feel better. 
+
+scHP:Scratched S:Drained>You have 218/241 hit, 12/128 stamina, 120/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Scratched S:Drained>prep 'fireboltYou start to prepare your spell. 
+
+
+You completed your preparations. 
+
+HP:Scratched S:Depleted>eAn Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+
+exa uHP:Scratched S:Depleted>You see nothing special. 
+The trapdoor is closed. 
+
+HP:Scratched S:Depleted>llYou release your prepared spell. 
+You start to concentrate. 
+
+prep 'firebolt 
+You sense a surge of unknown magic from nearby... 
+
+Ok. 
+an orc slave at A Narrow Tunnel to the west. 
+a solemn orc at The Guard Tower to the up. 
+an uruk-hai warrior at The Guard Tower to the up. 
+the young uruk mage at An Arcane Study to the up. 
+*an Uruk* at An Arcane Study to the up. 
+a black warg at An Arcane Study to the up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a starving chicken at Below the Guard Tower to the east and up. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+You could not further concentrate. 
+You start to prepare your spell. 
+
+
+You sense a surge of unknown magic from nearby... 
+You fumbled with your preparations. 
+
+HP:Scratched S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+The trapdoor is opened from the other side. 
+
+wllYou fumbled with your preparations. 
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a white-scaled lizard at An Escape Tunnel to the east. 
+a solemn orc at The Guard Tower to the east and up. 
+an uruk-hai warrior at The Guard Tower to the east and up. 
+a malicious spider at A Sticky Corner to the south. 
+a malicious spider at A Sticky Corner to the south. 
+a malicious spider at A Sticky Corner to the south. 
+a black warg at A Sticky Corner to the south. 
+a black warg at A Sticky Corner to the south. 
+a forest troll at Ancient Well in Mirkwood to the southeast. 
+You could not further concentrate. 
+
+HP:Scratched S:Depleted>ellAn Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+
+HP:Scratched S:Depleted>You start to concentrate. 
+
+
+Ok. 
+a solemn orc at The Guard Tower to the up. 
+an uruk-hai warrior at The Guard Tower to the up. 
+an orc slave at A Narrow Tunnel to the west. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+an orc slave at An Ancient Quarry to the west. 
+*a Dwarf* at At a Sinister Altar to the northwest. 
+a mule at At a Sinister Altar to the northwest. 
+a mule at At a Sinister Altar to the northwest. 
+an uruk slavemaster at A Transformed Quarry to the west and up. 
+You could not further concentrate. 
+
+HP:Scratched S:Drained>wA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Drained>eAn Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+
+exa uHP:Scratched S:Drained>To the up you see: 
+It is pitch black... 
+The trapdoor is open. 
+
+HP:Scratched S:Drained>llYou start to concentrate. 
+
+prep 'fireboltOk. 
+a solemn orc at The Guard Tower to the up. 
+an uruk-hai warrior at The Guard Tower to the up. 
+*an Uruk* at The Guard Tower to the up. 
+a black warg at The Guard Tower to the up. 
+an orc slave at A Narrow Tunnel to the west. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a shadowy spider at Webbed Trees to the south. 
+You could not further concentrate. 
+You start to prepare your spell. 
+
+scYou completed your preparations. 
+You have 228/241 hit, 11/128 stamina, 131/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Scratched S:Drained>scYou have 228/241 hit, 11/128 stamina, 131/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Scratched S:Drained> 
+The trapdoor closes quietly. 
+
+HP:Scratched S:Drained> 
+You sense a surge of unknown magic from nearby... 
+
+HP:Scratched S:Drained>op trapdooruca 'firebolt' 3.urukopfOk. 
+
+HP:Scratched S:Depleted>The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+
+HP:Scratched S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Scratched S:Depleted>You release your prepared spell. 
+*an Uruk* enters from above. 
+A black warg enters from above. 
+It's already open! 
+
+HP:Scratched S:Depleted>Ok. 
+
+HP:Scratched S:Depleted>dYou flee head over heels. 
+Below the Guard Tower Exits are: N W 
+Snow lies upon the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+
+HP:Scratched S:Depleted>ddYou cannot go that way. 
+
+HP:Scratched S:Depleted>You cannot go that way. 
+
+HP:Scratched S:Depleted>You cannot go that way. 
+
+HP:Scratched S:Depleted>exa wTo the west you see: 
+It is pitch black... 
+The towerdoor is open. 
+
+HP:Scratched S:Depleted> 
+Wet snow falls through the trees, but cannot cover the ground. 
+You catch a waft of evil stench in the air. 
+
+HP:Scratched S:Depleted>ooNothing here by that name. 
+
+HP:Scratched S:Depleted>Nothing here by that name. 
+
+HP:Scratched S:Depleted>wodThe Guard Tower Exits are: E U 
+A solemn orc stands expressionless, opening and closing the door. 
+*an Uruk* is standing here. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+HP:Scratched S:Depleted>Ok. 
+
+HP:Scratched S:Depleted>An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+
+HP:Scratched S:Depleted> 
+The trapdoor closes quietly. 
+
+exa uHP:Scratched S:Depleted>You see nothing special. 
+The trapdoor is closed. 
+
+HP:Scratched S:Depleted>exa sYou see something strange. 
+
+HP:Scratched S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+chat not sure what he's trying to do 
+You sense a surge of unknown magic from nearby... 
+
+
+The trapdoor is opened from the other side. 
+
+You completed your preparations. 
+*an Uruk* enters from above. 
+You chat 'not sure what he's trying to do' 
+
+HP:Scratched S:Depleted>jYou release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+HP:Scratched S:Depleted, *an Uruk*:Wounded> 
+You lightly pound *an Uruk*'s right leg. 
+
+HP:Scratched S:Depleted, *an Uruk*:Wounded> 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+HP:Scratched S:Depleted, *an Uruk*:Wounded> 
+*an Uruk* stabs your right hand very hard. 
+
+HP:Scratched S:Depleted, *an Uruk*:Wounded>close trapdoor 
+You resist a lot. 
+*an Uruk*'s swing gets you in the ribs! 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>f 
+*an Uruk* stabs your right arm hard. 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>The trapdoor closes quietly. 
+You have regained your balance! 
+It's already closed! 
+
+HP:Bruised S:Depleted, *an Uruk*:Wounded>You flee head over heels. 
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>wVesur chats 'he trying to lure you into main tower?' 
+An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>exa eTo the east you see: 
+It is pitch black... 
+
+HP:Bruised S:Depleted>lAn Intersection in a Tunnel Exits are: N E W 
+A brown horse is here, gazing at you. 
+A white horse is here, gleaming in valiant beauty. 
+
+HP:Bruised S:Depleted>lAn Intersection in a Tunnel Exits are: N E W 
+A brown horse is here, gazing at you. 
+A white horse is here, gleaming in valiant beauty. 
+
+HP:Bruised S:Depleted>lAn Intersection in a Tunnel Exits are: N E W 
+A brown horse is here, gazing at you. 
+A white horse is here, gleaming in valiant beauty. 
+
+HP:Bruised S:Depleted>csYou start to concentrate. 
+
+prep 'fireboltOk. 
+You feel better. 
+You start to prepare your spell. 
+
+chat yes he isYou completed your preparations. 
+You chat 'yes he is' 
+
+HP:Bruised S:Drained>eeA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+jHP:Bruised S:Drained>An Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+
+HP:Bruised S:Drained>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Scratched S:Depleted> 
+You release your prepared spell. 
+
+HP:Scratched S:Depleted>wscA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Depleted>You have 218/241 hit, 13/128 stamina, 130/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 37K. 
+
+HP:Scratched S:Depleted>eAn Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+
+HP:Scratched S:Depleted> 
+You sense a surge of unknown magic from nearby... 
+
+HP:Scratched S:Depleted>exa w 
+The trapdoor is opened from the other side. 
+
+HP:Scratched S:Depleted>To the west you see: 
+It is pitch black... 
+
+HP:Scratched S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+wHP:Scratched S:Depleted>A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Scratched S:Depleted>exa eTo the east you see: 
+An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+*an Uruk* is standing here. 
+
+HP:Scratched S:Depleted>exa eTo the east you see: 
+An Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+*an Uruk* is standing here. 
+
+HP:Scratched S:Depleted>ejAn Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+*an Uruk* is standing here. 
+
+HP:Scratched S:Depleted>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+HP:Scratched S:Drained, *an Uruk*:Wounded>r 
+*an Uruk* stabs your left leg hard. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>You can't summon enough energy to cast the spell. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded> 
+You lightly pound *an Uruk*'s right leg. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>fdwYou flee head over heels. 
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+
+HP:Bruised S:Drained>wAn Escape Tunnel Exits are: W U 
+A white-scaled lizard hisses violently. 
+*an Uruk* (busy) is standing here. 
+
+HP:Bruised S:Drained>A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Drained>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Drained> 
+Vesur chats '2v1 and they need to use mobs? Smile' 
+
+HP:Bruised S:Drained> 
+*an Uruk* enters from the east. 
+
+prep 'fireboltHP:Bruised S:Drained>You start to prepare your spell. 
+
+fYour preparations were ruined. 
+
+HP:Bruised S:Drained>You flee head over heels. 
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Drained> 
+*an Uruk* enters from the west. 
+
+HP:Bruised S:Drained> 
+*an Uruk* leaves east. 
+
+HP:Bruised S:Drained>eAn Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+*an Uruk* is standing here. 
+
+HP:Bruised S:Drained> 
+*an Uruk* attacks YOU! 
+*an Uruk* discovers a weakness in your defense! 
+You resist a lot. 
+*an Uruk* stabs your head very hard. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>n 
+You lightly pound *an Uruk*'s right leg. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>No way! You're fighting for your life! 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>fwYou flee head over heels. 
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Drained>An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Drained>nA Torture Chamber Exits are: N S 
+A weapon rack has been set here. 
+
+sHP:Bruised S:Drained>An Intersection in a Tunnel Exits are: N E W 
+*an Uruk* is standing here. 
+
+nHP:Bruised S:Drained> 
+*an Uruk* attacks YOU! 
+You resist a lot. 
+*an Uruk* lightly stabs your left arm. 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>No way! You're fighting for your life! 
+
+HP:Bruised S:Drained, *an Uruk*:Wounded>fYou lightly pound *an Uruk*'s body. 
+You flee head over heels. 
+A Torture Chamber Exits are: N S 
+A weapon rack has been set here. 
+
+HP:Bruised S:Drained>nAt a Sinister Altar Exits are: S 
+Vesur the King of Dwarves is standing here. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Bruised S:Drained>exa siiTo the south you see: 
+It is pitch black... 
+The door is open. 
+
+HP:Bruised S:Drained>iThey aren't here. 
+
+HP:Bruised S:Drained>sThey aren't here. 
+
+HP:Bruised S:Drained>iiThey aren't here. 
+
+HP:Bruised S:Depleted>A Torture Chamber Exits are: N S 
+A weapon rack has been set here. 
+
+HP:Bruised S:Depleted>They aren't here. 
+
+HP:Bruised S:Depleted>They aren't here. 
+
+HP:Bruised S:Depleted>iiThey aren't here. 
+
+HP:Bruised S:Depleted>They aren't here. 
+
+HP:Bruised S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+*an Uruk* enters from the south. 
+
+
+*an Uruk* attacks YOU! 
+*an Uruk* stabs your left arm hard. 
+
+
+No way! You're fighting for your life! 
+
+HP:Hurt S:Depleted, *an Uruk*:Wounded> 
+You pound *an Uruk*'s body. 
+
+HP:Hurt S:Depleted, *an Uruk*:Wounded>f 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves north. 
+
+HP:Hurt S:Depleted>You flee head over heels. 
+At a Sinister Altar Exits are: S 
+Vesur the King of Dwarves (busy) is here, fighting *an Uruk*. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+*an Uruk* is here, fighting Vesur. 
+
+HP:Hurt S:Depleted>i 
+*an Uruk* panics, and attempts to flee! 
+Vesur closes the door. 
+
+iHP:Hurt S:Depleted>pYou attack *an Uruk*! 
+
+HP:Hurt S:Depleted, Vesur:Healthy, *an Uruk*:Bloodied>pp*an Uruk* discovers a weakness in Vesur's defense! 
+*an Uruk* stabs Vesur's body very hard. 
+You do the best you can! 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>*an Uruk* panics, and attempts to flee! 
+Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>*an Uruk* opens the door. 
+Vesur closes the door. 
+Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>p*an Uruk* panics, and attempts to flee! 
+Nothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pVesur discovers a weakness in *an Uruk*'s defense! 
+Vesur deeply wounds *an Uruk*'s head with his cleave. 
+Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pNothing here by that name. 
+
+pHP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Bloodied>pVesur cleaves *an Uruk*'s head extremely hard. 
+*an Uruk* sends Vesur sprawling with a powerful bash. 
+*an Uruk* opens the door. 
+Nothing here by that name. 
+
+HP:Hurt S:Depleted, Vesur:Scratched, *an Uruk*:Awful>p*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* leaves south. 
+Nothing here by that name. 
+
+HP:Hurt S:Depleted>pNothing here by that name. 
+
+HP:Hurt S:Depleted>pNothing here by that name. 
+
+HP:Hurt S:Depleted>pNothing here by that name. 
+
+HP:Hurt S:Depleted>pNothing here by that name. 
+
+HP:Hurt S:Depleted>Nothing here by that name. 
+
+HP:Hurt S:Depleted>Nothing here by that name. 
+
+HP:Hurt S:Depleted>Nothing here by that name. 
+
+HP:Hurt S:Depleted>Nothing here by that name. 
+
+HP:Hurt S:Depleted>Nothing here by that name. 
+
+HP:Hurt S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+
+Vesur has recovered from a bash! 
+Vesur closes the door. 
+
+chat damn - wrong alias 
+Vesur chats 'you weren't closing?' 
+
+
+You join the group of Vesur. 
+
+op door 
+Vesur beckons for everyone to follow him. 
+
+sjsjYou completed your preparations. 
+You chat 'damn - wrong alias' 
+
+HP:Bruised S:Depleted>Ok. 
+
+HP:Bruised S:Depleted>A Torture Chamber Exits are: N S 
+A weapon rack has been set here. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+An Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>wjAn Ancient Quarry Exits are: N E S W U 
+A large pickaxe, worn down by digging, rests here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>wca 'firebolt' 2.urukeA Hastily Built Barracks Exits are: E 
+A small shield made of iron lies discarded here. 
+The electrocuted corpse of *an Uruk* is lying here. 
+The slightly chilled corpse of *an Uruk* is lying here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>An Ancient Quarry Exits are: N E S W U 
+A large pickaxe, worn down by digging, rests here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>eeeAn Intersection in a Tunnel Exits are: N E W 
+
+HP:Bruised S:Depleted>eA Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>An Escape Tunnel Exits are: W (U) 
+A white-scaled lizard hisses violently. 
+Vesur the King of Dwarves is standing here. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Bruised S:Depleted>You cannot go that way. 
+
+HP:Bruised S:Depleted>fol vesurYou now follow Vesur. 
+
+HP:Bruised S:Depleted> 
+Vesur beckons for everyone to follow him. 
+
+HP:Bruised S:Depleted> 
+Vesur opens the roots. 
+
+HP:Bruised S:Depleted> 
+Vesur opens the trapdoor. 
+
+ca 'firebolt' 3.urukHP:Bruised S:Depleted> 
+Vesur leaves up. 
+You follow Vesur. 
+
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted>exa u 
+Vesur leaves up. 
+You follow Vesur. 
+
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+*an Uruk* (busy) is standing here. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted>Vesur attacks an uruk-hai warrior! 
+Vesur cleaves an uruk-hai warrior's body very hard. 
+You see nothing special. 
+
+HP:Bruised S:Depleted> 
+An uruk-hai warrior slashes Vesur's left leg hard. 
+
+HP:Bruised S:Depleted> 
+Vesur panics, and attempts to flee! 
+Vesur flees head over heels! 
+Vesur leaves down. 
+You follow Vesur. 
+
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted> 
+An uruk-hai warrior enters from above. 
+
+HP:Bruised S:Depleted> 
+You sense a surge of unknown magic from nearby... 
+
+HP:Bruised S:Depleted> 
+Vesur leaves up. 
+You follow Vesur. 
+
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+*an Uruk* is standing here. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted> 
+An uruk-hai warrior enters from below. 
+*an Uruk* leaves down. 
+Vesur attacks an uruk-hai warrior! 
+
+HP:Bruised S:Depleted> 
+An uruk-hai warrior lightly slashes Vesur's body. 
+
+HP:Bruised S:Depleted>ca 'firebolt' 2.urukVesur cleaves an uruk-hai warrior's body. 
+You release your prepared spell. 
+Ok. 
+Your firebolt scorches an uruk-hai warrior's body. 
+
+HP:Bruised S:Depleted, Vesur:Scratched, an uruk-hai warrior:Hurt>fPANIC! You couldn't escape! 
+
+HP:Bruised S:Depleted, Vesur:Scratched, an uruk-hai warrior:Hurt> 
+The young uruk mage says 'C imqs woruijv yw avwgqm!' 
+The young uruk mage assists an uruk-hai warrior. 
+The young uruk mage attacks Vesur! 
+The young uruk mage pounds Vesur's body extremely hard. 
+Vesur panics, and attempts to flee! 
+
+HP:Bruised S:Depleted, Vesur:Bruised, an uruk-hai warrior:Hurt> 
+Vesur panics, and attempts to flee! 
+Vesur flees head over heels! 
+Vesur leaves down. 
+A mule leaves down. 
+A mule leaves down. 
+
+HP:Bruised S:Depleted, an uruk-hai warrior:Hurt>f 
+An uruk-hai warrior slashes your body. 
+
+HP:Hurt S:Depleted, an uruk-hai warrior:Hurt>dYou flee head over heels. 
+The Guard Tower Exits are: E U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+Vesur the King of Dwarves is standing here. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Hurt S:Depleted>An Escape Tunnel Exits are: S W U 
+A white-scaled lizard hisses violently. 
+
+HP:Hurt S:Depleted> 
+Vesur enters from above. 
+
+HP:Hurt S:Depleted> 
+Vesur leaves west. 
+You follow Vesur. 
+
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Hurt S:Depleted> 
+Vesur leaves west. 
+You follow Vesur. 
+
+An Intersection in a Tunnel Exits are: N E W 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted> 
+Vesur leaves west. 
+You follow Vesur. 
+
+An Ancient Quarry Exits are: N E S W U 
+A large pickaxe, worn down by digging, rests here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted>prep 'firebolt 
+Vesur leaves west. 
+You follow Vesur. 
+
+A Hastily Built Barracks Exits are: E 
+A small shield made of iron lies discarded here. 
+The electrocuted corpse of *an Uruk* is lying here. 
+The slightly chilled corpse of *an Uruk* is lying here. 
+A weapon rack has been set here. 
+Cthogul the insomniac is here, watching over everyone. 
+A dark warg stands here, its eyes glowing like a flame. 
+A dark warg stands here, its eyes glowing like a flame. 
+A beaten orcish slave stands here, fearing another thrashing. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Bruised S:Depleted>You start to prepare your spell. 
+
+
+Cthogul the insomniac attacks Vesur! 
+Cthogul the insomniac hits Vesur's left leg hard. 
+
+eYour preparations were ruined. 
+
+HP:Bruised S:Depleted>An Ancient Quarry Exits are: N E S W U 
+A large pickaxe, worn down by digging, rests here. 
+A large pickaxe, worn down by digging, rests here. 
+A beaten orcish slave stands here, fearing another thrashing. 
+
+HP:Bruised S:Depleted>prep 'fireboltVesur enters from the west. 
+You start to prepare your spell. 
+
+
+An uruk-hai warrior enters from the east. 
+
+
+Vesur says 'was awful' 
+
+
+You completed your preparations. 
+
+HP:Bruised S:Depleted> 
+Vesur leaves east. 
+You follow Vesur. 
+
+An Intersection in a Tunnel Exits are: N E W 
+Vesur the King of Dwarves (busy) is standing here. 
+
+HP:Bruised S:Depleted>nod 
+Vesur leaves east. 
+You follow Vesur. 
+
+A Narrow Tunnel Exits are: E S W 
+A beaten orcish slave stands here, fearing another thrashing. 
+Vesur the King of Dwarves (busy) is standing here. 
+
+HP:Bruised S:Depleted>You nod solemnly. 
+
+HP:Bruised S:Depleted> 
+Vesur leaves east. 
+You follow Vesur. 
+
+An Escape Tunnel Exits are: S W U 
+A white-scaled lizard hisses violently. 
+Vesur the King of Dwarves (busy) is standing here. 
+
+HP:Bruised S:Depleted> 
+Vesur leaves south. 
+You follow Vesur. 
+
+Webbed Trees Exits are: N E S W 
+A nearly transparent blue flame hovers eerily above the ground, lighting its surroundings. 
+Vesur the King of Dwarves (busy) is standing here. 
+
+HP:Bruised S:Depleted>ca 'firebolt' urukYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Bruised S:Depleted> 
+You release your prepared spell. 
+
+HP:Bruised S:Depleted>ride 
+Vesur leaves north. 
+You follow Vesur. 
+
+An Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+An uruk-hai warrior stands here, waiting for something to kill. 
+Vesur the King of Dwarves is standing here. 
+
+jHP:Bruised S:Depleted>A brown horse stops following you. 
+You mount a brown horse and start riding her. 
+
+R HP:Bruised S:Depleted>jYou release your prepared spell. 
+Ok. 
+Your firebolt scorches an uruk-hai warrior's body. 
+
+jR HP:Bruised S:Drained, an uruk-hai warrior:Wounded> 
+You resist a lot. 
+An uruk-hai warrior slashes your body. 
+
+R HP:Hurt S:Drained, an uruk-hai warrior:Wounded>You can't summon enough energy to cast the spell. 
+
+R HP:Hurt S:Drained, an uruk-hai warrior:Wounded>You can't summon enough energy to cast the spell. 
+
+R HP:Hurt S:Drained, an uruk-hai warrior:Wounded>fPANIC! You couldn't escape! 
+
+R HP:Hurt S:Depleted, an uruk-hai warrior:Wounded>R HP:Hurt S:Depleted, an uruk-hai warrior:Wounded>fPANIC! You couldn't escape! 
+
+R HP:Hurt S:Depleted, an uruk-hai warrior:Wounded>lAn Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+An uruk-hai warrior is here, fighting YOU! 
+Vesur the King of Dwarves is standing here. 
+You are here, fighting an uruk-hai warrior, riding on a brown horse. 
+A white horse is here, gleaming in valiant beauty. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+R HP:Hurt S:Depleted, an uruk-hai warrior:Wounded>fAn uruk-hai warrior slashes your left arm hard. 
+You flee head over heels. 
+Webbed Trees Exits are: N E S W 
+A nearly transparent blue flame hovers eerily above the ground, lighting its surroundings. 
+
+R HP:Hurt S:Depleted>dismnYou stop riding a brown horse. 
+A brown horse starts following you. 
+
+HP:Hurt S:Depleted>An Escape Tunnel Exits are: S W (U) 
+A white-scaled lizard hisses violently. 
+An uruk-hai warrior is here, fighting Vesur. 
+Vesur the King of Dwarves is here, fighting an uruk-hai warrior. 
+A stout little mule with droopy eyes stands here. 
+A stout little mule with droopy eyes stands here. 
+
+HP:Hurt S:Depleted> 
+An uruk-hai warrior slashes Vesur's right leg hard. 
+
+HP:Hurt S:Depleted>scYou have 155/241 hit, 16/128 stamina, 121/131 moves, 29 spirit. 
+OB: 49, DB: 32, PB: 93, Speed: 14, Gold: 5439, XP Needed: 38K. 
+
+llHP:Hurt S:Depleted>You start to concentrate. 
+
+
+Vesur cleaves an uruk-hai warrior's left arm extremely hard. 
+
+prep 'firebolt 
+An uruk-hai warrior slashes Vesur's left hand. 
+
+Ok. 
+an orc slave at A Narrow Tunnel to the west. 
+a solemn orc at The Guard Tower to the up. 
+a black warg at The Guard Tower to the up. 
+*an Uruk* at The Guard Tower to the up. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a malicious spider at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a black warg at A Sticky Corner to the southwest. 
+a shadowy spider at Webbed Trees to the south. 
+an orc slave at An Ancient Quarry to the west. 
+You could not further concentrate. 
+You start to prepare your spell. 
+
+
+An uruk-hai warrior slashes Vesur's body. 
+Vesur sends an uruk-hai warrior sprawling with a powerful bash. 
+
+alias h cast 'firebolt' 2.uruk 
+Vesur rushes forward wildly. 
+Vesur cleaves an uruk-hai warrior's left foot hard. 
+
+You completed your preparations. 
+You replaced the alias 'h'. 
+
+HP:Hurt S:Depleted>say up 
+Vesur says 'on radar?' 
+
+HP:Hurt S:Depleted>You say 'up' 
+
+HP:Hurt S:Depleted> 
+Vesur cleaves an uruk-hai warrior's right hand extremely hard. 
+An uruk-hai warrior has recovered from a bash! 
+
+HP:Hurt S:Depleted> 
+An uruk-hai warrior slashes Vesur's right leg hard. 
+
+HP:Hurt S:Depleted> 
+Vesur cleaves an uruk-hai warrior's right leg. 
+
+HP:Hurt S:Depleted> 
+An uruk-hai warrior lightly slashes Vesur's head. 
+
+HP:Hurt S:Depleted>aff 
+Vesur discovers a weakness in an uruk-hai warrior's defense! 
+Vesur cleaves an uruk-hai warrior's body very hard. 
+An uruk-hai warrior is dead! R.I.P. 
+Your spirit increases by 2. 
+You receive your share of experience -- 164 points. 
+
+HP:Hurt S:Depleted> 
+Vesur gets a pile of coins from the hacked corpse of an uruk-hai warrior. 
+
+HP:Hurt S:Depleted>You are affected by: 
+protection (long) 
+anger (short) 
+You have prepared the 'firebolt' spell. 
+
+HP:Hurt S:Depleted> 
+Vesur opens the trapdoor. 
+
+HP:Hurt S:Depleted> 
+Vesur leaves up. 
+You follow Vesur. 
+
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted> 
+You release your prepared spell. 
+
+HP:Hurt S:Depleted> 
+Vesur leaves up. 
+You follow Vesur. 
+
+An Arcane Study Exits are: D 
+The young uruk mage stands at a window, staring out over Mirkwood Forest. 
+Vesur the King of Dwarves is standing here. 
+
+hHP:Hurt S:Depleted>hYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>Vesur leaves down. 
+You follow Vesur. 
+
+The Guard Tower Exits are: (E) U D 
+A solemn orc stands expressionless, opening and closing the door. 
+A dark warg stands here, its eyes glowing like a flame. 
+Vesur the King of Dwarves is standing here. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>hYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>j 
+Vesur opens the towerdoor. 
+
+HP:Hurt S:Depleted>Vesur leaves east. 
+You follow Vesur. 
+
+Below the Guard Tower Exits are: N W 
+Snow lies upon the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+A pathetic chicken is here, pecking the ground. 
+Vesur the King of Dwarves is standing here. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>jjYou release your prepared spell. 
+Nobody here by that name. 
+
+jHP:Hurt S:Depleted>Vesur leaves north. 
+You follow Vesur. 
+
+Before the Guard Tower Exits are: E S W 
+Snow lies upon the ground. 
+Vesur the King of Dwarves is standing here. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+rideHP:Hurt S:Depleted>j 
+Vesur leaves east. 
+You follow Vesur. 
+
+Beginning of a Small Path Exits are: E S W 
+Snow lies upon the ground. 
+Vesur the King of Dwarves is standing here. 
+
+HP:Hurt S:Depleted>A brown horse stops following you. 
+You mount a brown horse and start riding her. 
+
+R HP:Hurt S:Depleted>jA mule stops following Vesur. 
+Vesur mounts a mule and starts riding him. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jj 
+Vesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Shadowy Path Exits are: S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving south, riding on a mule. 
+You follow Vesur. 
+
+Dark Path Exits are: N E S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Dark Path Exits are: N E S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>Vesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Around a Sinkhole in the Path Exits are: N E S W D 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>jjThe road slowly starts to disappear under a carpet of snow. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Darkened Path Twisting through Mirkwood Exits are: S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving south, riding on a mule. 
+You follow Vesur. 
+
+Dark Path Twists Exits are: N E 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jjVesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Dark Path Exits are: N E S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Dark Path Exits are: E S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jVesur is leaving east, riding on a mule. 
+You follow Vesur. 
+
+Twisting Path Exits are: N E S W 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>Vesur is leaving north, riding on a mule. 
+You follow Vesur. 
+
+Small Path in Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+jR HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>jYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Depleted>Vesur is leaving north, riding on a mule. 
+You follow Vesur. 
+
+Small Path in Mirkwood Exits are: E S W 
+Snow lies upon the ground. 
+A strong hunched orc bearing the crest of the Black Tower stands here. 
+An orc bearing the Black Tower insignia patrols here. 
+An orc bearing the Black Tower insignia patrols here. 
+*an Uruk* (busy) is riding on a black warg. 
+Vesur (busy) is riding on a mule. 
+You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+jR HP:Hurt S:Depleted, *an Uruk*:Awful>jYou start to concentrate. 
+
+*an Uruk* stabs your right arm. 
+You could not concentrate anymore! 
+You start to concentrate. 
+
+j 
+Vesur attacks *an Uruk*! 
+Vesur cleaves *an Uruk*'s right arm hard. 
+
+
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving east, riding on a black warg. 
+
+
+A Dol-guldur orc commander leaves south. 
+A Dol-Guldur patrol member leaves south. 
+A Dol-Guldur patrol member leaves south. 
+
+
+*an Uruk* is entering from the east, riding on a black warg. 
+Vesur is leaving east, riding on a mule. 
+You are busy with something else. 
+A mule leaves east. 
+
+Ok. 
+Your firebolt burns *an Uruk* to ashes. 
+*an Uruk* is dead! R.I.P. 
+Your spirit increases by 114. 
+You receive your share of experience -- 6618 points. 
+*an Uruk* stops riding a black warg. 
+Your blood freezes as you hear Skaad's death cry. 
+You can't summon enough energy to cast the spell. 
+
+R HP:Hurt S:Drained>You can't summon enough energy to cast the spell. 
+
+R HP:Hurt S:Drained>l in cor 
+Vesur is entering from the east, riding on a mule. 
+
+R HP:Hurt S:Drained>corpse (here) : 
+a skull cup 
+a foul, black lance 
+a tainted bracelet 
+a tainted bracelet 
+an etched leather girdle 
+an emerald encrusted robe 
+a thin pair of chain sleeves 
+a thin pair of chain mail gloves 
+a pair of supple leather boots 
+a pair of thin chain mail leggings 
+a chain mail coif 
+a chain mail jerkin 
+an obsidian pendant 
+an obsidian pendant 
+an ivory ring 
+an ivory ring 
+a large heap of coins 
+a pair of antlers 
+a werewolf fur 
+a serpentine battle axe 
+a shield with the black tower emblem 
+a wicked black knife 
+a leather bag 
+a backpack 
+
+R HP:Hurt S:Drained> 
+Vesur chats 'aww' 
+
+R HP:Hurt S:Drained>chat he ripsYou chat 'he rips'
