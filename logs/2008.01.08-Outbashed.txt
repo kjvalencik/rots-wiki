@@ -1,0 +1,177 @@
+HP:Scratched S:Charged> 
+Someone yells 'Sound the alarms! An intruder has been spotted at Damp Cellar!' 
+
+HP:Scratched S:Charged> 
+In his place, a strange green orb lies on the ground glowing with an ectoplasmic light. 
+*a Dwarf* enters from the west. 
+A mule enters from the west. 
+A mule enters from the west. 
+
+HP:Scratched S:Charged> 
+*a Dwarf* attacks YOU! 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your right leg with his cleave. 
+
+HP:Bruised S:Charged, *a Dwarf*:Scratched> 
+You discover a weakness in *a Dwarf*'s defense! 
+You cleave *a Dwarf*'s body very hard. 
+
+HP:Bruised S:Charged, *a Dwarf*:Scratched>bash 
+/-\|/-\get orb 
+
+A strange green orb pulses in your mind 'Find him...bring me to him...give me my vengeance...' 
+
+|/-\Your bash at *a Dwarf* sends him sprawling. 
+You get a strange green orb. 
+
+HP:Bruised S:Powered, *a Dwarf*:Scratched>set tac agg 
+fle 
+You are now employing aggressive tactics. 
+
+HP:Bruised S:Powered, *a Dwarf*:Scratched>PANIC! You couldn't escape! 
+
+HP:Bruised S:Powered, *a Dwarf*:Scratched> 
+You cleave *a Dwarf*'s left arm very hard. 
+
+fle 
+HP:Bruised S:Powered, *a Dwarf*:Bruised>PANIC! You couldn't escape! 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>fle 
+
+You feel more vulnerable to magic. 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>PANIC! You couldn't escape! 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>op shelves 
+fle 
+It's already open! 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* has recovered from a bash! 
+*a Dwarf* closes the shelves. 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>PANIC! You couldn't escape! 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>bash 
+
+You cleave *a Dwarf*'s body. 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>/-\|op shelves 
+/- 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* cleaves your right arm very hard. 
+
+HP:Bruised S:Powered, *a Dwarf*:Bruised>bash 
+
+*a Dwarf* deeply wounds your left foot with his cleave. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>You have regained your balance! 
+Ok. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>/-\|/-\|/nar crap, dwarf caught me in muzgash 
+-\ 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* closes the shelves. 
+
+bash 
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* cleaves your left leg extremely hard. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>op shelves 
+fle 
+*a Dwarf* cleaves your right foot extremely hard. 
+You have regained your balance! 
+You narrate 'crap, dwarf caught me in muzgash' 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>/-\|/-\|/-\ 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+Friday chats ':S' 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>bash 
+
+Friday chats 'you ok?' 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your right foot with his cleave. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>You have regained your balance! 
+Ok. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>PANIC! You couldn't escape! 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised>/-\|/-\|/nar help would be nice 
+- 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* closes the shelves. 
+
+HP:Hurt S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your right hand with his cleave. 
+
+HP:Wounded S:Powered, *a Dwarf*:Bruised>bash 
+bash 
+
+*a Dwarf* cleaves your head extremely hard. 
+
+HP:Wounded S:Powered, *a Dwarf*:Bruised>You have regained your balance! 
+You narrate 'help would be nice' 
+
+HP:Wounded S:Powered, *a Dwarf*:Bruised>/-\|/-\|/-\ 
+*a Dwarf* sends you sprawling with a powerful bash. 
+
+HP:Wounded S:Powered, *a Dwarf*:Bruised> 
+Friday chats 'nod where u at' 
+
+HP:Wounded S:Powered, *a Dwarf*:Bruised> 
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your body with his cleave. 
+You wish that your wounds would stop BLEEDING so much! 
+
+HP:Bloodied S:Powered, *a Dwarf*:Bruised> 
+Friday chats 'im loper' 
+
+HP:Bloodied S:Powered, *a Dwarf*:Bruised>bash 
+
+*a Dwarf* discovers a weakness in your defense! 
+*a Dwarf* deeply wounds your body with his cleave. 
+You wish that your wounds would stop BLEEDING so much! 
+
+HP:Awful S:Powered, *a Dwarf*:Bruised>You have regained your balance! 
+
+/-\|/-\|/-\op shelves 
+
+*a Dwarf* sends you sprawling with a powerful bash. 
+You wish that your wounds would stop BLEEDING so much! 
+
+HP:Awful S:Powered, *a Dwarf*:Bruised> 
+You experience a new kind of pain as *a Dwarf* kicks you in the groin! 
+You wish that your wounds would stop BLEEDING so much! 
+
+HP:Awful S:Powered, *a Dwarf*:Bruised>*a Dwarf* discovers a weakness in your defense! 
+Someone cleaves your left arm extremely hard. 
+You are dead! Sorry... 
+Someone stops following you. 
+Someone stops following you. 
+Your spirit found a new body to wear. 
+Underwater Chamber Exits are: D 
+You need to stand up first. 
+
+HP:Awful S:Empty MV:Exhausted>Nah... You feel too relaxed to do that.. 
+
+HP:Awful S:Empty MV:Exhausted>fame 
+On the 13th Day of Urime, Skaad killed Mac. 
+On the 8th Day of Ringare, Skaad killed Durza. 
+On the 8th Day of Ringare, Skaad was slain by Vesur. 
+There were found 3 records about Skaad, total fame 2. 
+
+HP:Awful S:Drained MV:Fainting>nar well i'm dead, nm. 
+You narrate 'well i'm dead, nm.'

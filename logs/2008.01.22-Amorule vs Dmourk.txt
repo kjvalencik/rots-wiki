@@ -1,0 +1,2408 @@
+*** The first fight ended like this: 
+
+R HP:Wounded MV:Weary>eiA Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+*an Uruk* is riding on a black warg. 
+A dark warg stands here, its eyes glowing like a flame. 
+
+R HP:Wounded MV:Weary>You attack *an Uruk*! 
+
+R HP:Wounded MV:Weary, *an Uruk*:Awful> 
+*an Uruk* lightly pierces your left hand. 
+
+R HP:Wounded MV:Weary, *an Uruk*:Awful>swing*an Uruk* ducks as you attempt to swing at him. 
+You swing at a black warg, reaching his bones! 
+
+R HP:Wounded MV:Weary, *an Uruk*:Awful> 
+A black warg hits your left leg. 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+A lazy forest troll says 'R btuv pvislbr hn kaokst!' 
+A lazy forest troll assists a black warg. 
+A lazy forest troll attacks YOU! 
+A lazy forest troll hits your body extremely hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful>aggf 
+You avoid a bash from *an Uruk*, who loses his balance and falls! 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+A black warg hits your head. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+A lazy forest troll hits your head hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+*an Uruk* sends you sprawling with a powerful bash. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+*an Uruk* pierces your right leg. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied MV:Weary, *an Uruk*:Awful> 
+A black warg hits your left arm hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Awful MV:Weary, *an Uruk*:Bloodied> 
+A lazy forest troll says 'S bzly ltghebn dc lwvtko!' 
+A lazy forest troll assists a lazy forest troll. 
+A lazy forest troll attacks YOU! 
+A lazy forest troll hits your body hard. 
+You wish that your wounds would stop BLEEDING so much! 
+A lazy forest troll hits your body extremely hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Awful MV:Weary, *an Uruk*:Bloodied> 
+Someone kicks your head, snapping your spine like a twig! 
+You are dead! Sorry... 
+Someone stops following you. 
+Your spirit found a new body to wear. 
+The Great Crossroads Exits are: N E S W 
+A large sign stands here: use LOOK SIGN to read it. 
+
+HP:Awful S:Empty MV:Exhausted>You are now employing aggressive tactics. 
+
+HP:Awful S:Empty MV:Exhausted>Nah... You feel too relaxed to do that.. 
+
+HP:Awful S:Empty MV:Exhausted>fameOn the 18th Day of Viresse, Ulgen was slain by Ayden. 
+On the 19th Day of Viresse, Ulgen was slain by Ayden. 
+On the 19th Day of Viresse, Ulgen was slain by Ayden. 
+On the 7th Day of Ringare, Ulgen was slain by Dmourk. 
+There were found 4 records about Ulgen, total fame -26. 
+
+*** So I go to loot and I basically tell Dmourk that he can keep 
+*** whatever he wants except for the hammer, which I need as 
+*** a shitty default warrior. He tells me that he got spammed 
+*** by someone else so he couldn't possibly drop my hammer. 
+
+R HP:Hurt> 
+*an Uruk* revenge 
+
+R HP:Hurt>emo not by meUlgen not by me 
+
+R HP:Hurt> 
+*an Uruk* shrugs. 
+
+R HP:Hurt>emo that doesn't make sense at allUlgen that doesn't make sense at all 
+
+R HP:Hurt> 
+*an Uruk* well i didnt take anything from the people who killed me 
+
+R HP:Hurt>scYou have 250/477 hit, 76/76 stamina, 126/136 moves, 4 spirit. 
+OB: 113, DB: 17, PB: 55, Speed: 27, Gold: 20, XP Needed: 78K. 
+
+R HP:Hurt> 
+*an Uruk* they spammed cause i took someone else shit 
+
+R HP:Hurt>emo so the next time that i kill you and spam you you're gonna say what?Ulgen so the next time that i kill you and spam you you're gonna say what? 
+
+*** I basically tell him that I will kill him now and get my shit back. 
+*** So I log my dwarf mage and track him down to DG where he gets me awful 
+*** but can't find me after 1 blink. So the fight eventually leads north. 
+
+
+\|/-\|/-\ 
+Ok. 
+a fetid black fungus at Thick Mirkwood to the west. 
+a buzzing bee at Bee Hive to the south. 
+a buzzing bee at Bee Hive to the south. 
+*an Uruk* at Warpath Through Mirkwood to the north. 
+a black warg at Warpath Through Mirkwood to the north. 
+a huge mirkwolf at Small Path in Mirkwood to the west-northwest. 
+You could not further concentrate. 
+
+R HP:Bruised S:Surging> 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+
+R HP:Bruised S:Surging>njA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+jR HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>jNobody here by that name. 
+
+R HP:Bruised S:Surging>berNobody here by that name. 
+
+jR HP:Bruised S:Surging>You are now employing berserk tactics. 
+
+R HP:Bruised S:Surging>jNobody here by that name. 
+
+jR HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging> 
+*an Uruk* is entering from the south, riding on a black warg. 
+
+R HP:Bruised S:Surging>j 
+*an Uruk* attacks YOU! 
+*an Uruk* lightly pierces your right hand. 
+
+R HP:Bruised S:Surging, *an Uruk*:Healthy> 
+*an Uruk* resists a lot. 
+
+You stab *an Uruk*'s body. 
+
+R HP:Bruised S:Surging, *an Uruk*:Scratched>/r-r\|/-\| 
+*an Uruk* lightly pierces your left arm. 
+*an Uruk* looks at you. 
+
+/-\Your bash at *an Uruk* sends him sprawling. 
+You start to concentrate. 
+
+|/-\|/-j\Ok. 
+Your lightning bolt strikes *an Uruk*, bullseye! 
+You start to concentrate. 
+
+|/-j\|/- 
+*an Uruk* has recovered from a bash! 
+*an Uruk* stops using a dragon shield. 
+
+\ 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving north, riding on a black warg. 
+
+You need to fight somebody for this. 
+Nobody here by that name. 
+
+R HP:Bruised S:Powered>Nobody here by that name. 
+
+R HP:Bruised S:Powered>weA Small Path Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Powered>iiA Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Bruised S:Powered>They aren't here. 
+
+R HP:Bruised S:Powered>nThey aren't here. 
+
+R HP:Bruised S:Powered>iWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Powered>jYou attack *an Uruk*! 
+
+R HP:Bruised S:Powered, *an Uruk*:Bruised> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* lightly pierces your left arm. 
+
+R HP:Bruised S:Powered, *an Uruk*:Bruised>/-\|/ 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving east, riding on a black warg. 
+
+r-r\| 
+Not a cloud can be seen in the sky. 
+
+/-\You can not do it this way. 
+Your victim is not here! 
+
+R HP:Bruised S:Surging>Your victim is not here! 
+
+R HP:Bruised S:Surging>rrYour victim is not here! 
+
+eR HP:Bruised S:Surging>rYour victim is not here! 
+
+R HP:Bruised S:Surging>rDark Corner in the Forest Exits are: W 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Surging>Your victim is not here! 
+
+R HP:Bruised S:Surging>Your victim is not here! 
+
+R HP:Bruised S:Surging>wWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bruised S:Surging>jjNobody here by that name. 
+
+jR HP:Bruised S:Surging>jNobody here by that name. 
+
+R HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>jNobody here by that name. 
+
+jR HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>alias r cast 'lightning bolt' urukerYou replaced the alias 'r'. 
+
+rR HP:Bruised S:Surging>Dark Corner in the Forest Exits are: W 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Surging>You start to concentrate. 
+
+|/-\| 
+*an Uruk* is leaving west, riding on a black warg. 
+
+/-\Nobody here by that name. 
+Nobody here by that name. 
+
+wR HP:Bruised S:Surging>ijWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bruised S:Surging>You attack *an Uruk*! 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* pierces your left arm. 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised>/-\r|r/-\ 
+*an Uruk* pierces your right leg. 
+
+|/ 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving east, riding on a black warg. 
+
+-\You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Bruised S:Surging>Nobody here by that name. 
+
+R HP:Bruised S:Surging>eirDark Corner in the Forest Exits are: W 
+*an Uruk* is riding on a black warg. 
+
+rR HP:Bruised S:Surging>You attack *an Uruk*! 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised>You start to concentrate. 
+
+|/-\|/r-\ 
+You could not concentrate anymore! 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+R HP:Bruised S:Surging, *an Uruk*:Bruised> 
+*an Uruk* lightly pierces your body. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised> 
+*an Uruk* pierces your right arm. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised> 
+*an Uruk* pierces your head hard. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised>You have regained your balance! 
+You start to concentrate. 
+
+|/-*an Uruk* rushes forward wildly. 
+*an Uruk* pierces your body very hard. 
+You could not concentrate anymore! 
+You start to concentrate. 
+
+|/-\j|/-*an Uruk* pierces your body. 
+You could not concentrate anymore! 
+
+/-\|/-\| 
+*an Uruk* panics, and attempts to flee! 
+
+/- 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving west, riding on a black warg. 
+
+\ 
+You can not do it this way. 
+
+R HP:Hurt S:Surging> 
+*an Uruk* is entering from the west, riding on a black warg. 
+
+R HP:Hurt S:Surging> 
+*an Uruk* attacks YOU! 
+*an Uruk* lightly pierces your left arm. 
+
+R HP:Hurt S:Surging, *an Uruk*:Scratched> 
+You stab *an Uruk*'s right arm. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised>aggfYou are now employing aggressive tactics. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised>You flee head over heels. 
+Warpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Surging> 
+*an Uruk* is entering from the east, riding on a black warg. 
+
+R HP:Hurt S:Surging>alias r cast 'chill ray' uruk 
+*an Uruk* attacks YOU! 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised> 
+You stab *an Uruk*'s body hard. 
+
+R HP:Hurt S:Surging, *an Uruk*:Bruised>rrYou replaced the alias 'r'. 
+
+rR HP:Hurt S:Surging, *an Uruk*:Bruised>You start to concentrate. 
+
+/*an Uruk* discovers a weakness in your defense! 
+*an Uruk* pierces your left arm. 
+You could not concentrate anymore! 
+You start to concentrate. 
+
+/-r\r|/-\Ok. 
+*an Uruk* shudders as your chill ray strikes him. 
+You start to concentrate. 
+
+/-\|r/r-\ 
+
+
+
+You could not concentrate anymore! 
+*an Uruk* sends you sprawling with a powerful bash. 
+You experience a new kind of pain as *an Uruk* kicks you in the groin! 
+
+R HP:Wounded S:Surging, *an Uruk*:Bruised> 
+*an Uruk* lightly pierces your right leg. 
+
+R HP:Wounded S:Surging, *an Uruk*:Bruised> 
+*an Uruk* rushes forward wildly. 
+*an Uruk* pierces your body. 
+
+R HP:Wounded S:Surging, *an Uruk*:Bruised>You have regained your balance! 
+You start to concentrate. 
+
+/-\|/*an Uruk* discovers a weakness in your defense! 
+*an Uruk* pierces your head hard. 
+You could not concentrate anymore! 
+You start to concentrate. 
+
+/-\|/-\Ok. 
+*an Uruk* shudders as your chill ray strikes him. 
+You start to concentrate. 
+
+/-\| 
+You could not concentrate anymore! 
+*an Uruk* sends you sprawling with a powerful bash. 
+You experience a new kind of pain as *an Uruk* kicks you in the groin! 
+
+R HP:Wounded S:Surging, *an Uruk*:Hurt>aggf 
+*an Uruk* pierces your right arm. 
+
+R HP:Wounded S:Surging, *an Uruk*:Hurt> 
+*an Uruk* pierces your right arm. 
+
+R HP:Bloodied S:Surging, *an Uruk*:Hurt>Not a cloud can be seen in the sky. 
+You have regained your balance! 
+You start to concentrate. 
+
+/-\You could not concentrate anymore! 
+
+R HP:Bloodied S:Surging, *an Uruk*:Hurt>*an Uruk* discovers a weakness in your defense! 
+*an Uruk* pierces your right hand. 
+You are now employing aggressive tactics. 
+
+R HP:Bloodied S:Surging, *an Uruk*:Hurt>You flee head over heels. 
+Bending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Surging>R HP:Bloodied S:Surging>R HP:Bloodied S:Surging>sssWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Bloodied S:Surging>A Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Bloodied S:Surging>The Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Surging>sswBee Hive Exits are: N S W 
+The skewered corpse of a fetid black fungus is lying here. 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+
+csR HP:Bloodied S:Surging>Many Ivies Exits are: N E W 
+
+R HP:Bloodied S:Surging>Thick Brush Exits are: N E W 
+
+R HP:Bloodied S:Surging>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\Ok. 
+You feel better. 
+
+R HP:Wounded S:Surging> 
+
+R HP:Wounded S:Surging>neDark Mirkwood Exits are: N E S W 
+
+nR HP:Wounded S:Surging>Bee Hive Exits are: N S W 
+The skewered corpse of a fetid black fungus is lying here. 
+A beehive hangs from the branch of a tree, filled with the sound of buzzing bees. 
+A buzzing bee flies around the hives here. 
+A buzzing bee flies around the hives here. 
+
+nR HP:Wounded S:Surging>nThe Shaded Path Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>A Fountain on the Warpath Exits are: N S W 
+Snow lies upon the ground. 
+Water gushes from a filthy stone fountain here. 
+
+R HP:Wounded S:Surging>nWarpath Through Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>nBending Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Surging>Dark Forest Exits are: E S W 
+
+R HP:Wounded S:Surging>nYou cannot go that way. 
+
+R HP:Wounded S:Surging>You cannot go that way. 
+
+R HP:Wounded S:Surging>wnShaded Warpath Exits are: N E S W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Surging>n 
+Warpath through Dark Forest Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>wWarpath Bends Again Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>nPatches of Mushrooms Exits are: N S W 
+A slimy looking mushroom lies rotting here. 
+
+nR HP:Wounded S:Surging>Fallen Branches on the Warpath Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>nHanging Vines on the Warpath Exits are: N E S W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Surging>nShaded Warpath Exits are: N E S 
+Snow lies upon the ground. 
+A massive mirkwolf stares at you through blood red eyes. 
+
+R HP:Wounded S:Surging>nA Large Depression on the Warpath Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>Warpath through Colorful Forest Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>Shaded Warpath Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>Mushrooms on the Warpath Exits are: N E S 
+Snow lies upon the ground. 
+A massive mirkwolf stares at you through blood red eyes. 
+A hunched forest troll moves around here, arms dragging on the ground. 
+
+R HP:Wounded S:Surging> 
+
+nR HP:Wounded S:Surging>nWarpath through Odd Forest Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>Warpath through Elms Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging>Path Through Elms Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Surging> 
+
+csR HP:Wounded S:Surging>You have 101/318 hit, 95/117 stamina, 95/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Surging>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\ 
+Ok. 
+You feel better. 
+
+R HP:Wounded S:Powered>scYou have 126/318 hit, 84/117 stamina, 96/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+csR HP:Wounded S:Powered>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/ 
+*an Uruk* (busy) is entering from the south, riding on a black warg. 
+
+-\ 
+Ok. 
+You feel better. 
+
+R HP:Hurt S:Powered> 
+*an Uruk* attacks YOU! 
+*an Uruk* deeply wounds your body with his smite. 
+
+R HP:Wounded S:Powered, *an Uruk*:Bruised> 
+You stab *an Uruk*'s left arm very hard. 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt> 
+
+aggR HP:Wounded S:Powered, *an Uruk*:Hurt>fYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt>You flee head over heels. 
+Warpath through Elms Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>berjjYou are now employing berserk tactics. 
+
+jR HP:Wounded S:Powered>Nobody here by that name. 
+
+R HP:Wounded S:Powered>Nobody here by that name. 
+
+R HP:Wounded S:Powered>Nobody here by that name. 
+
+R HP:Wounded S:Powered>jNobody here by that name. 
+
+jR HP:Wounded S:Powered> 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+
+R HP:Wounded S:Powered>/j-\ 
+*an Uruk* attacks YOU! 
+
+|/- 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving south, riding on a black warg. 
+
+\|/-\You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Wounded S:Powered>wnnYou cannot go that way. 
+
+nR HP:Wounded S:Powered>Path Through Elms Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>The Shaded Path Through Boulders Exits are: E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>nnnYou cannot go that way. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>eThe Shaded Path Between Boulders Exits are: W D 
+Snow lies upon the ground. 
+
+dR HP:Wounded S:Powered>nThe Path in a Ravine Exits are: N U 
+Snow lies upon the ground. 
+An evil, black warg paces around the clearing. 
+
+nR HP:Wounded S:Powered>nThe Path Declines Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>A Northward Decline in the Path Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>A Bend in the Shaded Path Exits are: E S 
+Snow lies upon the ground. 
+
+eR HP:Wounded S:Powered>eePath Through the Ravine Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>The Path Nears a Bend Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>A Bend in the Warpath Exits are: N W D 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>nnnA Straight Run in the Path Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>nA Steep Climb in the Warpath Exits are: S U 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>unAtop a Climb Near the Ravine Exits are: N S D 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Powered>nAn Intersection of Paths Exits are: N S 
+Snow lies upon the ground. 
+A black rabbit scurries about. 
+
+R HP:Wounded S:Powered>nDim Forest Path Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+R HP:Wounded S:Powered>wwwDim Forest Path Exits are: E W 
+Snow lies upon the ground. 
+A black squirrel can barely be seen on a tree here. 
+
+R HP:Wounded S:Powered>nDim Forest Trail Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>Dim Forest Trail Exits are: N E 
+Snow lies upon the ground. 
+
+wR HP:Wounded S:Powered>wDim Forest Trail Exits are: S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>wDim Forest Path Exits are: E W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Powered>Dim Forest Path Exits are: N E 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>You cannot go that way. 
+
+wR HP:Wounded S:Powered>wDim Forest Path Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>wOn A Shaded Path Exits are: E W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Powered>A Shaded Path Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>A Shaded Path Bends Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered>A Shaded Warpath Exits are: N S W 
+Snow lies upon the ground. 
+
+csR HP:Wounded S:Powered>Through the trees a cloudless sky can be seen. 
+You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\ 
+Ok. 
+You feel better. 
+
+R HP:Hurt S:Powered>prep 'fireboltYou start to prepare your spell. 
+
+/-\|/-\|/-\|/-\|/-\|/-\ 
+You completed your preparations. 
+
+R HP:Hurt S:Powered>sA Shaded Path Bends Exits are: N E W 
+Snow lies upon the ground. 
+*an Uruk* (busy) is riding on a black warg. 
+
+R HP:Hurt S:Powered> 
+*an Uruk* is leaving north, riding on a black warg. 
+
+hR HP:Hurt S:Powered>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>h 
+You release your prepared spell. 
+
+R HP:Hurt S:Powered>eYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>A Shaded Path Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>exa wTo the west you see: 
+It is pitch black... 
+
+hR HP:Hurt S:Powered>wYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Powered>hA Shaded Path Bends Exits are: N E W 
+Snow lies upon the ground. 
+*an Uruk* is entering from the north, riding on a black warg. 
+
+R HP:Hurt S:Powered>n 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your body extremely hard. 
+Your preperations were ruined. 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt>hYou stab *an Uruk*'s left hand extremely hard. 
+You start to concentrate. 
+
+/-\|/-\|/-\Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+No way! You're fighting for your life! 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt>You start to concentrate. 
+
+/-\You could not concentrate anymore! 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt> 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt> 
+*an Uruk* kicks you in the shin, OUCH! 
+
+R HP:Wounded S:Powered, *an Uruk*:Hurt>aggf 
+*an Uruk* smites your right leg very hard. 
+
+R HP:Bloodied S:Powered, *an Uruk*:Hurt>You have regained your balance! 
+
+R HP:Bloodied S:Powered, *an Uruk*:Hurt>You are now employing aggressive tactics. 
+
+R HP:Bloodied S:Powered, *an Uruk*:Hurt>You flee head over heels. 
+Dense Trees Off a Path Exits are: N E S W 
+
+R HP:Bloodied S:Powered>wwwShadowy Trees Exits are: N E S W 
+
+wR HP:Bloodied S:Powered>Dark Forest Exits are: N E S W 
+
+R HP:Bloodied S:Powered>nA Bend in the Trail Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>nA Faint Trail Exits are: E S W 
+Snow lies upon the ground. 
+
+nR HP:Bloodied S:Powered>nYou cannot go that way. 
+
+R HP:Bloodied S:Powered>You cannot go that way. 
+
+R HP:Bloodied S:Powered>You cannot go that way. 
+
+R HP:Bloodied S:Powered>eYou cannot go that way. 
+
+nR HP:Bloodied S:Powered>nA Bend in the Trail Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>nA Faint Trail Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>nA Faint Trail Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>A Faint Trail Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>Forest of Mirkwood Exits are: N E S W 
+
+R HP:Bloodied S:Powered>nnForest of Mirkwood Exits are: N E S W 
+A huge, black moth flutters loudly here. 
+
+nR HP:Bloodied S:Powered MV:Weary>Forest of Mirkwood Exits are: N E S W 
+
+R HP:Bloodied S:Powered MV:Weary>Forest of Mirkwood Exits are: E S W 
+A pale eyed wolf gazes at you hungrily. 
+A large wild dog watches you carefully. 
+
+R HP:Bloodied S:Powered MV:Weary>nwYou cannot go that way. 
+
+nR HP:Bloodied S:Powered MV:Weary>Deep in the Forest of Mirkwood Exits are: N E S 
+
+R HP:Bloodied S:Powered MV:Weary>nMirkwood Forest Exits are: N S W 
+
+R HP:Bloodied S:Powered MV:Weary>Mirkwood Forest Exits are: E S W 
+
+R HP:Bloodied S:Powered MV:Weary>nnYou cannot go that way. 
+
+csR HP:Bloodied S:Powered MV:Weary>You cannot go that way. 
+
+R HP:Bloodied S:Powered MV:Weary>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\eOk. 
+You feel better. 
+
+
+nR HP:Wounded S:Powered MV:Weary>nNarrow Trail Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>Narrow Trail Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>Bend in the Narrow Trail Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>nYou cannot go that way. 
+
+R HP:Wounded S:Powered MV:Weary> 
+
+nR HP:Wounded S:Powered MV:Weary>Bend in the Narrow Trail Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>Narrow Trail Exits are: N S W 
+Snow lies upon the ground. 
+
+vitalR HP:Wounded S:Powered MV:Weary>Narrow Trail Exits are: N S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>You start to concentrate. 
+
+-\|/-\| 
+
+/-\n|/-\op brush|/-\Ok. 
+You feel refreshed. 
+Hidden Path Exits are: S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>Ok. 
+
+R HP:Wounded S:Charged>nA Broken Thatchet Exits are: N S W 
+
+wR HP:Wounded S:Charged>wwDisturbed Brush Exits are: N E W 
+
+R HP:Wounded S:Charged>wForest of Mirkwood Exits are: N E S W 
+A large wild dog watches you carefully. 
+
+wR HP:Wounded S:Charged>Near a Small Light in the Forest Exits are: N E S W 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+wR HP:Wounded S:Charged>wTall Foliage Exits are: N E S 
+A black wolf wanders about, growling and frothing at the mouth. 
+A large wild dog watches you carefully. 
+
+R HP:Wounded S:Charged>You cannot go that way. 
+
+sR HP:Wounded S:Charged>eYou cannot go that way. 
+
+R HP:Wounded S:Charged>You cannot go that way. 
+
+R HP:Wounded S:Charged>Near a Patch of Light Exits are: N E S 
+
+R HP:Wounded S:Charged>A Bright Clearing in the Forest Exits are: N E S W 
+Snow lies upon the ground. 
+A white-flowered plant grows here, its leaves long and pointed. 
+A white-flowered plant is exuding a dizzying fragrance. 
+
+R HP:Wounded S:Charged> 
+Clouds race through the sky above the fields. 
+
+R HP:Wounded S:Powered>group plantA white-flowered plant joins your group. 
+
+R HP:Wounded S:Powered>csYou start to concentrate. 
+
+-\|/-\|/-\|/- 
+*an Uruk* (busy) is entering from the west, riding on a black warg. 
+
+\|/-j 
+*an Uruk* attacks YOU! 
+*an Uruk* deeply wounds your head with his smite. 
+
+
+You could not concentrate anymore! 
+
+R HP:Bloodied S:Powered, *an Uruk*:Hurt>You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s left arm with your stab. 
+
+/-\|agg/f-\You are now employing aggressive tactics. 
+
+R HP:Bloodied S:Powered, *an Uruk*:Hurt>You flee head over heels. 
+Near a Small Light in the Forest Exits are: N E S W 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Bloodied S:Powered>R HP:Bloodied S:Powered>R HP:Bloodied S:Powered>R HP:Bloodied S:Powered>nnForest of Mirkwood Exits are: N E S W 
+
+nR HP:Bloodied S:Powered>nWindy Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>Old Forest Road Bends Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Powered>Sloping Ground Exits are: N E S W 
+
+R HP:Bloodied S:Powered>nnnRocky Forested Slope Exits are: E S W 
+
+R HP:Bloodied S:Powered>You cannot go that way. 
+
+R HP:Bloodied S:Powered>eYou cannot go that way. 
+
+R HP:Bloodied S:Powered>eAtop a Forest Peak Exits are: E S W 
+
+R HP:Bloodied S:Powered>Forested Plateau Exits are: E S W 
+
+R HP:Bloodied S:Powered>scsYou have 73/318 hit, 63/117 stamina, 79/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+You are getting thirsty. 
+
+R HP:Bloodied S:Powered>scsA Gradual Hillside Exits are: N E S W 
+
+R HP:Bloodied S:Powered>Beside a Huge Wall of Oaks Exits are: N E S 
+A large black hawk is flying here. 
+A large black hawk is flying here. 
+A large black hawk is flying here. 
+A bird filts around looking for food. 
+
+R HP:Bloodied S:Powered>You start to concentrate. 
+
+-\|drink water/drink water-\|/-\|/-\|/- 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+
+\Ok. 
+You feel better. 
+You drink the water. 
+You don't feel thirsty any more. 
+
+R HP:Wounded S:Charged>Your stomach can't contain anymore! 
+
+R HP:Wounded S:Charged> 
+*an Uruk* attacks YOU! 
+
+R HP:Wounded S:Charged, *an Uruk*:Hurt>aggYou stab *an Uruk*'s body hard. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>fsYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>sYou flee head over heels. 
+A Small Embankment Exits are: N E S W 
+
+R HP:Wounded S:Charged>Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>Disturbed Brush Exits are: N E W 
+
+R HP:Wounded S:Charged>berjYou are now employing berserk tactics. 
+
+jR HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged>jNobody here by that name. 
+
+R HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged>jjNobody here by that name. 
+
+jR HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged>Nobody here by that name. 
+
+jR HP:Wounded S:Charged>jNobody here by that name. 
+
+R HP:Wounded S:Charged>jNobody here by that name. 
+
+R HP:Wounded S:Charged>jNobody here by that name. 
+
+R HP:Wounded S:Charged>Nobody here by that name. 
+*an Uruk* (busy) is entering from the north, riding on a black warg. 
+
+jR HP:Wounded S:Charged>j/- 
+*an Uruk* attacks YOU! 
+
+\|/-\rr|/-\ 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving west, riding on a black warg. 
+
+You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>Nobody here by that name. 
+
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>wwwForest of Mirkwood Exits are: N E S W 
+A large wild dog watches you carefully. 
+*an Uruk* is riding on a black warg. 
+
+wR HP:Wounded S:Charged>Near a Small Light in the Forest Exits are: N E S W 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Wounded S:Charged>Tall Foliage Exits are: N E S 
+A black wolf wanders about, growling and frothing at the mouth. 
+A large wild dog watches you carefully. 
+
+R HP:Wounded S:Charged>You cannot go that way. 
+
+R HP:Wounded S:Charged>s 
+
+R HP:Wounded S:Charged>ssNear a Patch of Light Exits are: N E S 
+
+R HP:Wounded S:Charged>Giant Wall of Roots Exits are: N E 
+
+R HP:Wounded S:Charged Mount:Weary>You cannot go that way. 
+
+R HP:Wounded S:Charged Mount:Weary>csYou start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\Ok. 
+You feel better. 
+
+R HP:Wounded S:Charged>prep 'fireboltYou start to prepare your spell. 
+
+/-\|/-\|/-\|/-\|/-\en|/-\You fumbled with your preparations. 
+Along a Wall of Roots Exits are: N E W 
+
+R HP:Wounded S:Charged>A Bright Clearing in the Forest Exits are: N E S W 
+Snow lies upon the ground. 
+A white-flowered plant grows here, its leaves long and pointed. 
+A white-flowered plant is exuding a dizzying fragrance. 
+
+R HP:Wounded S:Charged>prep 'chill rayYou start to prepare your spell. 
+
+/-\|/-\|/-\|/-r\You completed your preparations. 
+You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged> 
+You release your prepared spell. 
+
+R HP:Wounded S:Charged> 
+*an Uruk* (busy) is entering from the west, riding on a black warg. 
+
+R HP:Wounded S:Charged> 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your body extremely hard. 
+Your preperations were ruined. 
+
+R HP:Wounded S:Charged, *an Uruk*:Hurt> 
+You stab *an Uruk*'s right leg extremely hard. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>alias r cast 'chill ray' urukYou replaced the alias 'r'. 
+
+aggR HP:Wounded S:Charged, *an Uruk*:Wounded>The sun rises across the fields. 
+Clouds race through the sky above the fields. 
+You are now employing aggressive tactics. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>fYou flee head over heels. 
+Along a Wall of Roots Exits are: N E W 
+
+R HP:Wounded S:Charged>berjYou are now employing berserk tactics. 
+
+jR HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged>jNobody here by that name. 
+
+nR HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Powered>jjA Bright Clearing in the Forest Exits are: N E S W 
+Snow lies upon the ground. 
+A white-flowered plant grows here, its leaves long and pointed. 
+A white-flowered plant is exuding a dizzying fragrance. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded S:Powered>/-\| 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your left hand extremely hard. 
+
+/-\|/-rr\Your bash at *an Uruk* sends him sprawling. 
+Your victim is already bashed! 
+
+R HP:Wounded S:Powered, *an Uruk*:Wounded>You stab *an Uruk*'s left arm very hard. 
+You start to concentrate. 
+
+/-\|/-\Ok. 
+*an Uruk* shudders as your chill ray strikes him. 
+You start to concentrate. 
+
+/-\|/-\ 
+Ok. 
+*an Uruk* shudders as your chill ray strikes him. 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* has recovered from a bash! 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving east, riding on a black warg. 
+
+R HP:Wounded S:Charged>eirForest of Mirkwood Exits are: N E S W 
+A fetid black fungus grows here, covering the ground. 
+A fetid black fungus grows here, covering the ground. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded S:Charged>You attack *an Uruk*! 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied>You start to concentrate. 
+
+/-\| 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving west, riding on a black warg. 
+
+/-\w 
+Your victim has fled. 
+
+R HP:Wounded S:Charged>iiA Bright Clearing in the Forest Exits are: N E S W 
+Snow lies upon the ground. 
+A white-flowered plant grows here, its leaves long and pointed. 
+A white-flowered plant is exuding a dizzying fragrance. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded S:Charged>You attack *an Uruk*! 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied>You do the best you can! 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+You stab *an Uruk*'s head very hard. 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied>aggfYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* sends you sprawling with a powerful bash. 
+
+R HP:Wounded S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* smites your body extremely hard. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Bloodied S:Charged, *an Uruk*:Bloodied> 
+*an Uruk* discovers a weakness in your defense! 
+*an Uruk* deeply wounds your head with his smite. 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Awful S:Charged, *an Uruk*:Bloodied> 
+You experience a new kind of pain as *an Uruk* kicks you in the groin! 
+You wish that your wounds would stop BLEEDING so much! 
+
+R HP:Awful S:Charged, *an Uruk*:Bloodied>You have regained your balance! 
+You flee head over heels. 
+Near a Small Light in the Forest Exits are: N E S W 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Awful S:Charged>nnnForest of Mirkwood Exits are: N E S W 
+
+R HP:Awful S:Charged>Windy Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>Old Forest Road Bends Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>wwOld Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+wR HP:Awful S:Charged>wThe Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>The Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>A Bend in the Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>wwnA Stand of Pines Exits are: N E S 
+Snow lies upon the ground. 
+
+wR HP:Awful S:Charged>wYou cannot go that way. 
+
+R HP:Awful S:Charged>wThe Old Forest Road Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged>wThe Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>The Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>Bend in The Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>Small Grove Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>sssThe Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>Shattered Remains of a Stable Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>Burned and Broken East Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>wwRubble Pile Exits are: N E S W 
+Snow lies upon the ground. 
+A completely scorched skeleton is half buried in the rubble here with a sword hilt clutched in it's hand. 
+
+csR HP:Awful S:Charged MV:Weary>Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Awful S:Charged MV:Weary>You start to concentrate. 
+
+-\|/-\|/ss-\ee|cs/-\|/-\Ok. 
+You feel better. 
+Broken Corner to the Destroyed Outpost Exits are: N E S W 
+Snow lies upon the ground. 
+A wolf approaches you, obviously abandoned by its pack, hungry and angry. 
+
+R HP:Bloodied S:Charged MV:Weary>Lightly Forested Grasslands Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Weary>Prairie Outside a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Tired>Mirkwood Forest Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Tired>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\Ok. 
+You feel better. 
+
+R HP:Bloodied S:Charged MV:Tired>enBeside a Small Stream Exits are: N E S W 
+Snow lies upon the ground. 
+
+nR HP:Bloodied S:Charged MV:Tired>A Small Stream Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Tired>A Small Spring near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Tired>eeMarshy Ground Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Tired>You cannot go that way. 
+
+R HP:Bloodied S:Charged MV:Tired>scsA Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged MV:Fatigued Mount:Weary>You start to concentrate. 
+
+-\|/-\|/-\|/-\s|s/-w\wOk. 
+You feel better. 
+A Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+
+wR HP:Wounded S:Depleted MV:Tired Mount:Weary>A Small Waterfall Exits are: N S W D 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+
+R HP:Wounded S:Depleted MV:Fatigued Mount:Weary>Mirkwood Forest Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted MV:Fatigued Mount:Weary>vitalMedium Forest Exits are: N E S W D 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted MV:Fatigued Mount:Weary>Light Forest Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted MV:Fatigued Mount:Weary>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\ 
+Ok. 
+You feel refreshed. 
+
+R HP:Wounded S:Depleted Mount:Weary>wEdge of Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>wwYou cannot go that way. 
+
+R HP:Wounded S:Depleted Mount:Weary>sThe day has now begun. 
+Clouds race through the sky above the fields. 
+Saving Amorule. 
+You cannot go that way. 
+
+R HP:Wounded S:Depleted Mount:Weary>Light Forest Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>timeIt is 10 o'clock AM on Valanya, the 11th Day of Ringare. 
+The moon is dying and not shining. 
+The sun will set in about 6 hours. 
+
+R HP:Wounded S:Depleted Mount:Weary>nnEdge of Mirkwood Exits are: N E S 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Depleted Mount:Weary>Lightly Forested Grasslands Exits are: N E S 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>Broken Corner to the Destroyed Outpost Exits are: N E S W 
+Snow lies upon the ground. 
+A wolf approaches you, obviously abandoned by its pack, hungry and angry. 
+
+R HP:Wounded S:Depleted Mount:Weary>wYour mount cannot swim. 
+
+R HP:Wounded S:Depleted Mount:Weary>nBroken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>wPrairie Outside a Tower Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary> 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+restR HP:Wounded S:Depleted Mount:Weary>You sit down and rest your tired bones. 
+
+exa eR HP:Wounded S:Depleted Mount:Weary>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+scR HP:Wounded S:Depleted Mount:Weary>You have 104/318 hit, 23/117 stamina, 74/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Depleted Mount:Weary>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted Mount:Weary>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Depleted>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Depleted>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Depleted>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Depleted>scTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>You have 107/318 hit, 29/117 stamina, 80/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Depleted>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Charged> 
+
+R HP:Wounded S:Charged>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+exa eR HP:Wounded S:Charged>To the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>exa eTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+*an Uruk* (busy) is riding on a black warg. 
+
+R HP:Wounded S:Charged>groupYour group consists of: 
+HP: Wounded, S:Charged, MV:Energetic -- Amorule (Head of group) 
+HP: Healthy, S:Full, MV:Exhausted -- someone 
+
+exa eR HP:Wounded S:Charged>stTo the east you see: 
+Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+wR HP:Wounded S:Charged>wYou stop resting, and stand up. 
+
+R HP:Wounded S:Charged>Plains Exits are: N E S W 
+Snow lies upon the ground. 
+A thin, grey wolf stalks around in search of prey. 
+
+R HP:Wounded S:Charged>Plains Exits are: N E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>eePlains Exits are: N E S W 
+Snow lies upon the ground. 
+A thin, grey wolf stalks around in search of prey. 
+
+eR HP:Wounded S:Charged>ePrairie Outside a Tower Exits are: N E S W 
+Snow lies upon the ground. 
+*an Uruk* is entering from the east, riding on a black warg. 
+
+R HP:Wounded S:Charged>Broken Down Western Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>Rubble Pile Exits are: N E S W 
+Snow lies upon the ground. 
+A completely scorched skeleton is half buried in the rubble here with a sword hilt clutched in it's hand. 
+
+R HP:Wounded S:Charged>scYou have 112/318 hit, 35/117 stamina, 81/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Charged>jNobody here by that name. 
+*an Uruk* is entering from the west, riding on a black warg. 
+
+berR HP:Wounded S:Charged>j 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your left arm very hard. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>You stab *an Uruk*'s head extremely hard. 
+You are now employing berserk tactics. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>/-\|/- 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving east, riding on a black warg. 
+
+\r|/-\You can not do it this way. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>eBurned and Broken East Gate Exits are: N E S W 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+iR HP:Wounded S:Charged>You attack *an Uruk*! 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>aggfYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Charged, *an Uruk*:Wounded>berYou flee head over heels. 
+A Small Spring near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>jYou are now employing berserk tactics. 
+
+jR HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged>Nobody here by that name. 
+
+R HP:Wounded S:Charged> 
+*an Uruk* is entering from the west, riding on a black warg. 
+
+jR HP:Wounded S:Charged> 
+*an Uruk* attacks YOU! 
+*an Uruk* smites your body very hard. 
+
+R HP:Bloodied S:Charged, *an Uruk*:Wounded>You stab *an Uruk*'s left leg extremely hard. 
+
+/-\| 
+*an Uruk* panics, and attempts to flee! 
+*an Uruk* flees head over heels! 
+*an Uruk* is leaving west, riding on a black warg. 
+
+/-\|/-\ 
+You can not do it this way. 
+
+R HP:Bloodied S:Charged>nnMirkwood Forest Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged>Bend in Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged>wwThe Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+csR HP:Bloodied S:Charged>Old Forest Road near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Bloodied S:Charged>You start to concentrate. 
+
+-\|/ 
+
+-\| 
+Puddles form in ruts in the road as rain quickly falls. 
+
+/-\|/-\|/-\ 
+Ok. 
+You feel better. 
+
+R HP:Wounded S:Charged>prep 'fireboltYou start to prepare your spell. 
+
+/-\|/-\|/-\|/-\|/-\|/s-h\You completed your preparations. 
+North Gate of the Ranger Outpost Exits are: N E S W 
+Snow lies upon the ground. 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>e 
+You release your prepared spell. 
+
+hR HP:Wounded S:Charged>Shattered Remains of a Stable Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>nhThe Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+wR HP:Wounded S:Charged>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>Old Forest Road near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>ssNorth Gate of the Ranger Outpost Exits are: N E S W 
+Snow lies upon the ground. 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+hR HP:Wounded S:Charged>Rubble Pile Exits are: N E S W 
+Snow lies upon the ground. 
+A completely scorched skeleton is half buried in the rubble here with a sword hilt clutched in it's hand. 
+
+R HP:Wounded S:Charged>hYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>eheBurned and Broken East Gate Exits are: N E S W 
+Snow lies upon the ground. 
+
+hR HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>A Small Spring near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>huntlOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Charged>A Small Spring near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged>eMarshy Ground Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged>eYou cannot go that way. 
+
+R HP:Wounded S:Charged>pNothing here by that name. 
+
+R HP:Wounded S:Charged>prep 'fireboltYou start to prepare your spell. 
+
+/-\|/-\|/-\|/-hunt\|/-s\|h/s-h\You completed your preparations. 
+You stop looking for fresh tracks. 
+
+R HP:Wounded S:Charged>A Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+A Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+
+R HP:Wounded S:Charged>sYou release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>hA Small Waterfall Exits are: N S W D 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>shQuiet Forest Exits are: N E S W 
+
+R HP:Wounded S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Wounded S:Charged>huntlOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Charged>Quiet Forest Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R HP:Wounded S:Charged>lnQuiet Forest Exits are: N E S W 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+
+R HP:Wounded S:Charged>nA Small Waterfall Exits are: N S W D 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead west. Their condition is very clear 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged>A Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+A large moose is grazing here. 
+The tracks of a mule lead south. Their condition is very clear 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged>nA Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a mule lead south. Their condition is very clear 
+
+R HP:Wounded S:Charged>nMarshy Ground Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged>sA Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged>lA Small Stream Exits are: N S W 
+Snow lies upon the ground. 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged>wA Small Stream Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead north. Their condition is fresh 
+The tracks of a mule lead north. Their condition is very clear 
+The tracks of a mule lead north. Their condition is clear 
+
+R HP:Wounded S:Charged>nA Small Spring near a Graveyard Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+
+R HP:Wounded S:Charged>nMirkwood Forest Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a mule lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged>eMirkwood Forest Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged Mount:Weary>nMirkwood Forest Exits are: N S W 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Charged>The Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a mule lead west. Their condition is clear 
+
+R HP:Wounded S:Charged Mount:Weary>eThe Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+The tracks of a mule lead west. Their condition is clear 
+
+R HP:Wounded S:Charged Mount:Weary>huntYou stop looking for fresh tracks. 
+
+R HP:Wounded S:Charged>sccsYou have 110/318 hit, 49/117 stamina, 69/143 moves, 574 spirit. 
+OB: 164, DB: 10, PB: 48, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Charged>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\ 
+Ok. 
+You feel better. 
+
+R HP:Wounded S:Charged> 
+Puddles form in ruts in the road as rain quickly falls. 
+
+R HP:Wounded S:Charged>You start to concentrate. 
+
+-\|/-\|/-\|/-\|/-\ 
+Ok. 
+You feel better. 
+
+R HP:Hurt S:Charged> 
+
+R HP:Hurt S:Charged>eeThe Old Forest Road Exits are: E S W 
+Snow lies upon the ground. 
+
+sR HP:Hurt S:Charged>A Bend in the Road Exits are: S W 
+Snow lies upon the ground. 
+
+eR HP:Hurt S:Charged>You cannot go that way. 
+
+R HP:Hurt S:Charged>A Bend in the Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>The Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>prep 'fireboltYou start to prepare your spell. 
+
+/- 
+
+\|/-\|/-\|/-\alias t cast 'lightning bolt' uruk|/-e\|e/-h\You completed your preparations. 
+You replaced the alias 't'. 
+
+R HP:Hurt S:Charged>The Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Charged>e 
+You release your prepared spell. 
+
+R HP:Hurt S:Charged>hOld Forest Road Bends Exits are: N S W 
+Snow lies upon the ground. 
+
+R HP:Hurt S:Charged>You release your prepared spell. 
+Nobody here by that name. 
+
+R HP:Hurt S:Charged>aggneYou are now employing aggressive tactics. 
+
+hR HP:Hurt S:Charged>Sloping Ground Exits are: N E S W 
+
+R HP:Hurt S:Charged>A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+*an Uruk* is resting here, riding on a black warg. 
+
+R HP:Hurt S:Charged>You release your prepared spell. 
+Ok. 
+Your firebolt scorches *an Uruk*'s body. 
+
+R HP:Hurt S:Depleted, *an Uruk*:Bloodied> 
+*an Uruk* deeply wounds your left arm with his smite. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Bloodied> 
+You stab *an Uruk*'s body very hard. 
+
+aggR HP:Wounded S:Depleted, *an Uruk*:Bloodied>fYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Bloodied>You flee head over heels. 
+A Gradual Hillside Exits are: N E S W 
+
+R HP:Wounded S:Depleted>iiThey aren't here. 
+
+R HP:Wounded S:Depleted>A water snake (hiding) enters from the north. 
+A water snake attacks YOU! 
+They aren't here. 
+
+R HP:Wounded S:Depleted, a water snake:Healthy>exa wiiTo the west you see: 
+A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+*an Uruk* is riding on a black warg. 
+
+R HP:Wounded S:Depleted, a water snake:Healthy>They aren't here. 
+
+R HP:Wounded S:Depleted, a water snake:Healthy>They aren't here. 
+
+R HP:Wounded S:Depleted, a water snake:Healthy>agg 
+You stab a water snake extremely hard. 
+
+R HP:Wounded S:Depleted, a water snake:Bloodied>fYou are now employing aggressive tactics. 
+
+iR HP:Wounded S:Depleted, a water snake:Bloodied>You flee head over heels. 
+Forested Plateau Exits are: E S W 
+
+R HP:Wounded S:Depleted>iThey aren't here. 
+
+R HP:Wounded S:Depleted>They aren't here. 
+
+R HP:Wounded S:Depleted>wAtop a Forest Peak Exits are: E S W 
+
+exa sR HP:Wounded S:Depleted>wTo the south you see: 
+A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+
+R HP:Wounded S:Depleted>Rocky Forested Slope Exits are: E S W 
+
+R HP:Wounded S:Depleted>prep 'fireboltYou start to prepare your spell. 
+
+/eYour preparations were ruined. 
+
+R HP:Wounded S:Depleted>sAtop a Forest Peak Exits are: E S W 
+*an Uruk* is riding on a black warg. 
+*an Uruk* is leaving south, riding on a black warg. 
+
+eR HP:Wounded S:Depleted>A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+*an Uruk* is riding on a black warg. 
+*an Uruk* attacks YOU! 
+*an Uruk* deeply wounds your head with his smite. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Bloodied>You discover a weakness in *an Uruk*'s defense! 
+You deeply wound *an Uruk*'s body with your stab. 
+No way! You're fighting for your life! 
+
+R HP:Wounded S:Depleted, *an Uruk*:Awful>aggfYou are now employing aggressive tactics. 
+
+R HP:Wounded S:Depleted, *an Uruk*:Awful>You flee head over heels. 
+A Gradual Hillside Exits are: N E S W 
+A water snake slithers across the ground, blending in. 
+
+R HP:Wounded S:Depleted>jNobody here by that name. 
+
+iR HP:Wounded S:Depleted>iwThey aren't here. 
+
+iR HP:Wounded S:Depleted>iThey aren't here. 
+
+R HP:Wounded S:Depleted>A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+
+R HP:Wounded S:Depleted>They aren't here. 
+
+R HP:Wounded S:Depleted>They aren't here. 
+
+R HP:Wounded S:Depleted> 
+A lazy forest troll attacks YOU! 
+A lazy forest troll hits your body hard. 
+You stab a lazy forest troll's body hard. 
+
+R HP:Wounded S:Depleted, a lazy forest troll:Scratched>sNo way! You're fighting for your life! 
+
+dismR HP:Wounded S:Depleted, a lazy forest troll:Scratched>fYou stop riding a mule. 
+A mule starts following you. 
+
+HP:Wounded S:Depleted, a lazy forest troll:Scratched>You flee head over heels. 
+A Gradual Hillside Exits are: N E S W 
+A water snake slithers across the ground, blending in. 
+
+HP:Wounded S:Depleted>wsA Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+
+HP:Wounded S:Charged>A Slimy Cave Exits are: N D 
+A thick chain, broken in half, is attached to an iron stake here. 
+
+HP:Wounded S:Charged>diA Slimy Crack Exits are: U 
+A fetid black fungus grows here, covering the ground. 
+
+uHP:Wounded S:Charged>nThey aren't here. 
+
+HP:Wounded S:Charged>A Slimy Cave Exits are: N D 
+A thick chain, broken in half, is attached to an iron stake here. 
+
+HP:Wounded S:Charged>A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+
+HP:Wounded S:Charged>rideA mule stops following you. 
+You mount a mule and start riding him. 
+
+huntR HP:Wounded S:Charged Mount:Weary>lOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Charged Mount:Weary>A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a black warg lead north. Their condition is fresh 
+The tracks of *a Dwarf* lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>nAtop a Forest Peak Exits are: E S W 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>eForested Plateau Exits are: E S W 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a water snake lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>wwAtop a Forest Peak Exits are: E S W 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>Rocky Forested Slope Exits are: E S W 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>eeAtop a Forest Peak Exits are: E S W 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead east. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a black warg lead west. Their condition is fresh 
+
+eR HP:Wounded S:Charged Mount:Weary>Forested Plateau Exits are: E S W 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+The tracks of a mule lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged Mount:Weary>Brush-Covered Slope Exits are: E S W 
+
+R HP:Wounded S:Charged Mount:Weary>eMirkwood Forest Exits are: N E W 
+
+R HP:Wounded S:Charged Mount:Weary>sYou cannot go that way. 
+
+eR HP:Wounded S:Charged Mount:Weary>Heavy Forest Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>sBefore a Damp Cave Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>wCan not go there mounted. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>wCan not go there mounted. 
+
+sR HP:Wounded S:Charged MV:Weary Mount:Weary>wForest of Mirkwood Exits are: N E S W 
+A bird filts around looking for food. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary> 
+It is almost impossible to see the sky here, though it appears to be cloudy. 
+
+wR HP:Wounded S:Charged MV:Weary Mount:Weary>Heavy Forest Exits are: E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>Slope Before a Valley Exits are: N E S W 
+
+wR HP:Wounded S:Charged MV:Weary Mount:Weary>Beside a Huge Wall of Oaks Exits are: N E S 
+A large black hawk is flying here. 
+A large black hawk is flying here. 
+A large black hawk is flying here. 
+A bird filts around looking for food. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>wYou cannot go that way. 
+
+sR HP:Wounded S:Charged MV:Weary Mount:Weary>wA Small Embankment Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>Old Forest Road Exits are: E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>wWindy Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a mule lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>wNoisy Brush Exits are: N E S 
+The tracks of a swift ranger lead south. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is very clear 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>sLight Forest Exits are: N E S 
+Snow lies upon the ground. 
+The tracks of a swift ranger lead south. Their condition is very clear 
+The tracks of a swift ranger lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>sTall Foliage Exits are: N E S 
+A black wolf wanders about, growling and frothing at the mouth. 
+A large wild dog watches you carefully. 
+The tracks of a swift ranger lead north. Their condition is very clear 
+The tracks of a swift ranger lead north. Their condition is very clear 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary> 
+A rabid, black wolf leaves south. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>sNear a Patch of Light Exits are: N E S 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>sGiant Wall of Roots Exits are: N E 
+The tracks of a swift ranger lead north. Their condition is very clear 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>eAlong a Wall of Roots Exits are: N E W 
+The tracks of a swift ranger lead west. Their condition is clear 
+
+R HP:Wounded S:Charged MV:Weary Mount:Weary>eA Huge Row of Oaks Exits are: N E W 
+A black wolf wanders about, growling and frothing at the mouth. 
+The tracks of a swift ranger lead west. Their condition is clear 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>nForest of Mirkwood Exits are: N E S W 
+A fetid black fungus grows here, covering the ground. 
+A fetid black fungus grows here, covering the ground. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>nForest of Mirkwood Exits are: N E S W 
+A large wild dog watches you carefully. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>huntwnYou stop looking for fresh tracks. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>wNear a Small Light in the Forest Exits are: N E S W 
+A black wolf wanders about, growling and frothing at the mouth. 
+
+nR HP:Wounded S:Charged MV:Weary Mount:Tired>nForest of Mirkwood Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>Light Forest Exits are: N E S 
+Snow lies upon the ground. 
+
+nR HP:Wounded S:Charged MV:Weary Mount:Tired>nNoisy Brush Exits are: N E S 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>nOld Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>Forest of Mirkwood Exits are: N E S 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>Base of a Rocky Incline Exits are: E S 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>iYou cannot go that way. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>They aren't here. 
+
+eR HP:Wounded S:Charged MV:Weary Mount:Tired>e 
+
+R HP:Wounded S:Charged MV:Weary Mount:Tired>Rocky Forested Slope Exits are: E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Fatigued>Atop a Forest Peak Exits are: E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Fatigued>exa sTo the south you see: 
+A Sudden Clearing Exits are: N E S W 
+Snow lies upon the ground. 
+A lazy forest troll is here, cooking his latest kill. 
+A lazy forest troll is here, cooking his latest kill. 
+
+R HP:Wounded S:Charged MV:Weary Mount:Fatigued>eForested Plateau Exits are: E S W 
+
+R HP:Wounded S:Charged MV:Weary Mount:Fatigued>dismYou stop riding a mule. 
+A mule starts following you. 
+
+HP:Wounded S:Charged MV:Weary>ride 2.muleeA mule stops following you. 
+You mount a mule and start riding him. 
+
+sR HP:Wounded S:Charged MV:Weary>sBrush-Covered Slope Exits are: E S W 
+
+R HP:Wounded S:Charged MV:Weary>sHeavy Forest Exits are: N S W 
+
+R HP:Wounded S:Charged MV:Weary>Slope Before a Valley Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary>A Shallow Valley Exits are: N E S W 
+A giant bat looms overhead. 
+A giant bat looms overhead. 
+
+huntR HP:Wounded S:Charged MV:Weary>sOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Charged MV:Weary>Road Over an Ancient Streambed Exits are: N E S W 
+Snow lies upon the ground. 
+A large wild dog watches you carefully. 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>sA Broken Thatchet Exits are: N S W 
+
+nR HP:Wounded S:Charged MV:Weary>eRoad Over an Ancient Streambed Exits are: N E S W 
+Snow lies upon the ground. 
+A large wild dog watches you carefully. 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary>eOld Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a black warg lead east. Their condition is very clear 
+
+R HP:Wounded S:Charged MV:Weary>eOld Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary>eOld Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+The tracks of a swift ranger lead south. Their condition is very clear 
+The tracks of a swift ranger lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>sDark Forest Exits are: N E S W 
+*an Uruk* is riding on a black warg. 
+The tracks of a swift ranger lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary> 
+*an Uruk* is leaving north, riding on a black warg. 
+
+sR HP:Wounded S:Charged MV:Weary>Dark Forest Next to Some Hills Exits are: N E S W 
+The tracks of a swift ranger lead north. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>huntnYou stop looking for fresh tracks. 
+
+jR HP:Wounded S:Charged MV:Weary>Dark Forest Exits are: N E S W 
+
+R HP:Wounded S:Charged MV:Weary>Nobody here by that name. 
+
+R HP:Wounded S:Charged MV:Weary>iniThey aren't here. 
+
+iR HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary>They aren't here. 
+
+R HP:Wounded S:Charged MV:Weary>They aren't here. 
+
+R HP:Wounded S:Charged MV:Weary>huntlOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: N E S W 
+Snow lies upon the ground. 
+You are riding on a mule. 
+A stout little mule with droopy eyes stands here. 
+The tracks of a swift ranger lead east. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a black warg lead east. Their condition is fresh 
+The tracks of a mule lead south. Their condition is fresh 
+The tracks of a swift ranger lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>eOld Forest Road Bends Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a swift ranger lead west. Their condition is fresh 
+The tracks of a black warg lead south. Their condition is very clear 
+The tracks of a swift ranger lead south. Their condition is clear 
+The tracks of a swift ranger lead west. Their condition is very clear 
+
+R HP:Wounded S:Charged MV:Weary>eYou cannot go that way. 
+
+R HP:Wounded S:Charged MV:Weary>ssOld Forest Road Bends Exits are: N E S W 
+Snow lies upon the ground. 
+A bird filts around looking for food. 
+The tracks of a swift ranger lead west. Their condition is very clear 
+The tracks of a swift ranger lead north. Their condition is very clear 
+The tracks of a black warg lead east. Their condition is very clear 
+The tracks of a swift ranger lead east. Their condition is very clear 
+The tracks of a black warg lead east. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>Atop a Small Mound Exits are: N S W 
+Snow lies upon the ground. 
+The tracks of a swift ranger lead west. Their condition is fresh 
+
+R HP:Wounded S:Charged MV:Weary>huntneYou stop looking for fresh tracks. 
+
+eR HP:Wounded S:Charged MV:Weary>eOld Forest Road Bends Exits are: N E S W 
+Snow lies upon the ground. 
+A bird filts around looking for food. 
+
+R HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Charged MV:Weary>Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+
+R HP:Wounded S:Powered MV:Weary>hunteOk, you'll try to notice fresh tracks. 
+
+R HP:Wounded S:Powered MV:Weary>Old Forest Road Exits are: E W 
+Snow lies upon the ground. 
+The tracks of a swift ranger lead west. Their condition is clear 
+The tracks of a black warg lead west. Their condition is fresh 
+The tracks of a swift ranger lead west. Their condition is very clear 
+The tracks of a swift ranger lead east. Their condition is very clear 
+
+R HP:Wounded S:Powered MV:Weary>eOld Forest Road Exits are: N E W 
+Snow lies upon the ground. 
+The tracks of a black warg lead north. Their condition is fresh 
+The tracks of a swift ranger lead west. Their condition is clear 
+The tracks of a black warg lead west. Their condition is fresh 
+
+R HP:Wounded S:Powered MV:Tired> 
+The web closes quietly. 
+
+huntR HP:Wounded S:Powered MV:Weary>You stop looking for fresh tracks. 
+
+R HP:Wounded S:Powered MV:Weary>scPuddles form in ruts in the road as rain quickly falls. 
+You have 97/318 hit, 64/117 stamina, 32/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Wounded S:Powered MV:Weary>llYou start to concentrate. 
+
+\|/-\|/-\ 
+Ok. 
+*an Uruk* at Cleared Trees to the north. 
+a black warg at Cleared Trees to the north. 
+a wild dog at A Faint Animal Path to the east-southeast. 
+a wild dog at A Faint Animal Path to the east-southeast. 
+a black deer at A Faint Animal Path to the southeast. 
+a black squirrel at Mirkwood Forest to the east-southeast. 
+a wild dog at Mirkwood Forest to the east-southeast. 
+You could not further concentrate. 
+
+R HP:Wounded S:Powered MV:Weary>scYou have 98/318 hit, 60/117 stamina, 33/143 moves, 574 spirit. 
+OB: 149, DB: 17, PB: 50, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+csR HP:Wounded S:Powered MV:Weary>You start to concentrate. 
+
+-\vital|cs/-\|/-\|/ 
+
+-\|/-\Ok. 
+You feel better. 
+You start to concentrate. 
+
+-\|two/ber-\sc|/-\dism|/-\|/-\Ok. 
+You feel refreshed. 
+You start to concentrate. 
+
+-\|/-\|/-\|/alias p close web-\|/-\Ok. 
+You feel better. 
+You are already wielding your weapon with two hands. 
+
+R HP:Hurt S:Depleted>You are now employing berserk tactics. 
+
+R HP:Hurt S:Depleted>You have 151/318 hit, 29/117 stamina, 99/143 moves, 574 spirit. 
+OB: 164, DB: 10, PB: 48, Speed: 15, Gold: 0, XP Needed: 3K. 
+
+R HP:Hurt S:Depleted>You stop riding a mule. 
+A mule starts following you. 
+
+HP:Hurt S:Depleted>You replaced the alias 'p'. 
+
+HP:Hurt S:Charged>bbYou start to concentrate. 
+
+\|j/-\Ok. 
+The world spinned around you, and changed. 
+Cleared Trees Exits are: (S) 
+Snow lies upon the ground. 
+*an Uruk* is riding on a black warg. 
+
+/-\|/r-r\|/-\Your bash at *an Uruk* sends him sprawling. 
+You start to concentrate. 
+
+/-\|/-\Ok. 
+*an Uruk* shudders as your chill ray strikes him. 
+You start to concentrate. 
+
+/-\|p/p-p\pOk. 
+*an Uruk* shudders as your chill ray strikes him. 
+It's already closed! 
+
+pHP:Hurt S:Depleted, *an Uruk*:Awful>pYou stab *an Uruk*'s right leg very hard. 
+It's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>p*an Uruk* has recovered from a bash! 
+It's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+pHP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+*an Uruk* opens the web. 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>Ok. 
+*an Uruk* panics, and attempts to flee! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pIt's already closed! 
+
+HP:Hurt S:Depleted, *an Uruk*:Awful>pYou stab *an Uruk*'s right arm very hard. 
+*an Uruk* is dead! R.I.P. 
+You receive your share of experience -- 5576 points. 
+You feel more powerful! 
+*an Uruk* stops riding a black warg. 
+Your blood freezes as you hear Dmourk's death cry. 
+It's already closed! 
+
+pHP:Hurt S:Depleted>pIt's already closed! 
+
+HP:Hurt S:Depleted>pIt's already closed! 
+
+HP:Hurt S:Depleted>It's already closed! 
+
+HP:Hurt S:Depleted>It's already closed! 
+
+HP:Hurt S:Depleted>It's already closed! 
+
+HP:Hurt S:Depleted>It's already closed! 
+
+HP:Hurt S:Depleted>l in corIt's already closed! 
+
+HP:Hurt S:Depleted>corpse (here) : 
+a wooden walking stick 
+a runed warhammer..It glows blue! 
+a tainted bracelet..It glows blue! 
+a tainted bracelet..It glows blue! 
+a snakeskin belt 
+a golden bear fur 
+a pair of shiny black sleeves 
+a black pair of cotton gloves 
+a pair of smooth leather boots 
+a black pair of cotton pants 
+a pair of antlers 
+a black cotton shirt 
+a silver inscribed coin 
+a silver inscribed coin 
+an ivory ring..It glows blue! 
+an ivory ring..It glows blue! 
+a huge mound of coins 
+a pair of spectacles 
+a dark eket 
+a stone ring..It glows blue! 
+a red silk cloak 
+an etched leather girdle..It glows blue! 
+a dragon shield..It glows blue! 
+a leather flask 
+a gruesome skin backpack 
+a large, metal shield 
+a heavy pair of metal arm braces 
+a metal breastplate 
+a thick metal helm 
+a heavy pair of metal leg plates 
+a pair of metal boots 
+a pair of thick metal gauntlets 
+a gruesome skin backpack 
+a small jewelry box 
+a long black knife 
+a sinister death mask 
+a leather bag 
+a vermilion stiletto..It glows blue!
