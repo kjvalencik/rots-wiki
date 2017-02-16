@@ -1,0 +1,993 @@
+R>You say 'just gonna go east'
+Delve nods solemnly.
+R>
+sa theyll follow
+You say 'theyll follow'
+xx s
+R>
+To the south you see:
+Old Forest Road Exits are: N E W
+The web is open.
+R>
+l
+Cleared Trees Exits are: S
+Razniskh is riding on a grey warg.
+A dark warg stands here, its eyes glowing like a flame.
+Brujas is riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+Delve is riding on a great black boar.
+A war orc is riding on a great black boar.
+A war orc is riding on a great black boar.
+An orc mage is riding on a black warg.
+Bogle is riding on a black warg.
+A stoic orc is riding on a black warg.
+A burly orcish soldier is riding on a black warg.
+You are riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+R>
+Delve nods solemnly.
+s
+R>
+Old Forest Road Exits are: N E W
+A stoic orc is entering from the north, riding on a black warg.
+A burly orcish soldier is entering from the north, riding on a black warg.
+An orc mage is entering from the north, riding on a black warg.
+A black warg enters from the north.
+A black warg enters from the north.
+A war orc is entering from the north, riding on a great black boar.
+A war orc is entering from the north, riding on a great black boar.
+R>
+*a Dwarf* (busy) is entering from the west, riding on a mule.
+*an Elf* is entering from the west, riding on a white horse.
+A white horse enters from the west.
+*a Dwarf* is entering from the west, riding on a mule.
+A mule enters from the west.
+*an Elf* is entering from the west, riding on a white horse.
+A white horse enters from the west.
+A mule enters from the west.
+R>
+xx w
+*an Elf* attacks YOU!
+z
+R HP:Healthy, *an Elf*:Healthy>
+a
+To the west you see:
+Old Forest Road Exits are: E W
+R HP:Healthy, *an Elf*:Healthy>
+You already have a fight to worry about.
+*a Dwarf* attacks YOU!
+R HP:Healthy, *an Elf*:Healthy>
+/
+-
+\
+*an Elf* begins quietly muttering some strange, powerful words.
+Brujas attacks *a Dwarf*!
+Brujas pounds *a Dwarf*'s right leg hard.
+*an Elf* utters a strange command, 'lightning bolt'
+A stoic orc screams in pain as a lightning from *an Elf* strikes him!
+Delve attacks *a Dwarf*!
+|
+A stoic orc lightly slashes *an Elf*'s right foot.
+*a Dwarf* stabs Brujas's right arm extremely hard.
+/
+-
+Delve issues an order.
+A war orc assists Delve.
+A war orc attacks *a Dwarf*!
+A war orc cleaves *a Dwarf*'s right leg.
+A war orc assists Delve.
+A war orc attacks *a Dwarf*!
+A war orc smites *a Dwarf*'s body.
+l
+*an Elf* discovers a weakness in a stoic orc's defense!
+A stoic orc resists a lot.
+*an Elf* stabs a stoic orc's right leg very hard.
+\
+Bogle attacks *an Elf*!
+|
+/
+*an Elf* utters a strange command, 'insight'
+The world seems to gain a few edges for you.
+Bogle issues an order.
+An orc mage assists Bogle.
+An orc mage attacks *an Elf*!
+A burly orcish soldier assists Bogle.
+A burly orcish soldier attacks *an Elf*!
+-
+*a Dwarf* panics, and attempts to flee!
+*a Dwarf* flees head over heels!
+*a Dwarf* is leaving west, riding on a mule.
+A mule leaves west.
+Delve begins quietly muttering some strange, powerful words.
+\
+Your bash at *a Dwarf* sends him sprawling.
+Old Forest Road Exits are: N E W
+You are here, fighting *an Elf*, riding on a black warg.
+A stoic orc is here, fighting *an Elf*, riding on a black warg.
+A burly orcish soldier is here, fighting *an Elf*, riding on a black warg.
+Bogle is here, fighting *an Elf*, riding on a black warg.
+An orc mage is here, fighting *an Elf*, riding on a black warg.
+Brujas (busy) is riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+Razniskh (busy) is riding on a grey warg.
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+Delve (busy) is here, fighting *a Dwarf*, riding on a great black boar.
+A dark warg stands here, its eyes glowing like a flame.
+*a Dwarf* (busy) is here, fighting YOU, riding on a mule.
+*an Elf* is here, fighting YOU, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+*an Elf* is here, fighting a stoic orc, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+A stout little mule with droopy eyes stands here.
+R HP:Healthy, *an Elf*:Healthy>
+*an Elf* forces his Will against your constitution!
+Bogle gives an orc mage an order.
+An orc mage begins quietly muttering some strange, powerful words.
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+A stoic orc slashes *an Elf*'s right hand.
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+*an Elf* begins quietly muttering some strange, powerful words.
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+l
+A war orc smites *a Dwarf*'s left arm.
+A war orc cleaves *a Dwarf*'s left arm.
+*an Elf* forces his Will against your strength!
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+Old Forest Road Exits are: N E W
+You are here, fighting *an Elf*, riding on a black warg.
+A stoic orc is here, fighting *an Elf*, riding on a black warg.
+A burly orcish soldier is here, fighting *an Elf*, riding on a black warg.
+Bogle is here, fighting *an Elf*, riding on a black warg.
+An orc mage (busy) is here, fighting *an Elf*, riding on a black warg.
+Brujas is riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+Razniskh (busy) is riding on a grey warg.
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+Delve (busy) is here, fighting *a Dwarf*, riding on a great black boar.
+A dark warg stands here, its eyes glowing like a flame.
+*a Dwarf* (busy) is here, fighting YOU, riding on a mule.
+*an Elf* is here, fighting YOU, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+*an Elf* (busy) is here, fighting a stoic orc, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+A stout little mule with droopy eyes stands here.
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+*an Elf* begins quietly muttering some strange, powerful words.
+*a Dwarf* is entering from the west, riding on a mule.
+A mule enters from the west.
+f
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+Brujas attacks *a Dwarf*!
+Bogle begins quietly muttering some strange, powerful words.
+*a Dwarf* begins quietly muttering some strange, powerful words.
+R HP:Healthy Mind:barely sickly, *an Elf*:Healthy>
+A stoic orc slashes *an Elf*'s body.
+Delve utters a strange command, 'confuse'
+You flee head over heels.
+Old Forest Road Exits are: E W
+R>
+e
+z
+Old Forest Road Exits are: N E W
+A stoic orc is here, fighting *an Elf*, riding on a black warg.
+A burly orcish soldier is here, fighting *an Elf*, riding on a black warg.
+Bogle (busy) is here, fighting *an Elf*, riding on a black warg.
+An orc mage is here, fighting *an Elf*, riding on a black warg.
+Brujas (busy) is here, fighting *a Dwarf*, riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+Razniskh is here, fighting *an Elf*, riding on a grey warg.
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+Delve (busy) is here, fighting *a Dwarf*, riding on a great black boar.
+*a Dwarf* is here, fighting a war orc, riding on a mule.
+*an Elf* (busy) is here, fighting an orc mage, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+*an Elf* is here, fighting a stoic orc, riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+A stout little mule with droopy eyes stands here.
+*a Dwarf* (busy) is here, fighting Brujas, riding on a mule.
+A stout little mule with droopy eyes stands here.
+R>
+You attack *a Dwarf*!
+You barely slash *a Dwarf*'s body.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+Bogle utters a strange command, 'chill ray'
+Bogle's chill ray strikes *an Elf*, who shudders upon impact.
+*a Dwarf* utters a strange command, 'lightning bolt'
+A stoic orc screams in pain as a lightning from *a Dwarf* strikes him!
+Bogle begins quietly muttering some strange, powerful words.
+*a Dwarf* panics, and attempts to flee!
+*a Dwarf* flees head over heels!
+*a Dwarf* is leaving east, riding on a mule.
+A mule leaves east.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+*a Dwarf* is entering from the east, riding on a mule.
+A mule enters from the east.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+A stoic orc slashes *an Elf*'s body.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Scratched>
+*an Elf* stabs a stoic orc's left arm hard.
+*an Elf* panics, and attempts to flee!
+*an Elf* flees head over heels!
+*an Elf* is leaving west, riding on a white horse.
+A white horse leaves west.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Scratched>
+*an Elf* begins quietly muttering some strange, powerful words.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Scratched>
+Razniskh panics, and attempts to flee!
+Razniskh flees head over heels!
+Razniskh is leaving east, riding on a grey warg.
+A black warg leaves east.
+*a Dwarf* is leaving west, riding on a mule.
+A mule leaves west.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Scratched>
+Delve utters a strange command, 'poison'
+Delve poisons *a Dwarf*!
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+A war orc cleaves *a Dwarf*'s body.
+Delve lightly slashes *a Dwarf*'s head.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+You barely slash *a Dwarf*'s body.
+A war orc smites *a Dwarf*'s left arm.
+Bogle utters a strange command, 'chill ray'
+Bogle's chill ray strikes *an Elf*, who shudders upon impact.
+*an Elf* begins quietly muttering some strange, powerful words.
+Bogle begins quietly muttering some strange, powerful words.
+R HP:Healthy, a war orc:Healthy, *a Dwarf*:Bruised>
+alias z k dwarf
+alias a bash dwarf
+alias q kick dwarf
+*a Dwarf* smites a war orc's body very hard.
+f
+R HP:Healthy, a war orc:Bruised, *a Dwarf*:Bruised>
+You replaced the alias 'z'.
+R HP:Healthy, a war orc:Bruised, *a Dwarf*:Bruised>
+You replaced the alias 'a'.
+R HP:Healthy, a war orc:Bruised, *a Dwarf*:Bruised>
+You replaced the alias 'q'.
+rr
+R HP:Healthy, a war orc:Bruised, *a Dwarf*:Bruised>
+You flee head over heels.
+Old Forest Road Exits are: E W
+*a Dwarf* is riding on a mule.
+A stout little mule with droopy eyes stands here.
+A black warg enters from the east.
+3
+R>Brujas attacks *a Dwarf*!
+Brujas pounds *a Dwarf*'s right hand.
+You stop using a fine silver shortsword.
+4
+R>
+*a Dwarf* stabs Brujas's left leg hard.
+*an Elf* is entering from the west, riding on a white horse.
+A white horse enters from the west.
+You stop using a fine, silver shield.
+wk
+R>You are now employing aggressive tactics.
+z
+R>
+You wield a runed warhammer.
+This weapon seems too heavy for one hand.
+You wield your weapon with both hands.
+a
+R>
+a
+You attack *a Dwarf*!
+You smite *a Dwarf*'s left foot very hard.
+R HP:Healthy, Brujas:Scratched, *a Dwarf*:Hurt>
+a
+*a Dwarf* panics, and attempts to flee!
+*a Dwarf* flees head over heels!
+*a Dwarf* is leaving east, riding on a mule.
+A mule leaves east.
+R>*a Dwarf* is entering from the east, riding on a mule.
+A mule enters from the east.
+/
+*a Dwarf* is leaving west, riding on a mule.
+A mule leaves west.
+-
+\
+|
+A black warg enters from the east.
+A mule enters from the east.
+A stoic orc is entering from the east, riding on a black warg.
+A burly orcish soldier is entering from the east, riding on a black warg.
+/
+-
+\
+e
+|
+*an Elf* attacks YOU!
+*an Elf* rushes forward wildly.
+*an Elf* stabs your body very hard.
+z
+a
+/
+-
+\
+You can not do it this way.
+Nobody here by that name.
+R HP:Scratched, *an Elf*:Scratched>*an Elf* panics, and attempts to flee!
+*an Elf* flees head over heels!
+*an Elf* is leaving west, riding on a white horse.
+A white horse leaves west.
+Nobody here by that name.
+R HP:Scratched>
+Old Forest Road Exits are: N E W
+Bogle (busy) is here, fighting *an Elf*, riding on a black warg.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+Delve (busy) is here, fighting *a Dwarf*, riding on a great black boar.
+*a Dwarf* (busy) is here, fighting Razniskh, riding on a mule.
+*an Elf* is here, fighting Bogle, riding on a white horse.
+Razniskh is here, fighting *a Dwarf*, riding on a grey warg.
+A black warg enters from the west.
+R HP:Scratched>A black warg enters from the west.
+A stoic orc is entering from the west, riding on a black warg.
+A burly orcish soldier is entering from the west, riding on a black warg.
+Bogle panics, and attempts to flee!
+Bogle panics, and attempts to flee!
+Bogle utters a strange command, 'chill ray'
+Bogle's chill ray strikes *an Elf*, who shudders upon impact.
+Bogle begins quietly muttering some strange, powerful words.
+You attack *a Dwarf*!
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+*an Elf* forces his Will against Bogle's strength!
+Delve utters a strange command, 'confuse'
+*a Dwarf* appears to be confused!
+Bogle begins quietly muttering some strange, powerful words.
+Your victim is already bashed!
+z
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+Brujas attacks *a Dwarf*!
+a
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+You do the best you can!
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+Your victim is already bashed!
+Delve begins quietly muttering some strange, powerful words.
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+A war orc tried to attack *a Dwarf* but could not get close enough.
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+Brujas tried to attack *a Dwarf* but could not get close enough.
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+Razniskh discovers a weakness in *a Dwarf*'s defense!
+Razniskh tried to attack *a Dwarf* but could not get close enough.
+A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves east.
+A stoic orc panics, and attempts to flee!
+A stoic orc flees head over heels!
+A stoic orc is leaving west, riding on a black warg.
+A burly orcish soldier panics, and attempts to flee!
+A burly orcish soldier flees head over heels!
+A burly orcish soldier is leaving west, riding on a black warg.
+Bogle panics, and attempts to flee!
+Bogle panics, and attempts to flee!
+Bogle utters a strange command, 'chill ray'
+Bogle's chill ray strikes *an Elf*, who shudders upon impact.
+Bogle begins quietly muttering some strange, powerful words.
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+*a Dwarf* has recovered from a bash!
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Bruised>
+Your opponent's bones crunch loudly.
+You severely wound *a Dwarf*'s right leg with your smite!
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Hurt>
+*an Elf* forces his Will against Bogle's will!
+Brujas panics, and attempts to flee!
+Brujas flees head over heels!
+Brujas is leaving east, riding on a black warg.
+A black warg leaves east.
+Bogle begins quietly muttering some strange, powerful words.
+l
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Hurt>
+A war orc cleaves *a Dwarf*'s right leg hard.
+Old Forest Road Exits are: N E W
+Bogle (busy) is here, fighting *an Elf*, riding on a black warg.
+A war orc is here, fighting *a Dwarf*, riding on a great black boar.
+Delve (busy) is here, fighting *a Dwarf*, riding on a great black boar.
+*a Dwarf* is here, fighting Razniskh, riding on a mule.
+*an Elf* is here, fighting Bogle, riding on a white horse.
+Razniskh (busy) is here, fighting *a Dwarf*, riding on a grey warg.
+You are here, fighting *a Dwarf*, riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+a
+R HP:Scratched, Razniskh:Healthy, *a Dwarf*:Hurt>
+a
+/
+*a Dwarf* smites Razniskh's right leg very hard.
+-
+A black warg enters from the east.
+A stoic orc is entering from the west, riding on a black warg.
+A burly orcish soldier is entering from the west, riding on a black warg.
+Bogle panics, and attempts to flee!
+Bogle panics, and attempts to flee!
+Delve utters a strange command, 'confuse'
+Delve begins quietly muttering some strange, powerful words.
+\
+*an Elf* forces his Will against Bogle's dexterity!
+Bogle issues an order.
+A stoic orc assists Bogle.
+A stoic orc attacks *an Elf*!
+A burly orcish soldier assists Bogle.
+A burly orcish soldier attacks *an Elf*!
+|
+Bogle begins quietly muttering some strange, powerful words.
+/
+-
+\
+|
+/
+-
+A war orc cleaves *a Dwarf*'s head very hard.
+Razniskh sends *a Dwarf* sprawling with a powerful bash.
+A black warg enters from the east.
+\
+Brujas attacks *a Dwarf*!
+Brujas discovers a weakness in *a Dwarf*'s defense!
+Brujas pounds *a Dwarf*'s body very hard.
+A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves east.
+A stoic orc panics, and attempts to flee!
+A burly orcish soldier panics, and attempts to flee!
+A burly orcish soldier flees head over heels!
+A burly orcish soldier is leaving west, riding on a black warg.
+Bogle panics, and attempts to flee!
+Bogle panics, and attempts to flee!
+Your victim is already bashed!
+Your victim is already bashed!
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+Delve utters a strange command, 'poison'
+Bogle utters a strange command, 'chill ray'
+Bogle's chill ray strikes *an Elf*, who shudders upon impact.
+Bogle begins quietly muttering some strange, powerful words.
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+Delve tried to attack *a Dwarf* but could not get close enough.
+Brujas panics, and attempts to flee!
+Brujas flees head over heels!
+Brujas is leaving east, riding on a black warg.
+A black warg leaves east.
+chat hit dwarf
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+Razniskh cleaves *a Dwarf*'s left leg extremely hard.
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+You chat 'hit dwarf'
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+*an Elf* panics, and attempts to flee!
+*an Elf* flees head over heels!
+*an Elf* is leaving east, riding on a white horse.
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+You discover a weakness in *a Dwarf*'s defense!
+You deeply wound *a Dwarf*'s head with your smite.
+A war orc cleaves *a Dwarf*'s left arm.
+chat dwarf
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+z
+A black warg enters from the east.
+A stoic orc panics, and attempts to flee!
+You chat 'dwarf'
+z
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+z
+You do the best you can!
+z
+R HP:Scratched, Razniskh:Scratched, *a Dwarf*:Wounded>
+Delve scratches *a Dwarf*'s body with his slash.
+*a Dwarf* has recovered from a bash!
+You do the best you can!
+z
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+*a Dwarf* forces his Will against Razniskh's concentration!
+You do the best you can!
+*a Dwarf* stops using a runed warhammer.
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+You do the best you can!
+*a Dwarf* wields a fine silver broadsword.
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+You do the best you can!
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+A black warg enters from the east.
+You do the best you can!
+Delve issues an order.
+A war orc salutes Delve.
+z
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+Brujas attacks *a Dwarf*!
+Brujas pounds *a Dwarf*'s body hard.
+You do the best you can!
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+z
+You do the best you can!
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>A war orc tried to attack *a Dwarf* but could not get close enough.
+You do the best you can!
+z
+R HP:Scratched Mind:barely sickly, Razniskh:in top shape, *a Dwarf*:Wounded>
+Razniskh discovers a weakness in *a Dwarf*'s defense!
+Razniskh tried to attack *a Dwarf* but could not get close enough.
+*a Dwarf* forces his Will against Razniskh's intelligence!
+You do the best you can!
+z
+z
+R HP:Scratched Mind:barely sickly, Razniskh:slightly duped, *a Dwarf*:Wounded>A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves west.
+A mule enters from the west.
+A stoic orc panics, and attempts to flee!
+A stoic orc flees head over heels!
+A stoic orc is leaving east, riding on a black warg.
+You do the best you can!
+*a Dwarf* panics, and attempts to flee!
+*a Dwarf* flees head over heels!
+*a Dwarf* is leaving east, riding on a mule.
+A mule leaves east.
+z
+R HP:Scratched>They aren't here.
+*a Dwarf* is entering from the east, riding on a mule.
+A mule enters from the east.
+z
+R HP:Scratched>*an Elf* is entering from the east, riding on a white horse.
+Razniskh panics, and attempts to flee!
+Razniskh flees head over heels!
+Razniskh is leaving east, riding on a grey warg.
+You attack *a Dwarf*!
+Delve attacks *a Dwarf*!
+R HP:Scratched Mind:barely sickly, *a Dwarf*:Wounded>
+Brujas panics, and attempts to flee!
+Brujas flees head over heels!
+Brujas is leaving west, riding on a black warg.
+A black warg leaves west.
+z
+R HP:Scratched Mind:barely sickly, *a Dwarf*:Wounded>You do the best you can!
+R HP:Scratched Mind:barely sickly, *a Dwarf*:Wounded>
+z
+You discover a weakness in *a Dwarf*'s defense!
+Your opponent's bones crunch loudly.
+You MUTILATE *a Dwarf*'s body with your deadly smite!!
+Delve barely slashes *a Dwarf*'s left arm.
+You do the best you can!
+z
+R HP:Scratched Mind:barely sickly, *a Dwarf*:Awful>
+You do the best you can!
+Delve issues an order.
+A war orc assists Delve.
+A war orc attacks *a Dwarf*!
+z
+R HP:Scratched Mind:barely sickly, *a Dwarf*:Awful>*a Dwarf* forces his Will against your learning!
+*an Elf* forces his Will against your intelligence!
+You do the best you can!
+z
+R HP:Scratched Mind:slightly duped, *a Dwarf*:Awful>
+Bogle attacks *a Dwarf*!
+Bogle scratches *a Dwarf*'s right leg with her pound.
+You do the best you can!
+*a Dwarf* panics, and attempts to flee!
+You turn to face your next enemy.
+*a Dwarf* flees head over heels!
+*a Dwarf* is leaving west, riding on a mule.
+A mule leaves west.
+Delve attacks *an Elf*!
+z
+z
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>They aren't here.
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>
+z
+Bogle assists you!
+Bogle attacks *an Elf*!
+They aren't here.
+z
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>They aren't here.
+z
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>
+z
+Bogle issues an order.
+They aren't here.
+z
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>They aren't here.
+R HP:Scratched Mind:slightly duped, *an Elf*:Wounded>
+*an Elf* forces his Will against your strength!
+They aren't here.
+Delve issues an order.
+A war orc assists Delve.
+A war orc attacks *an Elf*!
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>They aren't here.
+f
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>
+You hear the howling of a humanoid from nearby.
+They aren't here.
+w
+w
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>They aren't here.
+w
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>
+Bogle issues an order.
+They aren't here.
+w
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>They aren't here.
+w
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>
+They aren't here.
+R HP:Scratched Mind:slightly weakened, *an Elf*:Wounded>
+You flee head over heels.
+Old Forest Road Exits are: E W
+The skewered corpse of a burly orcish soldier is lying here.
+*an Elf* is riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+A dark warg stands here, its eyes glowing like a flame.
+*a Dwarf* is riding on a mule.
+A stout little mule with droopy eyes stands here.
+R HP:Scratched>
+Razniskh attacks *an Elf*!
+Razniskh cleaves *an Elf*'s left hand hard.
+Old Forest Road Exits are: E W
+The spirit of an old man rambles mournfully beside the road. (shadow)
+A dark warg stands here, its eyes glowing like a flame.
+R HP:Scratched>
+Old Forest Road Exits are: E W
+R HP:Scratched>
+z
+The dark cloudy sky makes it difficult to see far down the road.
+A black warg enters from the east.
+Old Forest Road Exits are: E W
+z
+R HP:Scratched S:Surging>Old Forest Road Bends Exits are: N E S W
+z
+R HP:Scratched S:Surging>
+z
+Dark Forest Exits are: N E S W
+Brujas is riding on a black warg.
+A dark warg stands here, its eyes glowing like a flame.
+R HP:Scratched S:Surging>
+z
+Brujas is leaving west, riding on a black warg.
+A black warg leaves west.
+They aren't here.
+e
+R HP:Scratched S:Surging>
+They aren't here.
+e
+R HP:Scratched S:Surging>They aren't here.
+z
+R HP:Scratched S:Surging>
+They aren't here.
+e
+R HP:Scratched S:Surging>They aren't here.
+z
+R HP:Scratched S:Surging>
+Old Forest Road Bends Exits are: N E S W
+e
+R HP:Scratched S:Surging>
+Old Forest Road Exits are: E W
+*an Elf* is riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+z
+R HP:Scratched S:Surging>
+They aren't here.
+R HP:Scratched S:Surging>
+*an Elf* begins quietly muttering some strange, powerful words.
+Old Forest Road Exits are: E W
+A dark warg stands here, its eyes glowing like a flame.
+z
+R HP:Scratched S:Surging>A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves east.
+They aren't here.
+R HP:Scratched S:Surging>
+z
+Old Forest Road Exits are: E W
+The spirit of an old man rambles mournfully beside the road. (shadow)
+A dark warg stands here, its eyes glowing like a flame.
+e
+R HP:Scratched S:Surging>
+They aren't here.
+z
+R HP:Scratched S:Surging>
+They aren't here.
+e
+R HP:Scratched S:Surging>
+They aren't here.
+z
+R HP:Scratched S:Surging>Old Forest Road Exits are: E W
+The skewered corpse of a burly orcish soldier is lying here.
+A dark warg stands here, its eyes glowing like a flame.
+*a Dwarf* (busy) is here, fighting Razniskh, riding on a mule.
+A stout little mule with droopy eyes stands here.
+Razniskh is here, fighting *an Elf*, riding on a grey warg.
+e
+*an Elf* is here, fighting Razniskh, riding on a white horse.
+R HP:Scratched S:Surging>
+You attack *a Dwarf*!
+You smite *a Dwarf*'s left arm hard.
+z
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>
+z
+No way! You're fighting for your life!
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>Razniskh turns to fight *a Dwarf*.
+You do the best you can!
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>
+*an Elf* forces his Will against Razniskh's will!
+Razniskh panics, and attempts to flee!
+No way! You're fighting for your life!
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>You do the best you can!
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>
+You do the best you can!
+f
+R HP:Scratched S:Surging, Razniskh:Bruised, *a Dwarf*:Hurt>
+e
+Razniskh panics, and attempts to flee!
+Razniskh flees head over heels!
+Razniskh is leaving east, riding on a grey warg.
+You flee head over heels.
+Old Forest Road Exits are: E W
+The spirit of an old man rambles mournfully beside the road. (shadow)
+z
+R HP:Scratched S:Surging>
+Old Forest Road Exits are: E W
+The skewered corpse of a burly orcish soldier is lying here.
+A dark warg stands here, its eyes glowing like a flame.
+*a Dwarf* (busy) is riding on a mule.
+A stout little mule with droopy eyes stands here.
+*an Elf* is riding on a white horse.
+R HP:Scratched S:Surging>
+e
+You attack *a Dwarf*!
+z
+R HP:Scratched S:Surging, *a Dwarf*:Hurt>
+*a Dwarf* begins quietly muttering some strange, powerful words.
+R HP:Scratched S:Surging, *a Dwarf*:Hurt>No way! You're fighting for your life!
+z
+R HP:Scratched S:Surging, *a Dwarf*:Hurt>You hear a powerful whistle nearby.
+*an Elf* forces his Will against your will!
+You do the best you can!
+R HP:Scratched S:Surging, *a Dwarf*:Hurt>
+You do the best you can!
+R HP:Scratched S:Surging, *a Dwarf*:Hurt>
+f
+You flee head over heels.
+Old Forest Road Exits are: E W
+The spirit of an old man rambles mournfully beside the road. (shadow)
+*an Elf* is riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+R HP:Scratched S:Surging>
+e
+e
+*a Dwarf* is entering from the east, riding on a mule.
+A mule enters from the east.
+Old Forest Road Exits are: E W
+The skewered corpse of a burly orcish soldier is lying here.
+A dark warg stands here, its eyes glowing like a flame.
+*an Elf* is riding on a white horse.
+Razniskh (busy) is riding on a grey warg.
+R HP:Scratched>
+*an Elf* forces his Will against Razniskh's constitution!
+Old Forest Road Exits are: N E W
+Bogle is riding on a black warg.
+A war orc is riding on a great black boar.
+Delve is riding on a great black boar.
+R HP:Scratched>
+e
+z
+Old Forest Road Exits are: N E S W
+A war orc is entering from the west, riding on a great black boar.
+R HP:Scratched>
+They aren't here.
+R HP:Scratched>
+An orc mage is entering from the north, riding on a black warg.
+An orc mage panics, and attempts to flee!
+An orc mage flees head over heels!
+An orc mage is leaving east, riding on a black warg.
+R HP:Scratched>
+chat dwa awful
+w
+w
+w
+You chat 'dwa awful'
+w
+R HP:Scratched>Old Forest Road Exits are: N E W
+A war orc is entering from the east, riding on a great black boar.
+Delve says 'missing an orc'
+w
+w
+R HP:Scratched>
+Old Forest Road Exits are: E W
+The skewered corpse of a burly orcish soldier is lying here.
+A dark warg stands here, its eyes glowing like a flame.
+*an Elf* is here, fighting Razniskh, riding on a white horse.
+Razniskh is here, fighting *an Elf*, riding on a grey warg.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>
+w
+*an Elf* panics, and attempts to flee!
+*an Elf* flees head over heels!
+*an Elf* is leaving east, riding on a white horse.
+Razniskh chats 'dwa wounded, come'
+Old Forest Road Exits are: E W
+The spirit of an old man rambles mournfully beside the road. (shadow)
+*a Dwarf* is riding on a mule.
+A stout little mule with droopy eyes stands here.
+*an Elf* is riding on a white horse.
+A white horse is here, gleaming in valiant beauty.
+A war orc is entering from the east, riding on a great black boar.
+w
+R HP:Scratched>Old Forest Road Exits are: E W
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is entering from the east, riding on a great black boar.
+w
+R HP:Scratched>
+Old Forest Road Exits are: E W
+A black warg enters from the east.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>
+Old Forest Road Bends Exits are: N E S W
+A black warg enters from the east.
+A war orc is entering from the east, riding on a great black boar.
+hunt
+R HP:Scratched>A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves west.
+Dark Forest Exits are: N E S W
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>
+l
+Dark Forest Exits are: N E S W
+A black warg enters from the east.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>Mirkwood Forest Exits are: N E S W
+A bird filts around looking for food.
+A black warg enters from the east.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>Ok, you'll try to notice fresh tracks.
+R HP:Scratched>
+Mirkwood Forest Exits are: N E S W
+A bird filts around looking for food.
+You are riding on a black warg.
+Bogle is riding on a black warg.
+Razniskh is riding on a grey warg.
+A dark warg stands here, its eyes glowing like a flame.
+A war orc is riding on a great black boar.
+Delve is riding on a great black boar.
+A dark warg stands here, its eyes glowing like a flame.
+The tracks of a black warg lead west. Their condition is fresh
+The tracks of a mule lead south. Their condition is very clear
+R HP:Scratched>
+s
+Barely Visible Road Exits are: N E S W
+The tracks of a mule lead south. Their condition is very clear
+A black warg enters from the north.
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+Delve says 'god dmanit'
+R HP:Scratched>
+A black warg panics, and attempts to flee!
+A black warg flees head over heels!
+A black warg leaves north.
+R HP:Scratched>Old Road Near a Black Tangle of Webs Exits are: N E S W
+The tracks of a mule lead south. Their condition is very clear
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+Razniskh drinks water from a water skin.
+R HP:Scratched>
+Razniskh drinks water from a water skin.
+Dark Road Through the Forest Exits are: N E S W
+A huge wolf stares at you intently.
+A huge wolf stares at you intently.
+The tracks of a mule lead south. Their condition is very clear
+The tracks of a mule lead south. Their condition is very clear
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+Narrow Road Through the Forest Exits are: N E S W
+A huge wolf stares at you intently.
+The tracks of a mule lead east. Their condition is very clear
+The tracks of a mule lead east. Their condition is very clear
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+e
+Razniskh eats a slice of lightly smoked human flesh.
+R HP:Scratched>
+Black Forest Exits are: N E S W
+The tracks of a mule lead north. Their condition is fresh
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the west, riding on a great black boar.
+R HP:Scratched>
+s
+Black Forest Exits are: N E S W
+The tracks of a mule lead east. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+e
+Black Forest Exits are: N S W
+A war orc is entering from the west, riding on a great black boar.
+R HP:Scratched>
+l
+Black Forest Exits are: N S W
+You are riding on a black warg.
+Bogle is riding on a black warg.
+Razniskh is riding on a grey warg.
+A war orc is riding on a great black boar.
+Delve is riding on a great black boar.
+A dark warg stands here, its eyes glowing like a flame.
+The tracks of a mule lead south. Their condition is fresh
+R HP:Scratched>
+s
+Delve says 'you can't just run off like that with orcs in the groupo'
+R HP:Scratched>Black Forest Exits are: N E S W
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+stb
+s
+You are now employing berserk tactics.
+R HP:Scratched>The Carcass Exits are: N E S W
+A huge, black moth flutters loudly here.
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+Turning Road Exits are: N E S W
+A huge, black rat scurries about here with sly intentions.
+A black rabbit scurries about.
+A black vulture stands here, pecking at a bit of meat.
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+Delve issues an order.
+A war orc salutes Delve.
+s
+R HP:Scratched>
+Path in the Forest Exits are: N S
+A huge, black rat scurries about here with sly intentions.
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+Path by the Trees Exits are: N E S
+The tracks of a mule lead south. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+s
+The Shaded Path Bends Exits are: N E S W
+The tracks of a mule lead west. Their condition is fresh
+A war orc is entering from the north, riding on a great black boar.
+R HP:Scratched>
+w
+Bend In The Shaded Path Exits are: E S W
+The tracks of a mule lead west. Their condition is fresh
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>
+w
+At Some Blackened Trees Exits are: N E S W
+*a Dwarf* (busy) is riding on a mule.
+A black vulture stands here, pecking at a bit of meat.
+A war orc is entering from the east, riding on a great black boar.
+R HP:Scratched>
+*a Dwarf* utters a strange command, 'remove poison'
+z
+R HP:Scratched>
+*a Dwarf* says 'maybe haha'
+R HP:Scratched>Razniskh attacks *a Dwarf*!
+Razniskh cleaves *a Dwarf*'s left arm.
+You attack *a Dwarf*!
+Your opponent's bones crunch loudly.
+You deeply wound *a Dwarf*'s body with your smite.
+*a Dwarf* is dead! R.I.P.
+get coin cor
+Your spirit increases by 34.
+You receive your share of experience -- 3908 points.
+*a Dwarf* stops riding a mule.
+Your blood freezes as you hear Sobur's death cry.
+R HP:Scratched>
+Bogle says 'if you wanna get kills you do'
