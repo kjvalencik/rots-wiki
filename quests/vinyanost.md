@@ -6,6 +6,7 @@ center around mobiles found in Vinyanost.
 ## Table of Contents
 
 * [Buris the Drunk](#buris-the-drunk)
+* [Conrad](#conrad)
 * [The Foul Couple](#the-foul-couple)
 * [Heros](#heros)
 * [Lindia of Vinyanost](#lindia-of-vinyanost)
@@ -70,6 +71,75 @@ Go to [a lieutenant of the guard](#a-lieutenant-of-the-guard) in Vinyanost and
 
 * [a leather helmet](/items/armour.md#a-leather-helmet)
 * [a bastard sword](/items/weapons.md#a-bastard-sword)
+
+### Conrad
+
+Conrad is a collector of trinkets from all over middle-earth.
+
+> Conrad says 'You look like a seasoned traveller, you do!'\
+> Conrad says 'Seen it all, done it all, of course? Maybe made off with a few
+> unusual or exotic items in the process?'\
+> Conrad says 'Why, I'm sure I could show you a fair price for such trinkets, I
+> could!'\
+> Conrad says 'Maybe even throw in an unusual bauble of my own?'
+
+#### Location
+
+Conrad can be found in a settlement northwest of Vinyanost.
+
+<details><summary>**Show Details**</summary>
+
+1. `Central Square of Vinyanost    Exits are: (N) E S W`
+1. `knock heavygate`
+1. `n`
+1. `n;n;n;n;n;w;w;w;w;n;n;n;n;n;w`
+1. `give [item] conrad`
+
+</details>
+
+#### Items
+
+Conrad exchanges a few items. For each item, he may give gold or perhaps
+another item.
+
+<details><summary>**Show Details for Exchages**</summary>
+
+| Trade                | Receive              | Probability |
+| -------------------- | -------------------- | ----------- |
+| dragon's eye         | moose bladder        | 36%         |
+|                      | marble ring          | 15%         |
+|                      | emerald robe         | 10%         |
+|                      | etched bracer        | 10%         |
+|                      | coating of war paint | 10%         |
+|                      | motley cloak         | 5%          |
+|                      | fine, silver shield  | 5%          |
+|                      | ebony wand           | 5%          |
+|                      | shiny sleeves        | 4%          |
+| dark black shield    | wicked black knife   | 20%         |
+|                      | gold                 | 80%         |
+| elven dress          | light sandals        | 40%         |
+|                      | pile of coin         | 60%         |
+| spider's eye         | ivory ring           | 25%         |
+|                      | five gold            | 75%         |
+| shadowy blade        | dragon dagger        | 40%         |
+|                      | pile of coins        | 60%         |
+| loose, dark cowl     | antlers              | 33%         |
+|                      | gold                 | 67%         |
+| long, dark snakeskin | thin, silver chain   | 50%         |
+|                      | gold                 | 50%         |
+| sapphire ring        | stone ring           | 25%         |
+|                      | gold                 | 75%         |
+| stone ring           | dark, hooded cloak   | 15%         |
+|                      | gold                 | 85%         |
+| glass phial          | gold bracelet        | 33%         |
+|                      | gold                 | 67%         |
+
+</details>
+
+#### Bug
+
+When Conrad gives you coins it ends up in your inventory instead of your wallet.
+Type `drop gold` then `get gold` to fix.
 
 ### The Foul Couple
 
